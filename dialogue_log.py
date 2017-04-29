@@ -1,7 +1,7 @@
 import json
 import codecs
 import random
-#list2 includes set of strategies for each topic
+#list2 includes list of files of strategies for each topic
 file = open("list2.txt", 'r') 
 strategies_dict = {}
 for line in file: 
