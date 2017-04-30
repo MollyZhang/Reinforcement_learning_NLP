@@ -1,0 +1,21 @@
+Bot_question_17:10:26:Do you want to ride a dragon?
+molly_None_17:11:14:Of course
+Bot_random_17:11:14:hmmm
+molly_None_17:11:20:what are you thinking?
+Bot_random_17:11:20:Really?
+molly_None_17:11:28:I aske question
+Bot_relatedTopic_17:11:28:When do you think the Winds of Winter is going to come out?
+molly_None_17:12:14:I hope soon
+Bot_question_17:12:14:What's your favorite Character?
+molly_None_17:12:20:Jon SNOW!!!
+Bot_random_17:12:20:I am glad to hear that.
+molly_None_17:12:23:haha
+Bot_question_17:12:23:Have you watched the movie?
+molly_None_17:12:47:yeah 
+Bot_random_17:12:47:Really?
+molly_None_17:12:53:yep
+Bot_random_17:12:53:Awesome
+molly_None_17:12:55:haha
+Bot_random_17:12:55:Cool
+molly_None_17:12:58:indeed
+evaluation=3
