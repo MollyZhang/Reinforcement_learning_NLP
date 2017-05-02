@@ -1,21 +1,21 @@
-Bot_relatedTopic_00:53:46:Do we have a soul?
-Nehal_None_00:54:05:Yes
-Bot_question_00:54:05:What's your favorite weapon?
-Nehal_None_00:54:28:Gryffindor sword
-Bot_random_00:54:28:I am glad to hear that.
-Nehal_None_00:54:32:nice
-Bot_question_00:54:32:What plot would you want to happen differently?
-Nehal_None_00:54:40:Snapes death
-Bot_random_00:54:40:huh?
-Nehal_None_00:54:44:ya
-Bot_relatedTopic_00:54:44:What is true strength?
-Nehal_None_00:54:49:wisdom
-Bot_opinion_00:54:49:Even the smallest person can change the course of the future.
-Nehal_None_00:54:59:tyrion
-Bot_relatedTopic_00:54:59:What one piece of advice would you offer to a person who have never seen this?
-Nehal_None_00:55:28:Hola
-Bot_relatedTopic_00:55:28:Have you read lord of the rings?
-Nehal_None_00:55:31:no
-Bot_opinion_00:55:31:OMG, I cried so much.
-Nehal_None_00:55:38:oh,have you
-evaluation=3
+Bot_question_14:04:43:Which house do you wanted to be in?
+Nehal_None_14:05:18:Stark
+Bot_question_14:05:18:What's your favorite weapon?
+Nehal_None_14:05:25:Diadem
+Bot_relatedTopic_14:05:25:Have you read lord of the rings?
+Nehal_None_14:05:27:no
+Bot_question_14:05:27:If you can do any magic, what would that be?
+Nehal_None_14:05:44:wingardium leviosa
+Bot_random_14:05:44:Cool
+Nehal_None_14:06:08:um?
+Bot_relatedTopic_14:06:08:Let's talk about Harry Potters!
+Nehal_None_14:06:16:we are talking arent we?
+Bot_opinion_14:06:16:Hilarious
+Nehal_None_14:06:26:ya
+Bot_question_14:06:26:If you can do any magic, what would that be?
+Nehal_None_14:06:32:i just said
+Bot_opinion_14:06:32:Very sad.
+Nehal_None_14:06:37:what?
+Bot_relatedTopic_14:06:37:What makes a good friend?
+Nehal_None_14:06:44:trust
+evaluation=2
