@@ -1,0 +1,21 @@
+Bot_relatedTopic_00:53:46:Do we have a soul?
+Nehal_None_00:54:05:Yes
+Bot_question_00:54:05:What's your favorite weapon?
+Nehal_None_00:54:28:Gryffindor sword
+Bot_random_00:54:28:I am glad to hear that.
+Nehal_None_00:54:32:nice
+Bot_question_00:54:32:What plot would you want to happen differently?
+Nehal_None_00:54:40:Snapes death
+Bot_random_00:54:40:huh?
+Nehal_None_00:54:44:ya
+Bot_relatedTopic_00:54:44:What is true strength?
+Nehal_None_00:54:49:wisdom
+Bot_opinion_00:54:49:Even the smallest person can change the course of the future.
+Nehal_None_00:54:59:tyrion
+Bot_relatedTopic_00:54:59:What one piece of advice would you offer to a person who have never seen this?
+Nehal_None_00:55:28:Hola
+Bot_relatedTopic_00:55:28:Have you read lord of the rings?
+Nehal_None_00:55:31:no
+Bot_opinion_00:55:31:OMG, I cried so much.
+Nehal_None_00:55:38:oh,have you
+evaluation=3
