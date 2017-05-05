@@ -1,0 +1,21 @@
+Bot_affirmative_16:40:14:You are funny
+molly_None_16:40:19:Thank you, but why?
+Bot_negative_16:40:19:I don't believe you.
+molly_None_16:40:23:oh
+Bot_affirmative_16:40:23:Well, yeah
+molly_None_16:40:33:gosh you are bad
+Bot_question_16:40:33:Do you want to ride a dragon?
+molly_None_16:40:40:Of course, who doesn't?
+Bot_neutral_16:40:40:LOL
+molly_None_16:40:44:It's not funny
+Bot_opinion_16:40:44:Any man who must say 'I am the king' is no true king.
+molly_None_16:40:52:that could be true
+Bot_question_16:40:52:What's your biggest surprise?
+molly_None_16:41:12:red wedding for sure
+Bot_negative_16:41:12:Oh no that's horrible.
+molly_None_16:41:15:I know
+Bot_neutral_16:41:15:I need to meditate on that
+molly_None_16:41:29:okay but why?
+Bot_question_16:41:29:What don't you like about Game of Throne's storyline?
+molly_None_16:41:38:It moves too slowly!
+overall=0,start=0,interupt=1,engaing=1,return=1,

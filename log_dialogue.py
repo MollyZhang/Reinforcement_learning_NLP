@@ -5,14 +5,19 @@ import glob
 import random
 import os
 
-N_TURN = 3 
+N_TURN = 10 
 DATA_PATH = "./data/300_convo/"
 
 
 def main():
+    record_convo()
+    while input("Do you want to record another conversation? (Yes/No)") in ["Y", "y", "yes", "Yes", "YES"]:
+        record_convo()
+        
+
+def record_convo():
     # load strategies from pickle
     strats = pickle.load(open("strategies.pkl", "rb"))
-
     try:
         # create file
         name = input("Before we start: what's your name?\n")
@@ -25,13 +30,15 @@ def main():
         print("----------------------------Here it gones--------------------------------")
         for turn in range(N_TURN):
             strategy = random.choice(list(strats.keys()))
-            log("Bot", random.choice(strats[strategy]), strategy, f)
+            utterance = random.choice(strats[strategy])
+            log("Bot", utterance, strategy, f)
             log(name, input(name + ": "), "None", f)
+            strats[strategy].remove(utterance)
 
         # evaluation and wrap up
         scores = get_evaluation()
         for score_type, score_value in scores.items():
-            f.write("{0}={1}".format(score_type, score_value))
+            f.write("{0}={1},".format(score_type, score_value))
         f.close()
         print("Done!")
     
@@ -44,9 +51,11 @@ def main():
 
 def get_evaluation():
     scores = {}
+    print("-----------------------------The end-------------------------------------")
     questions = {"overall": "How is the conveseration overall? (0 is aweful, 5 is amazing)\n",
+                 "start": "How is the begining of the converstaion? (0: weird and out of context, 5: natural)\n",
                  "interupt": "How is the continuity of the conversation? (0: you get interupted too much, 5: very fluid and coherent)\n",
-                 "engaing": "How engaging or interesting is the conversation? (0 is boring, 5 is very engaging)\n",
+                 "engaing": "How engaging or interesting is the conversation? (0 is boring, 5 is very interesting)\n",
                  "return": "Would you like to talk to this bot again? (0 is not at all, 5 is definitely)\n"}
     for score_type in questions.keys():
         score = input(questions[score_type])

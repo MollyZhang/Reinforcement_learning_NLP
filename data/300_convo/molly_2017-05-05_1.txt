@@ -1,0 +1,21 @@
+Bot_affirmative_16:36:39:Yep!
+molly_None_16:36:44:what's so happy/
+Bot_question_16:36:44:What one piece of advice would you offer to a person who have never seen the show?
+molly_None_16:36:52:watch it!
+Bot_negative_16:36:52:Oh no that's horrible.
+molly_None_16:36:56:why?
+Bot_opinion_16:36:56:Hodor
+molly_None_16:37:08:haha are you pretending to be dumb?
+Bot_affirmative_16:37:08:Awesome
+molly_None_16:37:14:hmmm
+Bot_neutral_16:37:14:I need to meditate on that
+molly_None_16:37:22:okay
+Bot_neutral_16:37:22:hmmm, that's interesting.
+molly_None_16:37:28:that's not though
+Bot_negative_16:37:28:I disagree.
+molly_None_16:37:35:Why do you disagree?
+Bot_negative_16:37:35:Nah, it's not true.
+molly_None_16:37:51:What's not true?
+Bot_question_16:37:51:What plot would you want to happen differently?
+molly_None_16:38:02:I don't want Catlyn to die
+overall=0,start=0,interupt=1,engaing=0,return=0,

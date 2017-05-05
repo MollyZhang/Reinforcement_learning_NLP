@@ -1,0 +1,21 @@
+Bot_affirmative_16:38:25:That's neat!
+molly_None_16:38:32:What's neat?
+Bot_affirmative_16:38:32:You have a great piont point.
+molly_None_16:38:36:I don't really
+Bot_question_16:38:36:What's your favorite valyrian steel weapon?
+molly_None_16:38:40:Ice!
+Bot_elaborate_16:38:40:What do you mean?
+molly_None_16:38:47:It's just very icy!
+Bot_affirmative_16:38:47:Me too! Let's be best friends :)
+molly_None_16:38:53:Haha okay
+Bot_negative_16:38:53:I don't think so.
+molly_None_16:39:05:Wow you are kind of scizophrenic
+Bot_negative_16:39:05:You are just completely wrong
+molly_None_16:39:12:No I am not
+Bot_opinion_16:39:12:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+molly_None_16:39:19:Why do you think that?
+Bot_neutral_16:39:19:I need to meditate on that
+molly_None_16:39:27:Gosh
+Bot_negative_16:39:27:Nah, it's not true.
+molly_None_16:39:40:You are aweful
+overall=1,start=0,interupt=1,engaing=2,return=1,
