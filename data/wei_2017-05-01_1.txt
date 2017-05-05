@@ -1,0 +1,21 @@
+Bot_random_22:21:53:Definitely
+Wei_None_22:21:59:what?
+Bot_relatedTopic_22:21:59:What makes a good friend?
+Wei_None_22:22:23:mutual hobbies
+Bot_opinion_22:22:23:OMG, I cried so much.
+Wei_None_22:22:32:take it easy
+Bot_random_22:22:32:I don't understand that.
+Wei_None_22:22:59:okay, do you have any friend?
+Bot_relatedTopic_22:22:59:What else fantasy books have you read?
+Wei_None_22:23:21:some Chinese books
+Bot_random_22:23:21:Awesome
+Wei_None_22:24:32:I prefer to watch movie
+Bot_relatedTopic_22:24:32:What else fantasy books have you read?
+Wei_None_22:24:44:why do you ask twice?
+Bot_relatedTopic_22:24:44:What's good and what's evil?
+Wei_None_22:25:02:repeating questions is evil?
+Bot_question_22:25:02:What's your biggest surprise?
+Wei_None_22:25:17:you finally ask a new question?
+Bot_question_22:25:17:Have you watched the movie?
+Wei_None_22:25:24:which one?
+evaluation=1

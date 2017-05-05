@@ -1,0 +1,21 @@
+Bot_neutral_22:21:53: Well okay
+Wei_None_22:21:59: okay, what is you favorite character in the TV Series.
+Bot_question_22:21:59: Have you watched the TV show?
+Wei_None_22:22:23: yes, it’s amazing.
+Bot_affirmative_22:22:23: Well, yeah
+Wei_None_22:22:32: I first read the books, then go for the TV shows.
+Bot_opinion_22:22:32: Do you like House of Cards?
+Wei_None_22:22:59: I heard that it’s great, but I haven’t got a chance to watch it.
+Bot_question_22:22:59: What don't you like about the storyline?
+Wei_None_22:23:21: some families in the story.   
+Bot_elaborate_22:23:21: Huh?
+Wei_None_22:24:32: I don’t like families that have no loyalty and kills.
+Bot_negative_22:24:32: I don't believe you 
+Wei_None_22:24:44: Do you really believe in someone?
+Bot_Affirmative_22:24:44: Brilliant!
+Wei_None_22:25:02: I think you said something irrelevant. 
+Bot_opinion_22:25:02: All dwarfs may be bastards yet not all bastards are dwarfs. 
+Wei_None_22:25:17: Do you like Tyrion?
+Bot_neutral_22:25:17: Well Okay.
+Wei_None_22:25:24: The story has many complicated lines.
+evaluation=bad

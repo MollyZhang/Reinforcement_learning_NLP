@@ -1,0 +1,21 @@
+Bot_opinion_22:21:53: I finished reading the books in 10 seconds because I am a computer.
+Wei_None_22:21:59: Do you really enjoy it?
+Bot_question_22:21:59: Do you want to ride a dragon?
+Wei_None_22:22:23: Yes I do, how about you?
+Bot_neutral_22:22:23: Really?
+Wei_None_22:22:32: What’s that?
+Bot_affirmative_22:22:32: You are funny. 
+Wei_None_22:22:59: you are kidding, right?
+Bot_question_22:22:59: What is true happiness?
+Wei_None_22:23:21: for me, true happiness is a healthy family.   
+Bot_opinion_22:23:21: Any man who must say 'I am the king' is no true king.
+Wei_None_22:24:32: then who could be a true king?
+Bot_negative_22:24:32: but you are just completely wrong. 
+Wei_None_22:24:44: what is wrong?
+Bot_elaborate_22:24:44: Why?
+Wei_None_22:25:02: I don’t understand that. 
+Bot_affirmative_22:25:02: I am glad to hear that.
+Wei_None_22:25:17: I didn’t say anything.
+Bot_question_22:25:17: If you could choose just one thing to change about the world, what would it be?
+Wei_None_22:25:24: education. 
+evaluation=bad

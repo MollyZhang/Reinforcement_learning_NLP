@@ -1,0 +1,21 @@
+Bot_question_22:21:53:If you could choose just one thing to change about the world, what would it be?
+Wei_None_22:21:59: books
+Bot_affirmative_22:21:59: I am glad to hear that.
+Wei_None_22:22:23: I like books, and books would cover all kinds of knowledge.
+Bot_question_22:22:23: Have you watched other shows from HBO?
+Wei_None_22:22:32: I don’t think so.
+Bot_question_22:22:32: What's your favorite Character?
+Wei_None_22:22:59: Aya Stark
+Bot_elaborate_22:22:59: please go on, I am intrigued
+Wei_None_22:23:21: I think she is really brave and strong.   
+Bot_affirmative_22:23:21: I know what you mean
+Wei_None_22:24:32: Do you think all of those three dragons will survive at the end?  
+Bot_opinion_22:24:32: Dracarys
+Wei_None_22:24:44: OK,I like all of those dragons. 
+Bot_question_22:24:44: What's your biggest surprise?
+Wei_None_22:25:02: I thought they will never eat human.
+Bot_neutral_22:25:02: Really?
+Wei_None_22:25:17: yes, because they are trained when they are little, should only eat meat, not human.
+Bot_negative_22:25:17: Nah, it's not true
+Wei_None_22:25:24: Okay.
+evaluation=good

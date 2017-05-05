@@ -1,0 +1,21 @@
+Bot_question_22:21:53:What plot would you want to happen differently?
+Wei_None_22:21:59: I have no idea.
+Bot_question_22:21:59: What is true happiness?
+Wei_None_22:22:23: well, this question is even harder.
+Bot_opinion_22:22:23: Fear cuts deeper than swords.
+Wei_None_22:22:32: I have no fear.
+Bot_elaborate_22:22:32: What do you mean?
+Wei_None_22:22:59: I just don’t want to answer complicated questions.
+Bot_question_22:22:59: What other fantasy books have you read?
+Wei_None_22:23:21: Harry Porter   
+Bot_affirmative_22:23:21: Me too! Let's be best friends
+Wei_None_22:24:32: Okay, best friend.
+Bot_opinion_22:24:32: Any man who must say 'I am the king' is no true king.  
+Wei_None_22:24:44: I agree with you.
+Bot_question_22:24:44: If you can kill any character, who would that be? 
+Wei_None_22:25:02: I probably will kill the man besides the evil. 
+Bot_question_22:25:02: What's good and what's evil? 
+Wei_None_22:25:17: if you keep asking questions, then we are not best friends from now on.
+Bot_neutral_22:25:17: Well okay
+Wei_None_22:25:24: It’s nice to talk to you.
+evaluation=good

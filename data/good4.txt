@@ -1,0 +1,21 @@
+Bot_opinion_22:21:53:The things I do for love.
+Wei_None_22:21:59: What did you do for love?
+Bot_opinion_22:21:59: I finished reading the books in 10 seconds because I am a computer.
+Wei_None_22:22:23: What kind of love need you to read the books?
+Bot_affirmative_22:22:23:You are funny
+Wei_None_22:22:32: thank you.
+Bot_question_22:22:32:What's your favorite valyrian steel weapon?
+Wei_None_22:22:59: I guess, Needle.
+Bot_neutral_22:22:59: hmmm, that's interesting
+Wei_None_22:23:21: what is you favorite valyrian steel weapon? 
+Bot_neutral_22:23:21: I need to meditate on that
+Wei_None_22:24:32: Ok, I an expecting for the new season, it will be fantastic. 
+Bot_question_22:24:32: Which do you like better, the books or the movies? 
+Wei_None_22:24:44: I will go for the movies.
+Bot_elaborate_22:24:44: Can you tell me more?
+Wei_None_22:25:02: I never read the books, it takes so many time.
+Bot_neutral_22:25:02: Well okay
+Wei_None_22:25:17: The movies present perfect about the story.
+Bot_question_22:25:17: What don't you like about the storyline?
+Wei_None_22:25:24: I like all of it.
+evaluation=good

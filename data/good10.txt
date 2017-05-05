@@ -1,0 +1,21 @@
+Bot_opinion_22:21:53: The things I do for love.
+Wei_None_22:21:59: So do you think there is true love between Cerci and her brother?
+Bot_elaborate_22:21:59: What do you mean?
+Wei_None_22:22:23: I think Cerci only love herself.
+Bot_question_22:22:23: What don't you like about the storyline?
+Wei_None_22:22:32: I can’t think of any.
+Bot_opinion_22:22:32: Nothing isn't better or worse than anything. Nothing is just nothing.
+Wei_None_22:22:59: I love this quote.
+Bot_question_22:22:59: Have you watched other shows from HBO?
+Wei_None_22:23:21: Nope, I don’t have too much time watching TV shows.   
+Bot_question_22:23:21: Is there any character that you want to date?
+Wei_None_22:24:32: I wish I could date the actress who play the mother of dragon.  
+Bot_affirmative_22:24:32: This is the best thing I have seen in a long time. 
+Wei_None_22:24:44: Yes, she is adorable.  
+Bot_neutral_22:24:44: Well okay. 
+Wei_None_22:25:02: will the dragons have babies in the next season? 
+Bot_negative_22:25:02: Nope 
+Wei_None_22:25:17: So where does the dragon eggs come from in the first season? 
+Bot_affirmative_22:25:17: You are so smart! 
+Wei_None_22:25:24: Thanks. 
+evaluation=good

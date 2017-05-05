@@ -1,0 +1,21 @@
+Bot_question_22:21:53:Have you watched the TV show?
+Wei_None_22:21:59:Yes, all of them. And I am expecting the new season.
+Bot_opinion_22:21:59:Winter is coming.
+Wei_None_22:22:23: yeah, I think the big war is also coming.
+Bot_question_22:22:23:If you can kill any character, who would that be?
+Wei_None_22:22:32:I wish I can kill the evil queen.
+Bot_opinion_22:22:32: hmmm, that's interesting
+Wei_None_22:22:59: But without her, don’t you think the story will be dull?
+Bot_affirmative_22:22:59:I agree with you on that
+Wei_None_22:23:21: thanks, I think I like the dwarf more than his handsome brother.  
+Bot_elaborate_22:23:21:Can you tell me more?
+Wei_None_22:24:32: I just think he has real humanity. 
+Bot_question_22:24:32: Which season in the series do you like the most?
+Wei_None_22:24:44: I like the most recent season, because I might already forget what happened in the previous seasons.
+Bot_question_22:24:44:How long does it take for you to read all the books?
+Wei_None_22:25:02: more than 3 years.
+Bot_question_22:25:02:Which house do you wanted to be in?
+Wei_None_22:25:17: I wish I could be in the Stark House.
+Bot_affirmative_22:25:17:Me too! Let's be best friends
+Wei_None_22:25:24: You are just a bot…..
+evaluation=good

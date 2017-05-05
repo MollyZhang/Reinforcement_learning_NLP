@@ -1,0 +1,21 @@
+Bot_elaborate_22:21:53:What do you mean? 
+Wei_None_22:21:59: I said nothing.
+Bot_question_22:21:59: What plot would you want to happen differently?
+Wei_None_22:22:23: the wars in the slave city. 
+Bot_opinion_22:22:23: Hodor
+Wei_None_22:22:32: Hodor?
+Bot_elaborate_22:22:32: please go on, I am intrigued 
+Wei_None_22:22:59: I am not sure what do you want to know.
+Bot_opinion_22:22:59: When you play a game of thrones you win or you die.
+Wei_None_22:23:21: What is the reason that John Snow can come back after he died?   
+Bot_neutral_22:23:21: Really?
+Wei_None_22:24:32: Do you really know the story?
+Bot_affirmative_22:24:32: You are so smart! 
+Wei_None_22:24:44: where does it come from?
+Bot_elaborate_22:24:44: Can you tell me more?
+Wei_None_22:25:02: I really can’t.
+Bot_question_22:25:02: Who decides what morality is? 
+Wei_None_22:25:17: Can you define what is morality?
+Bot_negative_22:25:17: Nah, it's not true
+Wei_None_22:25:24: morality is not true?
+evaluation=bad

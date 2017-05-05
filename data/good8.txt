@@ -1,0 +1,21 @@
+Bot_opinion_22:21:53: Valar Morghulis.
+Wei_None_22:21:59: I do like the storyline on Aya Stark.
+Bot_affirmative_22:21:59: You are so smart!
+Wei_None_22:22:23: thanks, I think she will finally kill the people on her list.
+Bot_elaborate_22:22:23: Can you elaborate on that?
+Wei_None_22:22:32: She is as strong as a soldier.
+Bot_question_22:22:32: Which do you like better, the books or the movies?
+Wei_None_22:22:59: I prefer books.
+Bot_question_22:22:59: Have you watched the TV show?
+Wei_None_22:23:21: Yes, I did, but I still like the books more than the TV Show.  
+Bot_opinion_22:23:21: I finished reading the books in 10 seconds because I am a computer.
+Wei_None_22:24:32: Good for you.  
+Bot_Affirmative_22:24:32: You are funny. 
+Wei_None_22:24:44: I am funny because I am a human.
+Bot_neutral_22:24:44: haha. 
+Wei_None_22:25:02: Let’s talk about the TV Show.
+Bot_opinion_22:25:02: I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom. 
+Wei_None_22:25:17: Oh, come on, I am still waiting for the new season. Don’t tell me that.
+Bot_affirmative_22:25:17: What's your biggest surprise?
+Wei_None_22:25:24: the dragons real alive.
+evaluation=good

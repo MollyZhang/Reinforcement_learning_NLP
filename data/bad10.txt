@@ -1,0 +1,21 @@
+Bot_opinion_22:21:53: Dracarys
+Wei_None_22:21:59: Do you know what does it mean?
+Bot_negative_22:21:59: I disagree
+Wei_None_22:22:23: why?
+Bot_neutral_22:22:23: hmm, that’s interesting.
+Wei_None_22:22:32: alright, it’s a different language
+Bot_question_22:22:32: Which do you like better, the books or the movies?
+Wei_None_22:22:59: I like the books more than the movies.
+Bot_neutral_22:22:59: I need to meditate on that
+Wei_None_22:23:21: multiple language is a big plus for unite the seven kingdoms.   
+Bot_negative_22:23:21: Nah, it's not true
+Wei_None_22:24:32: what do you think?
+Bot_negative_22:24:32: I don’t believe 
+Wei_None_22:24:44: How can I make you believe?
+Bot_question_22:24:44: What's your favorite valyrian steel weapon?
+Wei_None_22:25:02: I don’t have one.
+Bot_opinion_22:25:02: Valar Morghulis 
+Wei_None_22:25:17: I like the no one.
+Bot_question_22:25:17: What's good and what's evil?
+Wei_None_22:25:24: good and evil are relative.
+evaluation=bad

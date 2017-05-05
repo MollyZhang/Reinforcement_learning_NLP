@@ -1,0 +1,21 @@
+Bot_question_22:21:53: Do you like House of Cards?
+Wei_None_22:21:59: Yes, I do, but shouldn’t we talk about game of thrones?
+Bot_question_22:21:59: If you can kill any character, who would that be?
+Wei_None_22:22:23: Cerci’s first son.
+Bot_affirmative_22:22:23:That's hilarious 
+Wei_None_22:22:32: pardon?
+Bot_negative_22:22:32: I beg to differ.
+Wei_None_22:22:59: I am totally lost.
+Bot_question_22:22:59: What's your favorite valyrian steel weapon?
+Wei_None_22:23:21: Needle   
+Bot_neutral_22:23:21:LOL 
+Wei_None_22:24:32: Do you have any specific likes about it?
+Bot_negative_22:24:32: Nah, it's not true
+Wei_None_22:24:44: would you please answer my question?
+Bot_elaborate_22:24:44: What do you mean?
+Wei_None_22:25:02: okay, forget about it.
+Bot_question_22:25:02: Which house do you wanted to be in? 
+Wei_None_22:25:17: The Stark family.
+Bot_negative_22:25:17: I don't believe you
+Wei_None_22:25:24: you don’t have to.
+evaluation=bad
