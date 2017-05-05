@@ -5,7 +5,9 @@ import glob
 import random
 import os
 
-N_TURN = 10
+N_TURN = 3 
+DATA_PATH = "./data/300_convo/"
+
 
 def main():
     # load strategies from pickle
@@ -13,27 +15,23 @@ def main():
 
     try:
         # create file
-        name = input("Before we start: what's your name? (Molly, Wei or Nehal)?\n")
+        name = input("Before we start: what's your name?\n")
         date = str(datetime.datetime.today().date())
         convo_num = get_convo_num(name)
-        filename = "./data/{0}_{1}_{2}.txt".format(name.lower(), date, convo_num) 
+        filename = DATA_PATH + "{0}_{1}_{2}.txt".format(name.lower(), date, convo_num) 
         f = open(filename, "w")
-    
+        
         # record converstaion
-        strategy = random.choice(list(strats.keys()))
-        print("--------------------here it gones--------------------------------")
-        log("Bot", random.choice(strats[strategy]), strategy, f)
-        for turn in range(N_TURN-1):
-            log(name, input(name + ": "), "None", f)
+        print("----------------------------Here it gones--------------------------------")
+        for turn in range(N_TURN):
             strategy = random.choice(list(strats.keys()))
             log("Bot", random.choice(strats[strategy]), strategy, f)
-        log(name, input(name + ": "), "None", f)
+            log(name, input(name + ": "), "None", f)
 
         # evaluation and wrap up
-        score = input("\nHow is the conveseration? (number between 0 to 5) ")
-        while ord(score) < ord("0") or ord(score) > ord("5"):
-            score = input("Type a integer in [0,1,2,3,4,5], otherwise I will keep asking")
-        f.write("evaluation={0}".format(score))
+        scores = get_evaluation()
+        for score_type, score_value in scores.items():
+            f.write("{0}={1}".format(score_type, score_value))
         f.close()
         print("Done!")
     
@@ -44,9 +42,23 @@ def main():
         raise    
 
 
+def get_evaluation():
+    scores = {}
+    questions = {"overall": "How is the conveseration overall? (0 is aweful, 5 is amazing)\n",
+                 "interupt": "How is the continuity of the conversation? (0: you get interupted too much, 5: very fluid and coherent)\n",
+                 "engaing": "How engaging or interesting is the conversation? (0 is boring, 5 is very engaging)\n",
+                 "return": "Would you like to talk to this bot again? (0 is not at all, 5 is definitely)\n"}
+    for score_type in questions.keys():
+        score = input(questions[score_type])
+        while len(score) > 1 or ord(score) < ord("0") or ord(score) > ord("5"):
+            score = input("Type a integer between [0,5], otherwise I will keep asking")
+        scores[score_type] = score
+    return scores
+
+
 def get_convo_num(name):
     try:
-        files = glob.glob("./data/{0}_*".format(name))
+        files = glob.glob(DATA_PATH + name.lower() + "_*")
         existing_nums = list(map(int, [i[:-4].split("_")[-1] for i in files]))
         return max(existing_nums) + 1
     except ValueError:
