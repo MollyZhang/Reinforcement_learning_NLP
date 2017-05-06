@@ -1,0 +1,21 @@
+Bot_opinion_16:55:38:Fear cuts deeper than swords.
+molly_None_16:55:47:Yep that's right
+Bot_negative_16:55:47:I don't think so.
+molly_None_16:55:52:you don't?
+Bot_question_16:55:52:Which house do you wanted to be in?
+molly_None_16:56:12:House Tyrell because it's all flower and summery!
+Bot_affirmative_16:56:12:Well, yeah
+molly_None_16:56:20:Thanks for agreeing with me
+Bot_neutral_16:56:20:Really?
+molly_None_16:56:27:Why are you surprised?
+Bot_opinion_16:56:27:Valar Morghulis
+molly_None_16:56:33:Valar doheris
+Bot_affirmative_16:56:33:wow, that's amazing
+molly_None_16:56:36:Thank you
+Bot_question_16:56:36:What other fantasy books have you read?
+molly_None_16:56:47:I like reading all sorts of sci-fi
+Bot_negative_16:56:47:I beg to differ.
+molly_None_16:57:06:What? why? that doesn't make sense
+Bot_opinion_16:57:06:I finished reading the books in 10 seconds because I am a computer.
+molly_None_16:57:13:haha touche!
+overall=2,start=4,interupt=2,engaing=2,return=3,

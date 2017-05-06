@@ -5,13 +5,13 @@ import glob
 import random
 import os
 
-N_TURN = 10 
+N_TURN = random.choice(range(5,11)) 
 DATA_PATH = "./data/300_convo/"
 
 
 def main():
     record_convo()
-    while input("Do you want to record another conversation? (Yes/No)") in ["Y", "y", "yes", "Yes", "YES"]:
+    while input("Do you want to record another conversation? (Y/N)").lower() == "y":
         record_convo()
         
 
@@ -34,6 +34,7 @@ def record_convo():
             log("Bot", utterance, strategy, f)
             log(name, input(name + ": "), "None", f)
             strats[strategy].remove(utterance)
+        print("-----------------------------The end-------------------------------------")
 
         # evaluation and wrap up
         scores = get_evaluation()
@@ -42,16 +43,13 @@ def record_convo():
         f.close()
         print("Done!")
     
-    except KeyboardInterrupt:
-        os.remove(filename)
-        print("key board interupted, nothing is recorded")
     except:
+        os.remove(filename)
         raise    
 
 
 def get_evaluation():
     scores = {}
-    print("-----------------------------The end-------------------------------------")
     questions = {"overall": "How is the conveseration overall? (0 is aweful, 5 is amazing)\n",
                  "start": "How is the begining of the converstaion? (0: weird and out of context, 5: natural)\n",
                  "interupt": "How is the continuity of the conversation? (0: you get interupted too much, 5: very fluid and coherent)\n",

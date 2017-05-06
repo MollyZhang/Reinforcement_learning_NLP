@@ -1,0 +1,13 @@
+Bot_question_17:02:58:What one piece of advice would you offer to a person who have never seen the show?
+molly_None_17:03:14:Go watch it!
+Bot_negative_17:03:14:You are just completely wrong
+molly_None_17:03:21:Haha you are weird
+Bot_question_17:03:21:Which season in the series do you like the most?
+molly_None_17:03:27:The most recent one
+Bot_negative_17:03:27:Nah, it's not true.
+molly_None_17:03:36:haha you are just not very friendly
+Bot_opinion_17:03:36:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+molly_None_17:03:42:why do you think that?
+Bot_negative_17:03:42:Oh no that's horrible.
+molly_None_17:03:45:....
+overall=0,start=5,interupt=1,engaing=1,return=2,
