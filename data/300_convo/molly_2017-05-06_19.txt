@@ -1,0 +1,21 @@
+Bot_elaborate_18:46:32:Why?
+molly_None_18:46:36:why what?
+Bot_affirmative_18:46:36:wow, that's amazing
+molly_None_18:46:39:it's not
+Bot_elaborate_18:46:39:Huh?
+molly_None_18:46:43:huh what?
+Bot_question_18:46:43:What don't you like about Game of Throne's storyline?
+molly_None_18:46:56:I am too mad at you to switch a topic now
+Bot_negative_18:46:56:Excuse me, that's not true.
+molly_None_18:47:06:what do you know about my level of madness
+Bot_elaborate_18:47:06:please go on, I am intrigued
+molly_None_18:47:19:I am mad at you because it's very difficult to have a good conversation by chance
+Bot_opinion_18:47:19:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+molly_None_18:47:27:no they are not
+Bot_elaborate_18:47:27:What do you mean?
+molly_None_18:47:33:one of them is going to die
+Bot_elaborate_18:47:33:How does that work?
+molly_None_18:47:45:maybe getting eaten by a dragon
+Bot_negative_18:47:45:I disagree.
+molly_None_18:47:49:sure
+overall=1,start=0,interupt=1,engaing=1,return=0,

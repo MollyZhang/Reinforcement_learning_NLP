@@ -1,0 +1,21 @@
+Bot_elaborate_18:43:11:Can you elaborate on that?
+molly_None_18:43:16:I didn't say anything
+Bot_neutral_18:43:16:Really?
+molly_None_18:43:18:Nope
+Bot_affirmative_18:43:18:Yep!
+molly_None_18:43:25:Nope nope
+Bot_affirmative_18:43:25:You are so smart!
+molly_None_18:43:31:I am not, you are dumb
+Bot_question_18:43:31:Which do you like better, the books or the movies?
+molly_None_18:43:34:books
+Bot_question_18:43:34:What is true happiness?
+molly_None_18:43:39:don't know
+Bot_elaborate_18:43:39:What?
+molly_None_18:43:45:I don't know 
+Bot_affirmative_18:43:45:Definitely.
+molly_None_18:43:50:okay
+Bot_opinion_18:43:50:I finished reading the books in 10 seconds because I am a computer.
+molly_None_18:43:55:good for you
+Bot_negative_18:43:55:Nope.
+molly_None_18:43:57:...
+overall=0,start=0,interupt=0,engaing=0,return=0,

@@ -1,0 +1,21 @@
+Bot_elaborate_18:45:38:Huh?
+molly_None_18:45:40:what
+Bot_negative_18:45:40:I beg to differ.
+molly_None_18:45:49:you don't 
+Bot_elaborate_18:45:49:please go on, I am intrigued
+molly_None_18:45:53:no you are not
+Bot_opinion_18:45:53:Winter is coming
+molly_None_18:45:58:it's not coming at all
+Bot_affirmative_18:45:58:I know what you mean
+molly_None_18:46:00:...
+Bot_affirmative_18:46:00:That's neat!
+molly_None_18:46:02:it's not
+Bot_question_18:46:02:Do you like House of Cards?
+molly_None_18:46:05:Yes
+Bot_elaborate_18:46:05:How does that work?
+molly_None_18:46:09:It just works
+Bot_neutral_18:46:09:I need to meditate on that
+molly_None_18:46:13:okay do it
+Bot_negative_18:46:13:Oh no that's horrible.
+molly_None_18:46:16:...
+overall=0,start=0,interupt=0,engaing=0,return=0,

@@ -1,0 +1,21 @@
+Bot_elaborate_18:44:19:Can you elaborate on that?
+molly_None_18:44:24:I didn't say anything
+Bot_elaborate_18:44:24:How does that work?
+molly_None_18:44:33:by not opening my mouth
+Bot_neutral_18:44:33:I need to meditate on that
+molly_None_18:44:41:I am sure it's very hard to contemplate
+Bot_negative_18:44:41:I beg to differ.
+molly_None_18:44:44:...
+Bot_opinion_18:44:44:Hodor
+molly_None_18:44:48:Hodor
+Bot_negative_18:44:48:You are just completely wrong
+molly_None_18:44:53:you are a mean bot
+Bot_question_18:44:53:What's good and what's evil?
+molly_None_18:45:05:I am good and you are evil
+Bot_question_18:45:05:Have you watched the TV show?
+molly_None_18:45:07:yep
+Bot_question_18:45:07:What's your favorite Character?
+molly_None_18:45:17:don't know, Jon SNOW!
+Bot_neutral_18:45:17:haha
+molly_None_18:45:19:why
+overall=0,start=0,interupt=1,engaing=0,return=0,

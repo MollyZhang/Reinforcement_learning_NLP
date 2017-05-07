@@ -1,0 +1,21 @@
+Bot_elaborate_18:40:57:Huh?
+molly_None_18:41:15:what huh? it really messes up when you start a conversation like that
+Bot_opinion_18:41:15:Winter is coming
+molly_None_18:41:17:it's not
+Bot_affirmative_18:41:17:Awesome
+molly_None_18:41:23:Not Awesome
+Bot_elaborate_18:41:23:please go on, I am intrigued
+molly_None_18:41:32:You are lying!!!
+Bot_question_18:41:32:What one piece of advice would you offer to a person who have never seen the show?
+molly_None_18:42:14:watch it
+Bot_elaborate_18:42:14:How does that work?
+molly_None_18:42:23:just go and watch the thing
+Bot_affirmative_18:42:23:I am glad to hear that.
+molly_None_18:42:39:I am glad you figure it out
+Bot_affirmative_18:42:39:That's hilarious!
+molly_None_18:42:42:lol thanks
+Bot_opinion_18:42:42:Can you be brave if you are afraid? That's the only time you can be brave
+molly_None_18:42:47:yep
+Bot_elaborate_18:42:47:What do you mean?
+molly_None_18:42:51:you are not wrong
+overall=2,start=0,interupt=2,engaing=0,return=1,
