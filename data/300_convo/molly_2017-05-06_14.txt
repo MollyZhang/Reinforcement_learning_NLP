@@ -1,0 +1,17 @@
+Bot_question_18:38:08:What other fantasy books have you read?
+Molly_None_18:38:16:Harry porter
+Bot_elaborate_18:38:16:Huh?
+Molly_None_18:38:26:yeah it's written by JK Rowling
+Bot_elaborate_18:38:26:You gotta tell me more.
+Molly_None_18:38:39:It's very interesting, and full of magic
+Bot_negative_18:38:39:Nah, it's not true.
+Molly_None_18:38:43:....
+Bot_affirmative_18:38:43:Brilliant!
+Molly_None_18:38:49:it's really annoying
+Bot_opinion_18:38:49:I finished reading the books in 10 seconds because I am a computer.
+Molly_None_18:39:03:you have no memory of what you have said earlier
+Bot_opinion_18:39:03:The things I do for love.
+Molly_None_18:39:11:you don't love me 
+Bot_elaborate_18:39:11:Why?
+Molly_None_18:39:19:because you don't have a memory
+overall=0,start=5,interupt=1,engaing=0,return=1,

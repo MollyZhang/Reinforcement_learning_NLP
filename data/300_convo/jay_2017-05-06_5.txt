@@ -1,0 +1,15 @@
+Bot_question_14:33:21:Do you like House of Cards?
+Jay_None_14:33:26:Season 1
+Bot_elaborate_14:33:26:How does that work?
+Jay_None_14:33:33:The rest were terrible
+Bot_question_14:33:33:If you can kill any character, who would that be?
+Jay_None_14:33:36:You
+Bot_question_14:33:36:What's your favorite Character?
+Jay_None_14:33:40:Me
+Bot_opinion_14:33:40:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+Jay_None_14:33:49:What's with the weird quotes
+Bot_affirmative_14:33:49:I am glad to hear that.
+Jay_None_14:33:54:Hear what?
+Bot_opinion_14:33:54:Fear cuts deeper than swords.
+Jay_None_14:33:59:This again?
+overall=0,start=0,interupt=0,engaing=0,return=0,

@@ -1,0 +1,11 @@
+Bot_negative_17:13:14:I don't believe you.
+molly_None_17:13:17:Why not?
+Bot_affirmative_17:13:17:Cool
+molly_None_17:13:23:....okay
+Bot_negative_17:13:23:Nope.
+molly_None_17:13:27:yeah you are bad
+Bot_neutral_17:13:27:I need to meditate on that
+molly_None_17:13:43:And not very self aware, but I forgive you
+Bot_affirmative_17:13:43:Me too! Let's be best friends :)
+molly_None_17:14:11:Okay I'd like to delvelop some schizophrenic friendship too!
+overall=1,start=0,interupt=1,engaing=0,return=1,

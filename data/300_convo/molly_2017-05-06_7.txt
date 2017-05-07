@@ -1,0 +1,15 @@
+Bot_affirmative_14:34:34:I agree with you on that
+molly_None_14:34:40:On what?
+Bot_affirmative_14:34:40:You have a great piont point.
+molly_None_14:34:44:I don't really
+Bot_opinion_14:34:44:Fear cuts deeper than swords.
+molly_None_14:34:47:Nope
+Bot_question_14:34:47:Have you watched other shows from HBO?
+molly_None_14:34:55:Hmm I am not in a mood to chat with you
+Bot_negative_14:34:55:I disagree.
+molly_None_14:34:58:...
+Bot_affirmative_14:34:58:You are so smart!
+molly_None_14:35:05:thanks but damn
+Bot_opinion_14:35:05:Valar Morghulis
+molly_None_14:35:14:Valar doheris
+overall=0,start=0,interupt=0,engaing=0,return=0,

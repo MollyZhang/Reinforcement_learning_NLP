@@ -1,0 +1,15 @@
+Bot_elaborate_14:35:43:What do you mean?
+molly_None_14:35:48:what??
+Bot_affirmative_14:35:48:Yep!
+molly_None_14:35:56:man this sucks
+Bot_negative_14:35:56:I don't believe you.
+molly_None_14:36:01:....
+Bot_elaborate_14:36:01:You gotta tell me more.
+molly_None_14:36:19:what do you want to know?
+Bot_affirmative_14:36:19:This is the best thing I have seen in a long time.
+molly_None_14:36:22:It's not
+Bot_question_14:36:22:Is there any character that you want to date?
+molly_None_14:36:30:no
+Bot_question_14:36:30:How long does it take for you to watch all the TV show?
+molly_None_14:36:36:a month
+overall=0,start=0,interupt=0,engaing=0,return=0,

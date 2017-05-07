@@ -1,0 +1,15 @@
+Bot_opinion_14:40:26:Fear cuts deeper than swords.
+molly_None_14:40:52:does it?
+Bot_negative_14:40:52:Oh no that's horrible.
+molly_None_14:40:55:...
+Bot_neutral_14:40:55:I need to meditate on that
+molly_None_14:40:59:okay do that
+Bot_negative_14:40:59:I don't believe you.
+molly_None_14:41:02:...
+Bot_elaborate_14:41:02:Why?
+molly_None_14:41:10:I have't said anythng
+Bot_affirmative_14:41:10:Well, yeah
+molly_None_14:41:16:no
+Bot_question_14:41:16:Do you want to ride a dragon?
+molly_None_14:41:19:yes
+overall=0,start=0,interupt=0,engaing=0,return=0,

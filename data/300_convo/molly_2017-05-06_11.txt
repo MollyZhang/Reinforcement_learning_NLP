@@ -1,0 +1,15 @@
+Bot_affirmative_14:39:30:That's neat!
+molly_None_14:39:36:what?
+Bot_elaborate_14:39:36:Huh?
+molly_None_14:39:46:what huh?
+Bot_question_14:39:46:Have you watched the TV show?
+molly_None_14:39:48:Yes
+Bot_negative_14:39:48:Nah, it's not true.
+molly_None_14:39:56:....
+Bot_elaborate_14:39:56:please go on, I am intrigued
+molly_None_14:40:05:I am not going on
+Bot_neutral_14:40:05:I need to meditate on that
+molly_None_14:40:10:...
+Bot_affirmative_14:40:10:Yep!
+molly_None_14:40:15:no!!!!
+overall=0,start=0,interupt=0,engaing=0,return=0,

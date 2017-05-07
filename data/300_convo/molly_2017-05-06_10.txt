@@ -1,0 +1,15 @@
+Bot_elaborate_14:38:30:please go on, I am intrigued
+molly_None_14:38:38:I haven't said anything
+Bot_elaborate_14:38:38:What?
+molly_None_14:38:42:no
+Bot_opinion_14:38:42:All dwarfs may be bastards yet not all bastards are dwarfs.
+molly_None_14:38:49:okay
+Bot_neutral_14:38:49:Well okay.
+molly_None_14:38:55:okay more
+Bot_negative_14:38:55:Nah, it's not true.
+molly_None_14:38:58:it is
+Bot_question_14:38:58:What is true strength?
+molly_None_14:39:05:talking to you
+Bot_opinion_14:39:05:Winter is coming
+molly_None_14:39:08:maybe
+overall=0,start=0,interupt=0,engaing=0,return=0,

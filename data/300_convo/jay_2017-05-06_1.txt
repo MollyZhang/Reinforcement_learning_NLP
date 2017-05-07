@@ -1,0 +1,15 @@
+Bot_negative_14:28:12:I disagree.
+Jay_None_14:28:22:Fuck you then
+Bot_affirmative_14:28:22:Brilliant!
+Jay_None_14:28:31:Go choke on a dick
+Bot_elaborate_14:28:31:You gotta tell me more.
+Jay_None_14:28:43:About what? how awful you are?
+Bot_question_14:28:43:Have you watched the TV show?
+Jay_None_14:28:48:No
+Bot_question_14:28:48:If you can kill any character, who would that be?
+Jay_None_14:28:58:I don't know what you're talking about
+Bot_opinion_14:28:58:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+Jay_None_14:29:15:You're not even paying attention to me are you you fucking piece of shit
+Bot_question_14:29:15:When do you think the Winds of Winter is going to come out?
+Jay_None_14:29:20:exactly
+overall=0,start=0,interupt=0,engaing=0,return=0,

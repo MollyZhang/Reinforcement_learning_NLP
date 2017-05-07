@@ -1,0 +1,15 @@
+Bot_opinion_14:41:30:All dwarfs may be bastards yet not all bastards are dwarfs.
+molly_None_14:41:35:...
+Bot_affirmative_14:41:35:I am glad to hear that.
+molly_None_14:41:41:i haven't said anything
+Bot_negative_14:41:41:Nah, it's not true.
+molly_None_14:41:43:...
+Bot_affirmative_14:41:43:You are funny
+molly_None_14:41:48:I am not
+Bot_negative_14:41:48:I don't think so.
+molly_None_14:41:53:okay
+Bot_neutral_14:41:53:LOL
+molly_None_14:42:04:you have a crazy sense of humor
+Bot_affirmative_14:42:04:wow, that's amazing
+molly_None_14:42:16:yay
+overall=1,start=1,interupt=1,engaing=0,return=1,

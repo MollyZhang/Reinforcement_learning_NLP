@@ -1,0 +1,15 @@
+Bot_negative_14:32:06:I disagree.
+Jay_None_14:32:09:?
+Bot_opinion_14:32:09:The things I do for love.
+Jay_None_14:32:14:What things?
+Bot_opinion_14:32:14:Can you be brave if you are afraid? That's the only time you can be brave
+Jay_None_14:32:28:Why did you answer your own question?
+Bot_negative_14:32:28:I don't get it.
+Jay_None_14:32:38:That's cause you're kinda dumb
+Bot_question_14:32:38:Which house do you wanted to be in?
+Jay_None_14:32:50:Dorne
+Bot_affirmative_14:32:50:Me too! Let's be best friends :)
+Jay_None_14:33:00:Dorne isn't a house dumbass! I tricked you
+Bot_neutral_14:33:00:LOL
+Jay_None_14:33:06:Yeah
+overall=0,start=0,interupt=0,engaing=1,return=0,

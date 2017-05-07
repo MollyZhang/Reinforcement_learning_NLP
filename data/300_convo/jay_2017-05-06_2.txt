@@ -1,0 +1,15 @@
+Bot_elaborate_14:29:52:Why?
+Jay_None_14:30:10:What's with the vague questions at the onset of our conversations?
+Bot_elaborate_14:30:10:Can you tell me more?
+Jay_None_14:30:25:Again, you seem to lack any ability to interact with me
+Bot_question_14:30:25:Do you want to ride a dragon?
+Jay_None_14:30:47:Wtf. Dragons aren't real. That's an absurd question.
+Bot_question_14:30:47:What plot would you want to happen differently?
+Jay_None_14:30:55:Plot?
+Bot_elaborate_14:30:55:Huh?
+Jay_None_14:30:59:What?
+Bot_question_14:30:59:What one piece of advice would you offer to a person who have never seen the show?
+Jay_None_14:31:05:what show?
+Bot_elaborate_14:31:05:How does that work?
+Jay_None_14:31:10:?
+overall=0,start=0,interupt=0,engaing=0,return=0,

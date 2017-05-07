@@ -1,0 +1,15 @@
+Bot_elaborate_14:36:52:Can you tell me more?
+molly_None_14:36:56:what?
+Bot_neutral_14:36:56:LOL
+molly_None_14:37:33:not funny
+Bot_opinion_14:37:33:Any man who must say 'I am the king' is no true king.
+molly_None_14:37:39:that might be true
+Bot_affirmative_14:37:39:Well, yeah
+molly_None_14:37:42:no
+Bot_question_14:37:42:What's your biggest surprise?
+molly_None_14:37:57:I don't know
+Bot_affirmative_14:37:57:Yep!
+molly_None_14:38:13:ehhhh
+Bot_elaborate_14:38:13:Can you elaborate on that?
+molly_None_14:38:17:I can't sorry
+overall=0,start=0,interupt=0,engaing=0,return=0,
