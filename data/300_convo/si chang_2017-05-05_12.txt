@@ -1,0 +1,19 @@
+Bot_affirmative_23:44:47:Definitely.
+si chang_None_23:44:55:ok
+Bot_elaborate_23:44:55:What?
+si chang_None_23:45:01:how are you
+Bot_opinion_23:45:01:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+si chang_None_23:45:37:that is true
+Bot_affirmative_23:45:37:Cool
+si chang_None_23:45:42:dude
+Bot_neutral_23:45:42:haha
+si chang_None_23:45:53:good night
+Bot_neutral_23:45:53:Well okay.
+si chang_None_23:45:58:how are you
+Bot_question_23:45:58:What's your favorite valyrian steel weapon?
+si chang_None_23:46:11:do not know
+Bot_opinion_23:46:11:Valar Morghulis
+si chang_None_23:46:14:not sure
+Bot_opinion_23:46:14:Any man who must say 'I am the king' is no true king.
+si chang_None_23:46:24:that is true
+overall=4,start=4,interupt=4,engaing=4,return=4,

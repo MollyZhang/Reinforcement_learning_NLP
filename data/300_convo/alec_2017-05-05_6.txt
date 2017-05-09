@@ -1,0 +1,21 @@
+Bot_question_22:36:37:What is true happiness?
+alec6_None_22:36:46:Being with your love, do something great.
+Bot_question_22:36:46:Who is your favorite villain?
+alec6_None_22:37:24:The night king.
+Bot_negative_22:37:24:Excuse me, that's not true.
+alec6_None_22:37:28:why?
+Bot_negative_22:37:28:I don't believe you.
+alec6_None_22:37:32:why?
+Bot_elaborate_22:37:32:Can you elaborate on that?
+alec6_None_22:37:40:The night king is awesome and cool.
+Bot_affirmative_22:37:40:Cool
+alec6_None_22:37:45:Yep.
+Bot_negative_22:37:45:I beg to differ.
+alec6_None_22:37:50:hmm?
+Bot_affirmative_22:37:50:I know what you mean
+alec6_None_22:37:53:good.
+Bot_affirmative_22:37:53:wow, that's amazing
+alec6_None_22:37:58:It is!
+Bot_negative_22:37:58:Oh no that's horrible.
+alec6_None_22:38:02:Why?
+return=0,overall=1,start=1,interupt=1,engaing=2,

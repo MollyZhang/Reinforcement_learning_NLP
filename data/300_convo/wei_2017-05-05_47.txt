@@ -1,0 +1,19 @@
+Bot says:  What?
+wei: what what?
+Bot says:  Nah, it's not true.
+wei: but I did nothing.
+Bot says:  Me too! Let's be best friends :)
+wei: can we at least do someting after we become friends.
+Bot says:  I beg to differ.
+wei: how lazy are you?
+Bot says:  Can you be brave if you are afraid? That's the only time you can be brave
+wei: are you afraid of being not lazy?
+Bot says:  When you play a game of thrones you win or you die.
+wei: Are you afraid of die?
+Bot says:  I don't think so.
+wei: wow, I am imprised.
+Bot says:  Which season in the series do you like the most?
+wei: I like the third season.
+Bot says:  What's your biggest surprise?
+wei: I am surprised that there are real dragons exist.
+overall=5,start=1,interupt=3,engaing=3,return=2,

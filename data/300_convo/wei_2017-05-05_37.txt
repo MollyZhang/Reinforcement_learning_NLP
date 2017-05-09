@@ -1,0 +1,13 @@
+Bot_question_23:02:47:Is there any character that you want to date?
+wei_None_23:03:02:John Snow's brother.
+Bot_neutral_23:03:02:LOL
+wei_None_23:03:16:okay, I don't know his name.
+Bot_question_23:03:16:What don't you like about Game of Throne's storyline?
+wei_None_23:03:27:I love all of them.
+Bot_affirmative_23:03:27:Yep!
+wei_None_23:03:58:Do you think John Snow will die at the end?
+Bot_question_23:03:58:What one piece of advice would you offer to a person who have never seen the show?
+wei_None_23:04:21:I don't know, but every one watched it just love it.
+Bot_affirmative_23:04:21:I agree with you on that
+wei_None_23:06:06:do you think that cerci is beautiful?
+overall=5,start=5,interupt=5,engaing=3,return=4,

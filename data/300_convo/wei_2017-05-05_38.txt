@@ -1,0 +1,13 @@
+Bot_negative_23:06:39:Nah, it's not true.
+wei_None_23:06:49:tell me more about it.
+Bot_negative_23:06:49:I disagree.
+wei_None_23:07:16:how about we talk on something different?
+Bot_question_23:07:16:What other fantasy books have you read?
+wei_None_23:07:25:Harry Porter.
+Bot_negative_23:07:25:I beg to differ.
+wei_None_23:07:44:West of Winds
+Bot_elaborate_23:07:44:Huh?
+wei_None_23:07:59:I don't really read a lot of books.
+Bot_negative_23:07:59:Excuse me, that's not true.
+wei_None_23:08:10:you read much more than me.
+overall=4,start=1,interupt=4,engaing=2,return=3,

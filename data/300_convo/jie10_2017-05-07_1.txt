@@ -1,0 +1,19 @@
+Bot_affirmative_17:49:40:That's hilarious!
+jie10_None_17:49:45:good to know, haha.
+Bot_question_17:49:45:Which house do you wanted to be in?
+jie10_None_17:50:32:stark, maybe.
+Bot_elaborate_17:50:32:Can you elaborate on that?
+jie10_None_17:50:46:stark is hononr house.
+Bot_affirmative_17:50:46:I am glad to hear that.
+jie10_None_17:50:52:do you like stark too?
+Bot_question_17:50:52:Do you want to ride a dragon?
+jie10_None_17:50:55:yes!
+Bot_opinion_17:50:55:Dracarys
+jie10_None_17:51:00:haha, awesome.
+Bot_affirmative_17:51:00:Fantastic idea!
+jie10_None_17:52:06:haha, ok.
+Bot_opinion_17:52:06:I finished reading the books in 10 seconds because I am a computer.
+jie10_None_17:52:20:ah, good for you.
+Bot_negative_17:52:20:Nah, it's not true.
+jie10_None_17:52:24:it is true.
+overall=2,start=3,interupt=3,engaing=4,return=4,

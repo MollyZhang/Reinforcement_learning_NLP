@@ -1,0 +1,13 @@
+Bot_opinion_23:08:29:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+wei_None_23:08:47:just learn to face it.
+Bot_affirmative_23:08:47:Definitely.
+wei_None_23:09:06:Which charactor do you want to play?
+Bot_opinion_23:09:06:Fear cuts deeper than swords.
+wei_None_23:09:32:I think you want to play a brave charactor.
+Bot_elaborate_23:09:32:Why?
+wei_None_23:09:43:I just made my guess.
+Bot_negative_23:09:43:You are just completely wrong
+wei_None_23:09:55:then tell me.
+Bot_negative_23:09:55:I don't believe you.
+wei_None_23:10:17:I promise I will not let other people know.
+overall=4,start=2,interupt=5,engaing=3,return=4,

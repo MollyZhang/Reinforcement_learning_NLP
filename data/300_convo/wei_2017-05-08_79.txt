@@ -1,0 +1,19 @@
+Bot_neutral_00:31:54:Really?
+wei_None_00:32:03:what's up?
+Bot_question_00:32:03:Have you watched the TV show?
+wei_None_00:32:12:of course, I loved them.
+Bot_question_00:32:12:Which do you like better, the books or the movies?
+wei_None_00:32:21:I guess the movies.
+Bot_question_00:32:21:What is true happiness?
+wei_None_00:32:38:when you love someone and he loves you back.
+Bot_opinion_00:32:38:Dracarys
+wei_None_00:33:05:don't fire the forest, only the bad guys.
+Bot_neutral_00:33:05:hmmm, that's interesting.
+wei_None_00:33:10:I am kidding.
+Bot_affirmative_00:33:10:Definitely.
+wei_None_00:33:25:Do you ever imagine you are a dragon?
+Bot_neutral_00:33:25:I need to meditate on that
+wei_None_00:33:37:Do you want to be a dragon?
+Bot_elaborate_00:33:37:Can you elaborate on that?
+wei_None_00:33:50:Do you like dragon?
+overall=3,start=1,interupt=2,engaing=2,return=1,

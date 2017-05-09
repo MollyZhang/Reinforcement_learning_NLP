@@ -1,0 +1,11 @@
+Bot_elaborate_22:34:57:Can you elaborate on that?
+alec3_None_22:35:06:Elaborate on what?
+Bot_elaborate_22:35:06:You gotta tell me more.
+alec3_None_22:35:09:What?
+Bot_negative_22:35:09:Nah, it's not true.
+alec3_None_22:35:13:What?
+Bot_negative_22:35:13:I don't think so.
+alec3_None_22:35:18:Whatever.
+Bot_question_22:35:18:Which season in the series do you like the most?
+alec3_None_22:35:25:Season 1.
+interupt=0,start=0,overall=0,engaing=0,return=0,

@@ -1,0 +1,21 @@
+Bot_question_00:00:42:Do you like House of Cards?
+wei_None_00:00:59:yes, it's a great TV series.
+Bot_question_00:00:59:What other fantasy books have you read?
+wei_None_00:01:11:Harry Porter.
+Bot_opinion_00:01:11:Any man who must say 'I am the king' is no true king.
+wei_None_00:01:41:What about a woman who rules?
+Bot_affirmative_00:01:41:This is the best thing I have seen in a long time.
+wei_None_00:02:09:tell me more about it.
+Bot_affirmative_00:02:09:You are so smart!
+wei_None_00:02:18:thanks, you are so kind.
+Bot_question_00:02:18:Have you watched the TV show?
+wei_None_00:02:27:yes, I love all of them.
+Bot_neutral_00:02:27:Well okay.
+wei_None_00:02:34:do you?
+Bot_question_00:02:34:What plot would you want to happen differently?
+wei_None_00:02:53:I am not sure, I think it is perfect now.
+Bot_negative_00:02:53:I don't believe you.
+wei_None_00:02:59:I mean it.
+Bot_elaborate_00:02:59:Can you elaborate on that?
+wei_None_00:03:26:I am not good at composite of a wonderful story.
+overall=5,start=5,interupt=4,engaing=3,return=3,

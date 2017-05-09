@@ -1,0 +1,13 @@
+Bot_question_21:26:13:What plot would you want to happen differently?
+wei_None_21:27:39:I don't know too much about the TV series plots.
+Bot_elaborate_21:27:39:You gotta tell me more.
+wei_None_21:27:50:I just read the books, and I love it.
+Bot_affirmative_21:27:50:I know what you mean
+wei_None_21:28:22:how long does it take you to finish all the books?
+Bot_opinion_21:28:22:Dracarys
+wei_None_21:30:07:that's so cool to train the dragons.
+Bot_opinion_21:30:07:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+wei_None_21:31:51:that's what about real life, it sucks, but you gonna love it.
+Bot_affirmative_21:31:51:You have a great piont point.
+wei_None_21:31:54:thatnks
+overall=5,start=5,interupt=5,engaing=4,return=5,

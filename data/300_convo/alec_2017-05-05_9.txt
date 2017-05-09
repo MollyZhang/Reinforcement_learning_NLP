@@ -1,0 +1,21 @@
+Bot_neutral_23:03:31:Well okay.
+alec9_None_23:03:35:ok.
+Bot_elaborate_23:03:35:Why?
+alec9_None_23:03:39:why?
+Bot_affirmative_23:03:39:I know what you mean
+alec9_None_23:03:43:great!
+Bot_opinion_23:03:43:When you play a game of thrones you win or you die.
+alec9_None_23:03:54:that is possible.
+Bot_neutral_23:03:54:hmmm, that's interesting.
+alec9_None_23:03:57:ok.
+Bot_opinion_23:03:57:Nothing isn't better or worse than anything. Nothing is just nothing.
+alec9_None_23:04:05:It is void.
+Bot_negative_23:04:05:Nah, it's not true.
+alec9_None_23:04:08:why?
+Bot_negative_23:04:08:You are just completely wrong
+alec9_None_23:04:13:tell me about it.
+Bot_neutral_23:04:13:LOL
+alec9_None_23:04:18:you are weird.
+Bot_neutral_23:04:18:Really?
+alec9_None_23:04:20:yes.
+return=0,overall=0,start=0,interupt=0,engaing=0,

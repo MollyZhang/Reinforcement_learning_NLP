@@ -1,0 +1,19 @@
+Bot_question_17:43:32:Who is your favorite villain?
+jie8_None_17:43:59:night king.
+Bot_affirmative_17:43:59:Me too! Let's be best friends :)
+jie8_None_17:44:39:great.
+Bot_elaborate_17:44:39:Why?
+jie8_None_17:44:50:because we both like night king.
+Bot_question_17:44:50:Who decides what morality is?
+jie8_None_17:45:00:the king, maybe.
+Bot_elaborate_17:45:00:please go on, I am intrigued
+jie8_None_17:46:44:the king decides what morality is.
+Bot_opinion_17:46:44:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+jie8_None_17:46:59:no, they won't marry, but they will rule.
+Bot_neutral_17:46:59:Really?
+jie8_None_17:47:19:yes.
+Bot_opinion_17:47:19:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+jie8_None_17:48:05:i am not sure.
+Bot_elaborate_17:48:05:What?
+jie8_None_17:48:16:i am not sure about what you said.
+overall=1,start=3,interupt=2,engaing=2,return=1,

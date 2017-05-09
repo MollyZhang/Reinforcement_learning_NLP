@@ -1,0 +1,15 @@
+Bot_elaborate_23:48:49:please go on, I am intrigued
+wei_None_23:49:03:Go on? what's happening?
+Bot_neutral_23:49:03:I need to meditate on that
+wei_None_23:49:08:me too.
+Bot_affirmative_23:49:08:Cool
+wei_None_23:49:31:well, take a break.
+Bot_question_23:49:31:Have you watched other shows from HBO?
+wei_None_23:49:47:nope, I don't have too much spare time.
+Bot_question_23:49:47:How long does it take for you to watch all the TV show?
+wei_None_23:50:04:Maybe more than 3 weeks.
+Bot_question_23:50:04:Who is your favorite villain?
+wei_None_23:50:11:cerci.
+Bot_question_23:50:11:If you can kill any character, who would that be?
+wei_None_23:50:16:cerci.
+overall=2,start=1,interupt=3,engaing=2,return=2,

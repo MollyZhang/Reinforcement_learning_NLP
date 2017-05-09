@@ -1,0 +1,19 @@
+Bot_elaborate_20:56:22:You gotta tell me more.
+Yue Cao_None_20:56:31:blablablablablablabla
+Bot_elaborate_20:56:31:Can you elaborate on that?
+Yue Cao_None_20:56:37:Yes
+Bot_neutral_20:56:37:haha
+Yue Cao_None_20:56:40:haha
+Bot_elaborate_20:56:40:Huh?
+Yue Cao_None_20:56:44:Huh?
+Bot_neutral_20:56:44:Well okay.
+Yue Cao_None_20:56:47:Good
+Bot_neutral_20:56:47:LOL
+Yue Cao_None_20:56:50:LOL
+Bot_affirmative_20:56:50:That's hilarious!
+Yue Cao_None_20:56:58:That's hilarious
+Bot_opinion_20:56:58:Nothing isn't better or worse than anything. Nothing is just nothing.
+Yue Cao_None_20:57:14:You a right
+Bot_neutral_20:57:14:Really?
+Yue Cao_None_20:57:20:right
+overall=2,start=2,interupt=2,engaing=4,return=3,

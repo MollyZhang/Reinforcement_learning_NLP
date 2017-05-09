@@ -1,0 +1,13 @@
+Bot_affirmative_21:03:14:You are funny
+wei_None_21:03:33:thanks, but how do you know it?
+Bot_opinion_21:03:33:Can you be brave if you are afraid? That's the only time you can be brave
+wei_None_21:08:16:I will try my best and be brave when I am afraid.
+Bot_neutral_21:08:16:haha
+wei_None_21:08:28:I mean it.
+Bot_opinion_21:08:28:Fear cuts deeper than swords.
+wei_None_21:08:39:I can't agree more.
+Bot_affirmative_21:08:39:Yep!
+wei_None_21:08:50:anthing else you plan to say?
+Bot_neutral_21:08:50:I need to meditate on that
+wei_None_21:10:35:okay, take you time.
+overall=1,start=0,interupt=2,engaing=1,return=1,

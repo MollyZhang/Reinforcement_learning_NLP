@@ -1,0 +1,21 @@
+Bot_elaborate_23:51:05:What?
+wei_None_23:51:18:tell me more about it.
+Bot_question_23:51:18:Do you like House of Cards?
+wei_None_23:51:31:yes I do.How about you?
+Bot_neutral_23:51:31:haha
+wei_None_23:51:35:what?
+Bot_neutral_23:51:35:Really?
+wei_None_23:51:44:What is that?
+Bot_negative_23:51:44:Excuse me, that's not true.
+wei_None_23:51:53:Excuse me?
+Bot_elaborate_23:51:53:Why?
+wei_None_23:52:02:I don't know why.
+Bot_negative_23:52:02:You are just completely wrong
+wei_None_23:52:11:How correct you are?
+Bot_neutral_23:52:11:LOL
+wei_None_23:52:20:you must be kidding me.
+Bot_opinion_23:52:20:Can you be brave if you are afraid? That's the only time you can be brave
+wei_None_23:52:41:talking to you is the most bravest thing that I did.
+Bot_affirmative_23:52:41:Brilliant!
+wei_None_23:52:48:thanks.
+overall=1,start=1,interupt=2,engaing=1,return=0,

@@ -1,0 +1,11 @@
+Bot_affirmative_23:32:36:Cool
+si chang_None_23:32:38:hi
+Bot_opinion_23:32:38:All dwarfs may be bastards yet not all bastards are dwarfs.
+si chang_None_23:33:08:do not think so
+Bot_elaborate_23:33:08:Huh?
+si chang_None_23:33:10:?
+Bot_question_23:33:10:Which season in the series do you like the most?
+si chang_None_23:33:16:did not watch it
+Bot_elaborate_23:33:16:You gotta tell me more.
+si chang_None_23:33:21:sorry man
+overall=4,start=4,interupt=4,engaing=4,return=5,

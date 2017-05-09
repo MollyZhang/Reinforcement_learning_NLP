@@ -1,0 +1,15 @@
+Bot_neutral_23:45:31:LOL
+Eugene_None_23:45:47:|o|
+Bot_opinion_23:45:47:Can you be brave if you are afraid? That's the only time you can be brave
+Eugene_None_23:47:55:Of course
+Bot_negative_23:47:55:I don't get it.
+Eugene_None_23:48:19:In another word, yes
+Bot_neutral_23:48:19:I need to meditate on that
+Eugene_None_23:49:38:Ok, what is the meaning of "meditate"?
+Bot_elaborate_23:49:38:Why?
+Eugene_None_23:49:58:Because I don't understand that word
+Bot_neutral_23:49:58:Well okay.
+Eugene_None_23:50:02:So?
+Bot_opinion_23:50:02:Hodor
+Eugene_None_23:51:09:And?
+overall=5,start=2,interupt=3,engaing=4,return=5,

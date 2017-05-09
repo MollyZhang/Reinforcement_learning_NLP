@@ -1,0 +1,21 @@
+Bot_affirmative_20:13:40:This is the best thing I have seen in a long time.
+wei_None_20:13:48:what did you see?
+Bot_negative_20:13:48:I beg to differ.
+wei_None_20:14:06:what do you mean?
+Bot_negative_20:14:06:Nah, it's not true.
+wei_None_20:14:15:I am just asking a question.
+Bot_question_20:14:15:What's your favorite valyrian steel weapon?
+wei_None_20:14:29:I think Needle.
+Bot_opinion_20:14:29:Nothing isn't better or worse than anything. Nothing is just nothing.
+wei_None_20:14:53:I agree, we can't just wait and do nothing.
+Bot_elaborate_20:14:53:Can you tell me more?
+wei_None_20:15:13:I mean, anything could help to make a process.
+Bot_elaborate_20:15:13:How does that work?
+wei_None_20:15:54:things happens how they should be.
+Bot_elaborate_20:15:54:Why?
+wei_None_20:16:21:You gonna understand it yourself, I have said enough.
+Bot_elaborate_20:16:21:What do you mean?
+wei_None_20:17:31:I mean you ask too many questions.
+Bot_question_20:17:31:When do you think the Winds of Winter is going to come out?
+wei_None_20:17:50:Soon, I hope.
+overall=2,start=0,interupt=2,engaing=1,return=3,

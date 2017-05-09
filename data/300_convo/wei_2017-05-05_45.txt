@@ -1,0 +1,19 @@
+Bot_opinion_23:27:29:Hodor
+wei_None_23:27:34:hold the door.
+Bot_neutral_23:27:34:I need to meditate on that
+wei_None_23:27:48:that is what hodor means.
+Bot_negative_23:27:48:I don't think so.
+wei_None_23:28:04:then what do you think about Hordor?
+Bot_question_23:28:04:Which house do you wanted to be in?
+wei_None_23:28:14:The Stark family.
+Bot_elaborate_23:28:14:Huh?
+wei_None_23:28:28:do you have a different choice?
+Bot_affirmative_23:28:28:Yep!
+wei_None_23:28:33:what is that?
+Bot_elaborate_23:28:33:What do you mean?
+wei_None_23:28:48:which house do you choose?
+Bot_question_23:28:48:Which season in the series do you like the most?
+wei_None_23:29:05:the very first season.
+Bot_elaborate_23:29:05:How does that work?
+wei_None_23:29:16:I got addicted from there.
+overall=4,start=3,interupt=3,engaing=2,return=5,

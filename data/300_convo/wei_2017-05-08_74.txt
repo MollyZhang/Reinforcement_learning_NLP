@@ -1,0 +1,19 @@
+Bot_opinion_00:17:34:Hodor
+wei_None_00:17:38:hold the door.
+Bot_question_00:17:38:When do you think the Winds of Winter is going to come out?
+wei_None_00:18:00:I will tell you later, I need to google it.
+Bot_question_00:18:00:What plot would you want to happen differently?
+wei_None_00:18:24:oh, I wish cerci already died.
+Bot_elaborate_00:18:24:How does that work?
+wei_None_00:18:38:she could be killed by the sparrow.
+Bot_neutral_00:18:38:Well okay.
+wei_None_00:18:54:what do you think about sparrow?
+Bot_affirmative_00:18:54:You are so smart!
+wei_None_00:19:23:that's awkward.
+Bot_negative_00:19:23:You are just completely wrong
+wei_None_00:19:34:Why?
+Bot_neutral_00:19:34:I need to meditate on that
+wei_None_00:19:58:You are dull
+Bot_affirmative_00:19:58:Yep!
+wei_None_00:20:10:this is boring.
+overall=2,start=3,interupt=2,engaing=1,return=1,

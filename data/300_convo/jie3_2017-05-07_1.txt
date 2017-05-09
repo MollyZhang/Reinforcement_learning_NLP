@@ -1,0 +1,19 @@
+Bot_elaborate_17:34:32:Huh?
+jie3_None_17:34:37:my name is jie3
+Bot_affirmative_17:34:37:Me too! Let's be best friends :)
+jie3_None_17:34:41:ok.
+Bot_elaborate_17:34:41:What?
+jie3_None_17:34:44:what what?
+Bot_negative_17:34:44:Nah, it's not true.
+jie3_None_17:34:50:what are you talking about?
+Bot_negative_17:34:50:I disagree.
+jie3_None_17:34:58:i don't know what you are talking about.
+Bot_neutral_17:34:58:LOL
+jie3_None_17:35:01:...
+Bot_negative_17:35:01:Oh no that's horrible.
+jie3_None_17:35:05:It is.
+Bot_elaborate_17:35:05:How does that work?
+jie3_None_17:35:16:I don't know what you are talking about.
+Bot_question_17:35:16:Which do you like better, the books or the movies?
+jie3_None_17:35:19:movies.
+overall=0,start=1,interupt=1,engaing=1,return=1,

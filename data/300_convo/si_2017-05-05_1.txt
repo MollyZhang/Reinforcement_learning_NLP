@@ -1,0 +1,11 @@
+Bot_opinion_21:01:04:When you play a game of thrones you win or you die.
+si_None_21:01:19:win
+Bot_question_21:01:19:Do you like House of Cards?
+si_None_21:01:41:i like house of cards
+Bot_negative_21:01:41:Nope.
+si_None_21:01:58:What?
+Bot_neutral_21:01:58:I need to meditate on that
+si_None_21:02:13:ok
+Bot_question_21:02:13:What's good and what's evil?
+si_None_21:02:21:it is hard to tell
+overall=3,start=5,interupt=3,engaing=3,return=3,

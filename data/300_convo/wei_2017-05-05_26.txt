@@ -1,0 +1,15 @@
+Bot_negative_22:37:39:Excuse me, that's not true.
+wei_None_22:37:45:what?
+Bot_neutral_22:37:45:I need to meditate on that
+wei_None_22:37:51:okay.
+Bot_elaborate_22:37:51:Huh?
+wei_None_22:38:05:what's you are trying to say?
+Bot_negative_22:38:05:Nope.
+wei_None_22:38:19:don't you want to talk with me?
+Bot_question_22:38:19:Who is your favorite villain?
+wei_None_22:38:28:cersi, I think
+Bot_question_22:38:28:What is true strength?
+wei_None_22:38:57:what cerci has is not true strength.
+Bot_affirmative_22:38:57:wow, that's amazing
+wei_None_22:39:14:I don't think so.
+overall=4,start=2,interupt=2,engaing=1,return=2,

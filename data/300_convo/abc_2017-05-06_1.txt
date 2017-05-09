@@ -1,0 +1,15 @@
+Bot_question_23:52:05:What plot would you want to happen differently?
+abc_None_23:55:54:Not sure
+Bot_elaborate_23:55:54:What?
+abc_None_23:56:20:not sure what plot I want to happen differently
+Bot_affirmative_23:56:20:Awesome
+abc_None_23:56:33:Thanks!
+Bot_affirmative_23:56:33:That's neat!
+abc_None_23:56:49:alright!
+Bot_opinion_23:56:49:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+abc_None_00:00:23:May the force be with you
+Bot_neutral_00:00:23:haha
+abc_None_00:00:30:hohoho
+Bot_question_00:00:30:What is true happiness?
+abc_None_00:02:51:Bot becomes more smart
+overall=4,start=4,interupt=4,engaing=4,return=4,

@@ -1,0 +1,15 @@
+Bot_negative_22:20:46:I beg to differ.
+wei_None_22:20:54:excuse me?
+Bot_question_22:20:54:Who decides what morality is?
+wei_None_22:21:20:I think the majoraty.
+Bot_elaborate_22:21:20:Can you tell me more?
+wei_None_22:22:20:Most of the times what the majority agreed on.
+Bot_question_22:22:20:What is true happiness?
+wei_None_22:22:52:when a person find out what they really want.
+Bot_negative_22:22:52:Oh no that's horrible.
+wei_None_22:26:44:what do you think about happiness?
+Bot_neutral_22:26:44:I need to meditate on that
+wei_None_22:27:10:I wish Dannies will find her true love.
+Bot_question_22:27:10:What plot would you want to happen differently?
+wei_None_22:29:24:Drogo's death.
+overall=3,start=1,interupt=4,engaing=2,return=2,

@@ -1,0 +1,11 @@
+Bot_negative_23:35:56:I don't get it.
+si chang_None_23:36:05:not sure what you mean
+Bot_affirmative_23:36:05:I agree with you on that
+si chang_None_23:36:09:ok
+Bot_neutral_23:36:09:hmmm, that's interesting.
+si chang_None_23:36:15:what is interesting
+Bot_opinion_23:36:15:Can you be brave if you are afraid? That's the only time you can be brave
+si chang_None_23:36:23:yes, i can
+Bot_elaborate_23:36:23:What do you mean?
+si chang_None_23:36:27:i can be brave
+overall=5,start=5,interupt=5,engaing=5,return=5,

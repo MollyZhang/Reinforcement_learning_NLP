@@ -1,0 +1,15 @@
+Bot_negative_22:46:01:I disagree.
+wei_None_22:46:06:what?
+Bot_negative_22:46:06:I don't think so.
+wei_None_22:46:16:what are you talking about?
+Bot_negative_22:46:16:Excuse me, that's not true.
+wei_None_22:46:35:alright, you are just talking random stuff.
+Bot_negative_22:46:35:I don't believe you.
+wei_None_22:46:44:I don't care.
+Bot_question_22:46:44:Have you watched the TV show?
+wei_None_22:46:55:Yes, I did, what about you?
+Bot_affirmative_22:46:55:That's hilarious!
+wei_None_22:47:07:I don't think so.
+Bot_question_22:47:07:What one piece of advice would you offer to a person who have never seen the show?
+wei_None_22:47:30:don't miss it, you gonna addict on it.
+overall=0,start=0,interupt=1,engaing=0,return=1,

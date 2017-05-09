@@ -1,0 +1,15 @@
+Bot_question_22:09:10:What is true strength?
+wei_None_22:09:35:I think true strength is being kind to others.
+Bot_neutral_22:09:35:LOL
+wei_None_22:09:43:what is you opinion?
+Bot_question_22:09:43:Which house do you wanted to be in?
+wei_None_22:11:20:he Stark family.
+Bot_elaborate_22:11:20:Huh?
+wei_None_22:11:47:yes, I like every Stark family member.
+Bot_negative_22:11:47:Excuse me, that's not true.
+wei_None_22:12:01:How do you know it's not true?
+Bot_opinion_22:12:01:Winter is coming
+wei_None_22:12:31:Will you survive during Winter?
+Bot_elaborate_22:12:31:What?
+wei_None_22:12:54:Will you fight aginst White Walkers?
+overall=3,start=4,interupt=2,engaing=2,return=3,

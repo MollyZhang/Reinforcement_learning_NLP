@@ -1,0 +1,15 @@
+Bot_question_18:03:37:Which do you like better, the books or the movies?
+wei_None_18:03:48:the movies.
+Bot_negative_18:03:48:I disagree.
+wei_None_18:04:05:what is the specific reason that you prefer the books?
+Bot_affirmative_18:04:05:Awesome
+wei_None_18:04:22:what?
+Bot_neutral_18:04:22:haha
+wei_None_18:04:26:why?
+Bot_negative_18:04:26:Oh no that's horrible.
+wei_None_18:04:38:umm
+Bot_negative_18:04:38:I don't get it.
+wei_None_18:04:43:Me either.
+Bot_affirmative_18:04:43:Cool
+wei_None_18:05:04:can you say something?
+overall=1,start=5,interupt=1,engaing=0,return=0,

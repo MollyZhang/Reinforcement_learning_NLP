@@ -1,0 +1,11 @@
+Bot_opinion_22:31:54:Winter is coming
+alec2_None_22:32:02:You are a Stark!
+Bot_negative_22:32:02:Oh no that's horrible.
+alec2_None_22:32:19:Yes, what happened to them is horrible.
+Bot_neutral_22:32:19:Well okay.
+alec2_None_22:32:39:It is not okay.
+Bot_affirmative_22:32:39:You have a great piont point.
+alec2_None_22:32:51:I always do. You are boring.
+Bot_negative_22:32:51:Nope.
+alec2_None_22:32:54:Yes you are.
+interupt=2,start=4,overall=3,engaing=2,return=1,

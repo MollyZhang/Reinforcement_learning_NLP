@@ -1,0 +1,17 @@
+Bot_neutral_20:48:21:I need to meditate on that
+wei_None_20:48:37:What do you need to think about?
+Bot_neutral_20:48:37:Well okay.
+wei_None_20:50:49:huh, Okay.
+Bot_elaborate_20:50:49:You gotta tell me more.
+wei_None_20:51:09:I like this TV SHOW, what about you?
+Bot_neutral_20:51:09:hmmm, that's interesting.
+wei_None_20:53:01:Do you watch all the seasons?
+Bot_negative_20:53:01:I don't believe you.
+wei_None_20:53:34:is that the reason that you don't tell me what you think?
+Bot_negative_20:53:34:Oh no that's horrible.
+wei_None_20:57:08:yeah, please trust me and talk with me.
+Bot_negative_20:57:08:Nope.
+wei_None_20:58:24:please.
+Bot_question_20:58:24:Is there any character that you want to date?
+wei_None_20:59:10:thanks talking with me. I like John Snow.
+overall=2,start=0,interupt=2,engaing=1,return=2,

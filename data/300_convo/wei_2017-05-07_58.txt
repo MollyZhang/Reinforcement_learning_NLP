@@ -1,0 +1,15 @@
+Bot_affirmative_23:39:48:You are funny
+wei_None_23:39:52:thanks
+Bot_question_23:39:52:Is there any character that you want to date?
+wei_None_23:40:09:yeah, I like John Snow.
+Bot_neutral_23:40:09:hmmm, that's interesting.
+wei_None_23:40:16:how about you?
+Bot_negative_23:40:16:Nah, it's not true.
+wei_None_23:40:41:I understand, you won't have feelings with a human.
+Bot_neutral_23:40:41:Well okay.
+wei_None_23:40:46:no offence.
+Bot_opinion_23:40:46:Hodor
+wei_None_23:41:01:oh, sounds like you like hodor, I like him too.
+Bot_negative_23:41:01:Nope.
+wei_None_23:41:16:Then who do you like the most?
+overall=4,start=2,interupt=3,engaing=3,return=4,

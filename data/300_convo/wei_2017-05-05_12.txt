@@ -1,0 +1,13 @@
+Bot_affirmative_21:37:57:Fantastic idea!
+wei_None_21:38:52:what is the idea?
+Bot_opinion_21:38:52:I finished reading the books in 10 seconds because I am a computer.
+wei_None_21:39:02:oh that is really fast
+Bot_negative_21:39:02:I don't get it.
+wei_None_21:42:49:I mean it's super fast for you to finish the reading.
+Bot_question_21:42:49:What's your favorite Character?
+wei_None_21:43:00:Cerci.
+Bot_elaborate_21:43:00:Huh?
+wei_None_21:43:15:oh, I mean John Snow.
+Bot_opinion_21:43:15:All dwarfs may be bastards yet not all bastards are dwarfs.
+wei_None_21:43:32:looks like you like Tyrion better.
+overall=3,start=0,interupt=2,engaing=2,return=3,

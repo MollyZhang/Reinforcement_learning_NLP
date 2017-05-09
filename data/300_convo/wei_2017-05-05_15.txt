@@ -1,0 +1,15 @@
+Bot_opinion_21:54:39:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+wei_None_21:55:17:Oh, really? will they fell in love with each other?
+Bot_affirmative_21:55:17:This is the best thing I have seen in a long time.
+wei_None_21:55:38:wow, that is amazing. I can't wait to see it.
+Bot_question_21:55:38:Have you watched the TV show?
+wei_None_21:55:44:yes, I did.
+Bot_negative_21:55:44:Excuse me, that's not true.
+wei_None_21:56:16:Well, I do watched all of the TV shows.
+Bot_opinion_21:56:16:Nothing isn't better or worse than anything. Nothing is just nothing.
+wei_None_21:56:52:I agree with you, any effort worth it.
+Bot_question_21:56:52:What's your biggest surprise?
+wei_None_21:57:10:I am surprised to see those dragons.
+Bot_affirmative_21:57:10:You are so smart!
+wei_None_21:57:16:you are wonderful.
+overall=5,start=4,interupt=4,engaing=4,return=5,

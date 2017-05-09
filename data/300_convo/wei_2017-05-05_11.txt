@@ -1,0 +1,13 @@
+Bot_neutral_21:32:18:hmmm, that's interesting.
+wei_None_21:32:33:what did you find, do you want to share with me?
+Bot_affirmative_21:32:33:You are funny
+wei_None_21:32:47:I did nothing.
+Bot_affirmative_21:32:47:You have a great piont point.
+wei_None_21:33:04:Do you know what you are saying?
+Bot_elaborate_21:33:04:What do you mean?
+wei_None_21:33:42:please say something meaningful or answer my question.
+Bot_affirmative_21:33:42:This is the best thing I have seen in a long time.
+wei_None_21:35:44:I don't get it.
+Bot_negative_21:35:44:I beg to differ.
+wei_None_21:36:13:would you plese say something about it?
+overall=0,start=0,interupt=0,engaing=0,return=0,

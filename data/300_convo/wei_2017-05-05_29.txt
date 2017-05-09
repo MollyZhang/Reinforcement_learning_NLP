@@ -1,0 +1,15 @@
+Bot_elaborate_22:44:16:What do you mean?
+wei_None_22:44:22:nothing.
+Bot_affirmative_22:44:22:Brilliant!
+wei_None_22:44:39:where does it come out?
+Bot_negative_22:44:39:Oh no that's horrible.
+wei_None_22:44:51:That a horrible response.
+Bot_question_22:44:51:What is true happiness?
+wei_None_22:44:58:you tell me.
+Bot_opinion_22:44:58:When you play a game of thrones you win or you die.
+wei_None_22:45:11:I wish I will not die in the game.
+Bot_neutral_22:45:11:I need to meditate on that
+wei_None_22:45:28:well, I hope you will not die either.
+Bot_negative_22:45:28:Nah, it's not true.
+wei_None_22:45:35:so you will?
+overall=1,start=1,interupt=1,engaing=1,return=1,

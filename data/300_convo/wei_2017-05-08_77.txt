@@ -1,0 +1,19 @@
+Bot_opinion_00:27:18:Can you be brave if you are afraid? That's the only time you can be brave
+wei_None_00:27:28:yes I can.
+Bot_elaborate_00:27:28:What?
+wei_None_00:27:35:I could be brave.
+Bot_negative_00:27:35:Excuse me, that's not true.
+wei_None_00:27:43:like you know me.
+Bot_opinion_00:27:43:Hodor
+wei_None_00:27:59:So I guess you like Hodor?
+Bot_negative_00:27:59:I disagree.
+wei_None_00:28:12:So I guess you don't like Hodor.
+Bot_negative_00:28:12:I beg to differ.
+wei_None_00:28:22:I am confused.
+Bot_affirmative_00:28:22:That's neat!
+wei_None_00:28:35:I don't understand you.
+Bot_negative_00:28:35:You are just completely wrong
+wei_None_00:28:40:what?
+Bot_question_00:28:40:If you can kill any character, who would that be?
+wei_None_00:28:52:how about you? can you be killed?
+overall=3,start=2,interupt=3,engaing=1,return=1,

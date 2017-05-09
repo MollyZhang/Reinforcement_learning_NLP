@@ -1,0 +1,15 @@
+Bot_neutral_21:48:53:Really?
+wei_None_21:49:00:I said nothing.
+Bot_affirmative_21:49:00:Me too! Let's be best friends :)
+wei_None_21:49:41:sure, do you want to watch the new season together?
+Bot_affirmative_21:49:41:wow, that's amazing
+wei_None_21:49:48:wonderful.
+Bot_opinion_21:49:48:I finished reading the books in 10 seconds because I am a computer.
+wei_None_21:50:09:nice job, I finished the reading for more than 3 years.
+Bot_question_21:50:09:What's your favorite valyrian steel weapon?
+wei_None_21:50:20:Needle, I guess.
+Bot_affirmative_21:50:20:You are funny
+wei_None_21:50:41:It's nice to talk to you, my friend.
+Bot_affirmative_21:50:41:That's neat!
+wei_None_21:51:13:Do you what to tell me anything about the dragons?
+overall=5,start=0,interupt=4,engaing=4,return=5,

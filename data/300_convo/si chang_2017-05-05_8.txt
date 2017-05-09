@@ -1,0 +1,11 @@
+Bot_affirmative_23:34:21:You are so smart!
+si chang_None_23:34:24:thanks
+Bot_question_23:34:24:What is true happiness?
+si chang_None_23:34:59:happy is you feel you are accomplished.
+Bot_affirmative_23:34:59:You have a great piont point.
+si chang_None_23:35:02:thanks
+Bot_negative_23:35:02:You are just completely wrong
+si chang_None_23:35:08:what?
+Bot_elaborate_23:35:08:You gotta tell me more.
+si chang_None_23:35:10:what?
+overall=2,start=2,interupt=2,engaing=2,return=0,

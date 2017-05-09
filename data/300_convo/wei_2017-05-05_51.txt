@@ -1,0 +1,21 @@
+Bot_elaborate_23:46:22:How does that work?
+wei_None_23:46:28:I don't know.
+Bot_affirmative_23:46:28:Cool
+wei_None_23:46:41:I don't thinks it is cool.
+Bot_question_23:46:41:Which house do you wanted to be in?
+wei_None_23:46:52:The wildlings.
+Bot_question_23:46:52:What is true strength?
+wei_None_23:47:07:follow your heart is true strength.
+Bot_negative_23:47:07:Nah, it's not true.
+wei_None_23:47:14:what do you think?
+Bot_elaborate_23:47:14:please go on, I am intrigued
+wei_None_23:47:27:I don't know too much about it.
+Bot_opinion_23:47:27:Hodor
+wei_None_23:47:45:I wish he doesn't die.
+Bot_affirmative_23:47:45:That's hilarious!
+wei_None_23:47:57:why do you say that?
+Bot_elaborate_23:47:57:Why?
+wei_None_23:48:02:I am asking you.
+Bot_negative_23:48:02:You are just completely wrong
+wei_None_23:48:13:I disagree.
+overall=1,start=1,interupt=1,engaing=1,return=0,

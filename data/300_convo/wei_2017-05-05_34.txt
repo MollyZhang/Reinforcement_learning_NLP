@@ -1,0 +1,13 @@
+Bot_question_22:56:14:What don't you like about Game of Throne's storyline?
+wei_None_22:57:09:I like all of it.
+Bot_elaborate_22:57:09:What?
+wei_None_22:57:24:I like all of the storylines.
+Bot_question_22:57:24:What's good and what's evil?
+wei_None_22:57:32:it is hard to say.
+Bot_opinion_22:57:32:Fear cuts deeper than swords.
+wei_None_22:58:09:but when a man has no fear, then the swords really cut deeper.
+Bot_affirmative_22:58:09:I know what you mean
+wei_None_22:58:18:wow, what the odds.
+Bot_neutral_22:58:18:Well okay.
+wei_None_22:58:31:do you read the books?
+overall=4,start=4,interupt=3,engaing=3,return=3,

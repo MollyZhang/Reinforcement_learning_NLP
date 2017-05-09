@@ -1,0 +1,15 @@
+Bot_elaborate_23:17:16:Huh?
+wei_None_23:17:20:huh?
+Bot_neutral_23:17:20:haha
+wei_None_23:17:24:hah?
+Bot_neutral_23:17:24:LOL
+wei_None_23:17:29:waht?
+Bot_negative_23:17:29:You are just completely wrong
+wei_None_23:17:41:I just had a typo.
+Bot_neutral_23:17:41:Well okay.
+wei_None_23:17:53:what do you want to say?
+Bot_question_23:17:53:What's good and what's evil?
+wei_None_23:18:07:This is really a hard question.
+Bot_elaborate_23:18:07:Can you elaborate on that?
+wei_None_23:18:21:it totally depend on how you define them.
+overall=1,start=0,interupt=1,engaing=1,return=0,

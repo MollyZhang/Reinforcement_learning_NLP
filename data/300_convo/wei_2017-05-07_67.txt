@@ -1,0 +1,15 @@
+Bot_negative_23:58:57:You are just completely wrong
+wei_None_23:59:18:so I guess you are completely right.
+Bot_opinion_23:59:18:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+wei_None_23:59:25:you are so right.
+Bot_affirmative_23:59:25:Definitely.
+wei_None_23:59:47:how come you have so much confidence as a bot.
+Bot_affirmative_23:59:47:wow, that's amazing
+wei_None_00:00:39:looks like you like compliments.
+Bot_question_00:00:39:What is true strength?
+wei_None_00:01:09:my compliments make you feel good, this is true strength.
+Bot_neutral_00:01:09:hmmm, that's interesting.
+wei_None_00:01:37:do you enjoy the TV series?
+Bot_affirmative_00:01:37:That's neat!
+wei_None_00:01:46:I am confused.
+overall=2,start=1,interupt=2,engaing=1,return=1,

@@ -1,0 +1,21 @@
+Bot_question_20:18:59:Is there any character that you want to date?
+wei_None_20:19:12:John Snow
+Bot_opinion_20:19:12:Winter is coming
+wei_None_20:19:26:Yes, I hope the heros will finally win.
+Bot_affirmative_20:19:26:This is the best thing I have seen in a long time.
+wei_None_20:19:43:Looks like you already know what will happen.
+Bot_elaborate_20:19:43:Can you elaborate on that?
+wei_None_20:20:22:because you said you have seen something, so I thought you've know what will happen.
+Bot_affirmative_20:20:22:I am glad to hear that.
+wei_None_20:20:43:Is it really can make you glad?
+Bot_opinion_20:20:43:Fear cuts deeper than swords.
+wei_None_20:20:55:Why do you say that?
+Bot_negative_20:20:55:You are just completely wrong
+wei_None_20:21:06:I am just asking a question.
+Bot_negative_20:21:06:Oh no that's horrible.
+wei_None_20:21:20:why it's horrible to ask a question?
+Bot_affirmative_20:21:20:Well, yeah
+wei_None_20:21:39:okay, I will shut up then.
+Bot_negative_20:21:39:I don't believe you.
+wei_None_20:21:47:humm.
+overall=4,start=5,interupt=3,engaing=3,return=4,

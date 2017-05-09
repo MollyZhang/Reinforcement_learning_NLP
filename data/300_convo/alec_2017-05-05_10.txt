@@ -1,0 +1,21 @@
+Bot_affirmative_23:04:27:I agree with you on that
+alec10_None_23:04:31:thank you.
+Bot_elaborate_23:04:31:What do you mean?
+alec10_None_23:04:42:i mean i thank you.
+Bot_negative_23:04:42:I don't get it.
+alec10_None_23:04:49:you won't get it. you are a bot.
+Bot_opinion_23:04:49:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+alec10_None_23:05:01:no they wont. they are brother and sister.
+Bot_elaborate_23:05:01:Can you elaborate on that?
+alec10_None_23:05:10:They are relatives.
+Bot_opinion_23:05:10:Hodor
+alec10_None_23:05:15:hodor..
+Bot_elaborate_23:05:15:How does that work?
+alec10_None_23:05:19:what?
+Bot_elaborate_23:05:19:please go on, I am intrigued
+alec10_None_23:05:44:Jon is son of Ddaenerys's brother.
+Bot_neutral_23:05:44:haha
+alec10_None_23:05:47::)
+Bot_affirmative_23:05:47:I am glad to hear that.
+alec10_None_23:05:50:great.
+return=0,overall=0,start=0,interupt=0,engaing=0,

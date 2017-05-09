@@ -1,0 +1,19 @@
+Bot_elaborate_23:21:05:Can you tell me more?
+wei_None_23:21:21:what do you want to hear?
+Bot_elaborate_23:21:21:Huh?
+wei_None_23:21:30:what do you want me to say?
+Bot_question_23:21:30:What's your favorite valyrian steel weapon?
+wei_None_23:21:35:Needle.
+Bot_opinion_23:21:35:Valar Morghulis
+wei_None_23:22:18:I think Aya Stark could finally kill the names on her list with Needle.
+Bot_elaborate_23:22:18:You gotta tell me more.
+wei_None_23:22:36:She finally becomes a no one.
+Bot_negative_23:22:36:Nah, it's not true.
+wei_None_23:22:47:what do you think?
+Bot_question_23:22:47:Who decides what morality is?
+wei_None_23:23:15:I am not sure, maybe the most powerful party。
+Bot_opinion_23:23:15:Can you be brave if you are afraid? That's the only time you can be brave
+wei_None_23:23:26:I will try my best.
+Bot_question_23:23:26:Have you watched other shows from HBO?
+wei_None_23:23:48:No, I don't have too much time to watch TV.
+overall=4,start=2,interupt=3,engaing=3,return=2,

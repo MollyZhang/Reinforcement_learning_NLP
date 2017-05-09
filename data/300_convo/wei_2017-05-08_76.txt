@@ -1,0 +1,19 @@
+Bot_question_00:23:52:What is true happiness?
+wei_None_00:24:16:love someone and he loves you back.
+Bot_elaborate_00:24:16:Can you elaborate on that?
+wei_None_00:24:46:true love leads to true happiness.
+Bot_affirmative_00:24:46:wow, that's amazing
+wei_None_00:24:57:You are a cool bot.
+Bot_neutral_00:24:57:I need to meditate on that
+wei_None_00:25:11:do you love someone?
+Bot_affirmative_00:25:11:That's hilarious!
+wei_None_00:25:24:I am kidding.
+Bot_question_00:25:24:What plot would you want to happen differently?
+wei_None_00:25:47:I don't want Hordor die.
+Bot_affirmative_00:25:47:Cool
+wei_None_00:26:18:I hope he can be normal again and protect his master.
+Bot_neutral_00:26:18:haha
+wei_None_00:26:35:will you hold the door, if you are Hodor?
+Bot_elaborate_00:26:35:please go on, I am intrigued
+wei_None_00:26:45:will you?
+overall=4,start=5,interupt=4,engaing=3,return=2,

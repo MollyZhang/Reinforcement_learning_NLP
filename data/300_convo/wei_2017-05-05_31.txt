@@ -1,0 +1,15 @@
+Bot_opinion_22:47:53:Fear cuts deeper than swords.
+wei_None_22:48:29:try to cut with both swords and fear, compare which one cut deeper.
+Bot_neutral_22:48:29:Really?
+wei_None_22:48:38:I am just kidding.
+Bot_question_22:48:38:Which season in the series do you like the most?
+wei_None_22:48:52:I like the second season.
+Bot_neutral_22:48:52:I need to meditate on that
+wei_None_22:49:11:Well, Which on do you like the most?
+Bot_opinion_22:49:11:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+wei_None_22:49:27:How do you know it?
+Bot_negative_22:49:27:Excuse me, that's not true.
+wei_None_22:49:38:I am confused.
+Bot_question_22:49:38:Who decides what morality is?
+wei_None_22:49:47:Can you decide on it?
+overall=3,start=4,interupt=3,engaing=2,return=2,

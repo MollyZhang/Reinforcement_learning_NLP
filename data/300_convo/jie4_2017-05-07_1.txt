@@ -1,0 +1,19 @@
+Bot_neutral_17:35:38:Well okay.
+jie4_None_17:35:42:okay.
+Bot_affirmative_17:35:42:You have a great piont point.
+jie4_None_17:36:10:ok, thank you.
+Bot_opinion_17:36:10:Hodor
+jie4_None_17:36:14:hold the door.
+Bot_elaborate_17:36:14:Can you elaborate on that?
+jie4_None_17:36:22:Hodor means 'hold the door'
+Bot_neutral_17:36:22:I need to meditate on that
+jie4_None_17:36:26:please do.
+Bot_elaborate_17:36:26:How does that work?
+jie4_None_17:36:35:it is a sad story.
+Bot_neutral_17:36:35:hmmm, that's interesting.
+jie4_None_17:36:38:it is.
+Bot_question_17:36:38:What's your favorite valyrian steel weapon?
+jie4_None_17:36:44:dagger.
+Bot_opinion_17:36:44:All dwarfs may be bastards yet not all bastards are dwarfs.
+jie4_None_17:37:03:Tyrion is a good person.
+overall=5,start=3,interupt=3,engaing=4,return=4,

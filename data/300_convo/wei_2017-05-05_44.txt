@@ -1,0 +1,19 @@
+Bot_opinion_23:24:11:The things I do for love.
+wei_None_23:24:29:do you think cerci loves back.
+Bot_neutral_23:24:29:LOL
+wei_None_23:24:59:Which family do you wanna kill?
+Bot_opinion_23:24:59:Valar Morghulis
+wei_None_23:25:17:the no one doesn't belong to any family.
+Bot_question_23:25:17:What's your biggest surprise?
+wei_None_23:25:50:Aya Stark survived and being so strong.
+Bot_affirmative_23:25:50:Awesome
+wei_None_23:26:10:I don't like the Sparrow.
+Bot_affirmative_23:26:10:Yep!
+wei_None_23:26:21:I am glad he died.
+Bot_elaborate_23:26:21:Can you elaborate on that?
+wei_None_23:26:33:he got killed by cerci.
+Bot_negative_23:26:33:I don't believe you.
+wei_None_23:26:50:check it out in the most recent season.
+Bot_opinion_23:26:50:All dwarfs may be bastards yet not all bastards are dwarfs.
+wei_None_23:27:04:Do you like Tyrion?
+overall=5,start=2,interupt=5,engaing=3,return=2,

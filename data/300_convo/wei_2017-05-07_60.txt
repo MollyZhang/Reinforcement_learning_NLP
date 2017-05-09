@@ -1,0 +1,15 @@
+Bot_affirmative_23:43:26:This is the best thing I have seen in a long time.
+wei_None_23:43:37:Do you want to share it with me?
+Bot_elaborate_23:43:37:Can you tell me more?
+wei_None_23:43:58:I wan to hear what is the best thing you seen.
+Bot_negative_23:43:58:I don't get it.
+wei_None_23:44:05:never mind.
+Bot_question_23:44:05:Is there any character that you want to date?
+wei_None_23:44:33:Only if you are playing in the TV series.
+Bot_opinion_23:44:33:When you play a game of thrones you win or you die.
+wei_None_23:44:43:so are you afraid?
+Bot_negative_23:44:43:I beg to differ.
+wei_None_23:44:52:wow, I am impressed.
+Bot_neutral_23:44:52:hmmm, that's interesting.
+wei_None_23:45:11:yeah, it will be fun to have you to play.
+overall=5,start=3,interupt=4,engaing=5,return=5,

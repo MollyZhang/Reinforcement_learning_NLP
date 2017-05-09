@@ -1,0 +1,15 @@
+Bot_opinion_23:45:29:Nothing isn't better or worse than anything. Nothing is just nothing.
+wei_None_23:45:57:but sometimes there is nothing to do.
+Bot_elaborate_23:45:57:Can you tell me more?
+wei_None_23:46:41:for example, if you are tired, just do nothing and relax, much better than keep buzy.
+Bot_negative_23:46:41:Excuse me, that's not true.
+wei_None_23:47:07:well, I guess you are a non-stop-working bot.
+Bot_opinion_23:47:07:Can you be brave if you are afraid? That's the only time you can be brave
+wei_None_23:47:26:I am not afraid of being buzy tough.
+Bot_question_23:47:26:What's your favorite Character?
+wei_None_23:47:47:I like Jo.
+Bot_negative_23:47:47:Nope.
+wei_None_23:48:14:she is my girlfriend, and she wants to be an actress.
+Bot_neutral_23:48:14:Well okay.
+wei_None_23:48:25:thanks for the undersdanding.
+overall=3,start=3,interupt=3,engaing=4,return=3,

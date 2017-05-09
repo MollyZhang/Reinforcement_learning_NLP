@@ -1,0 +1,21 @@
+Bot_question_22:38:18:Which do you like better, the books or the movies?
+alec7_None_22:38:23:Movies.
+Bot_neutral_22:38:23:LOL
+alec7_None_22:38:25::)
+Bot_neutral_22:38:25:hmmm, that's interesting.
+alec7_None_22:38:28:Why?
+Bot_elaborate_22:38:28:What?
+alec7_None_22:38:35:Why is that interesting?
+Bot_question_22:38:35:Have you watched the TV show?
+alec7_None_22:38:51:Of course.
+Bot_neutral_22:38:51:Well okay.
+alec7_None_22:39:16:ok.
+Bot_neutral_22:39:16:haha
+alec7_None_22:39:18:...
+Bot_question_22:39:18:Have you watched other shows from HBO?
+alec7_None_22:40:09:Yes, silicon valley.
+Bot_neutral_22:40:09:Really?
+alec7_None_22:40:11:Yes.
+Bot_affirmative_22:40:11:You have a great piont point.
+alec7_None_22:40:20:Ok, thank you.
+return=0,overall=1,start=1,interupt=1,engaing=1,

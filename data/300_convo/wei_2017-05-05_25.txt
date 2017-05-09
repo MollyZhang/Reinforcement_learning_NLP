@@ -1,0 +1,15 @@
+Bot_opinion_22:35:16:All dwarfs may be bastards yet not all bastards are dwarfs.
+wei_None_22:35:28:I totally agree with you.
+Bot_opinion_22:35:28:Nothing isn't better or worse than anything. Nothing is just nothing.
+wei_None_22:35:48:wow, you are totally on it.
+Bot_negative_22:35:48:Excuse me, that's not true.
+wei_None_22:35:58:but you are all talking about it.
+Bot_question_22:35:58:Is there any character that you want to date?
+wei_None_22:36:15:The dragon.
+Bot_opinion_22:36:15:Winter is coming
+wei_None_22:36:45:If I can ride a dragon to kill the white walkers, that will be amazing.
+Bot_opinion_22:36:45:Hodor
+wei_None_22:37:08:oh, another amazing charactor in this story.
+Bot_negative_22:37:08:Nope.
+wei_None_22:37:22:but at least, Hodor is very loyal.
+overall=5,start=4,interupt=4,engaing=4,return=5,

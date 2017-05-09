@@ -1,0 +1,15 @@
+Bot_elaborate_23:50:37:Can you elaborate on that?
+wei_None_23:50:44:what do you mean?
+Bot_affirmative_23:50:44:Me too! Let's be best friends :)
+wei_None_23:50:52:errrrrrr.
+Bot_question_23:50:52:What's your biggest surprise?
+wei_None_23:51:24:I saw dragons.
+Bot_opinion_23:51:24:Any man who must say 'I am the king' is no true king.
+wei_None_23:51:47:only the true dragon will be the king.
+Bot_negative_23:51:47:I beg to differ.
+wei_None_23:52:04:okay, that just what I thought.
+Bot_elaborate_23:52:04:please go on, I am intrigued
+wei_None_23:52:31:I don't want to say it, since you don't agree with me.
+Bot_elaborate_23:52:31:Huh?
+wei_None_23:52:37:sorry about that.
+overall=3,start=1,interupt=2,engaing=2,return=2,

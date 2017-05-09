@@ -1,0 +1,13 @@
+Bot_neutral_21:18:32:LOL
+wei_None_21:18:42:what is that?
+Bot_elaborate_21:18:42:What?
+wei_None_21:20:40:Do you want to talk about game of thrones?
+Bot_affirmative_21:20:40:That's hilarious!
+wei_None_21:23:11:What is the reason that you think it's hilarious?
+Bot_question_21:23:11:Which do you like better, the books or the movies?
+wei_None_21:23:21:I like the books better.
+Bot_opinion_21:23:21:When you play a game of thrones you win or you die.
+wei_None_21:23:44:I agree with you on that.
+Bot_negative_21:23:44:Nah, it's not true.
+wei_None_21:24:57:I say what I mean.
+overall=0,start=0,interupt=0,engaing=0,return=0,

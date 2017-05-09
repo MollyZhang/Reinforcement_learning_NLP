@@ -1,0 +1,11 @@
+Bot_opinion_22:35:38:I finished reading the books in 10 seconds because I am a computer.
+alec5_None_22:35:47:Wow, you are faster than any human.
+Bot_neutral_22:35:47:LOL
+alec5_None_22:35:51::-)
+Bot_question_22:35:51:Do you want to ride a dragon?
+alec5_None_22:35:54:Yes.
+Bot_neutral_22:35:54:I need to meditate on that
+alec5_None_22:36:00:Okay.
+Bot_neutral_22:36:00:haha
+alec5_None_22:36:08:lol.
+interupt=1,start=3,overall=2,engaing=3,return=2,

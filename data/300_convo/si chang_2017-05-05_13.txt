@@ -1,0 +1,19 @@
+Bot_question_23:48:14:Have you watched other shows from HBO?
+si chang_None_23:48:25:house of cards
+Bot_question_23:48:25:What is true strength?
+si chang_None_23:48:34:confidence
+Bot_opinion_23:48:34:Fear cuts deeper than swords.
+si chang_None_23:48:38:yea
+Bot_neutral_23:48:38:Well okay.
+si chang_None_23:48:42:how are you 
+Bot_elaborate_23:48:42:What?
+si chang_None_23:48:45:how are you
+Bot_elaborate_23:48:45:Can you tell me more?
+si chang_None_23:48:52:more about what
+Bot_neutral_23:48:52:haha
+si chang_None_23:48:56:oh man
+Bot_negative_23:48:56:You are just completely wrong
+si chang_None_23:49:00:oh man
+Bot_negative_23:49:00:Nope.
+si chang_None_23:49:03:come on
+overall=4,start=4,interupt=4,engaing=4,return=4,

@@ -1,0 +1,15 @@
+Bot_affirmative_23:41:40:I know what you mean
+wei_None_23:41:45:I said nothing.
+Bot_negative_23:41:45:I disagree.
+wei_None_23:42:07:What did I say then?
+Bot_negative_23:42:07:You are just completely wrong
+wei_None_23:42:16:I don't get it.
+Bot_neutral_23:42:16:hmmm, that's interesting.
+wei_None_23:42:29:You are so boring.
+Bot_negative_23:42:29:I don't think so.
+wei_None_23:42:34:But you are
+Bot_question_23:42:34:Do you like House of Cards?
+wei_None_23:42:52:YES, Do you watch it?
+Bot_opinion_23:42:52:Winter is coming
+wei_None_23:43:04:But that not from House of Cards.
+overall=2,start=1,interupt=2,engaing=2,return=2,

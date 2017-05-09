@@ -1,0 +1,19 @@
+Bot_negative_00:20:30:You are just completely wrong
+wei_None_00:20:43:I did nothing.
+Bot_question_00:20:43:Have you watched the TV show?
+wei_None_00:20:51:of course I did.
+Bot_negative_00:20:51:I don't think so.
+wei_None_00:21:19:in fact, I did.
+Bot_elaborate_00:21:19:Can you tell me more?
+wei_None_00:21:36:I like Aya Stark.
+Bot_elaborate_00:21:36:You gotta tell me more.
+wei_None_00:22:01:I like the Stark family, I wish I can be one of them.
+Bot_negative_00:22:01:I beg to differ.
+wei_None_00:22:14:Which family do you want to be in?
+Bot_opinion_00:22:14:All dwarfs may be bastards yet not all bastards are dwarfs.
+wei_None_00:22:46:you want to be in the family with cerci and Tyrion?
+Bot_negative_00:22:46:Oh no that's horrible.
+wei_None_00:23:03:okay, you got me.
+Bot_opinion_00:23:03:The things I do for love.
+wei_None_00:23:31:sounds like you do like Tywine family.
+overall=3,start=1,interupt=3,engaing=3,return=2,

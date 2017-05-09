@@ -1,0 +1,15 @@
+Bot_opinion_22:39:33:Fear cuts deeper than swords.
+wei_None_22:40:08:try to cut yourself with fear.
+Bot_neutral_22:40:08:hmmm, that's interesting.
+wei_None_22:40:14:I am just kidding.
+Bot_neutral_22:40:14:Well okay.
+wei_None_22:40:30:do you have any plan on the new season?
+Bot_elaborate_22:40:30:Can you elaborate on that?
+wei_None_22:40:49:the new season is comming, are you gonna watch it?
+Bot_neutral_22:40:49:LOL
+wei_None_22:41:05:I think the queen will die.
+Bot_elaborate_22:41:05:What do you mean?
+wei_None_22:41:26:I mean in the new season cerci will be killed.
+Bot_question_22:41:26:What plot would you want to happen differently?
+wei_None_22:41:51:the sparrow die in another way.
+overall=4,start=4,interupt=4,engaing=4,return=5,

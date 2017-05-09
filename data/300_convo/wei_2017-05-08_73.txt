@@ -1,0 +1,19 @@
+Bot_elaborate_00:14:33:Why?
+wei_None_00:14:38:what why?
+Bot_negative_00:14:38:Excuse me, that's not true.
+wei_None_00:14:55:Do you forget something?
+Bot_elaborate_00:14:55:please go on, I am intrigued
+wei_None_00:15:02:your drugs.
+Bot_neutral_00:15:02:Well okay.
+wei_None_00:15:32:Do you know when the new season will come out?
+Bot_opinion_00:15:32:Nothing isn't better or worse than anything. Nothing is just nothing.
+wei_None_00:15:58:I saw the flyers of the new season, waht do you mean?
+Bot_question_00:15:58:What one piece of advice would you offer to a person who have never seen the show?
+wei_None_00:16:23:every minute is enjoing.
+Bot_neutral_00:16:23:haha
+wei_None_00:16:29:don't you think so?
+Bot_elaborate_00:16:29:What do you mean?
+wei_None_00:16:41:do you enjoy the TV series.
+Bot_question_00:16:41:Which house do you wanted to be in?
+wei_None_00:17:06:I want to be in the Stark family, but you didn't answer my question.
+overall=2,start=0,interupt=2,engaing=1,return=1,

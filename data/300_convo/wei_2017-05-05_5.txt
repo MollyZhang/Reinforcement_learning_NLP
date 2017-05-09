@@ -1,0 +1,17 @@
+Bot_question_20:36:16:What plot would you want to happen differently?
+wei_None_20:37:18:I hope the dragons never eat people.
+Bot_question_20:37:18:What is true happiness?
+wei_None_20:42:21:In my opinion, true happiness means a happy family.
+Bot_elaborate_20:42:21:What?
+wei_None_20:44:02:I think a happy family is true happiness.
+Bot_elaborate_20:44:02:Huh?
+wei_None_20:44:22:I've said it twice.
+Bot_opinion_20:44:22:Valar Morghulis
+wei_None_20:44:45:oh, I like the man with no face, a man has no name.
+Bot_elaborate_20:44:45:Can you tell me more?
+wei_None_20:45:33:it's the master that called "NO One", who trained Aya Stark.
+Bot_elaborate_20:45:33:What do you mean?
+wei_None_20:47:07:I think you have difficulty with understanding my talking.
+Bot_elaborate_20:47:07:please go on, I am intrigued
+wei_None_20:47:49:because you need me to explain twice of a sigle sentence. Do you need any help?
+overall=2,start=5,interupt=1,engaing=1,return=1,

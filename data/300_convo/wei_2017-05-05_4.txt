@@ -1,0 +1,17 @@
+Bot_affirmative_20:30:35:Yep!
+wei_None_20:30:42:what's up?
+Bot_neutral_20:30:42:I need to meditate on that
+wei_None_20:30:58:okay, take your time
+Bot_opinion_20:30:58:Can you be brave if you are afraid? That's the only time you can be brave
+wei_None_20:31:19:I am always brave.
+Bot_elaborate_20:31:19:What?
+wei_None_20:31:49:I said I am brave, sounds like you don't trust me.
+Bot_elaborate_20:31:49:You gotta tell me more.
+wei_None_20:32:31:well, I think myself is strong and always be brave to overcome all kinds of difficulties in my life.
+Bot_neutral_20:32:31:hmmm, that's interesting.
+wei_None_20:32:49:tell me something about you.
+Bot_opinion_20:32:49:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+wei_None_20:33:25:Oh, really. that is highly likely to happen in the next season.
+Bot_question_20:33:25:Have you watched the TV show?
+wei_None_20:33:38:yes, all of them.
+overall=5,start=0,interupt=4,engaing=3,return=5,

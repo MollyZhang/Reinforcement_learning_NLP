@@ -1,0 +1,13 @@
+Bot_neutral_23:29:17:hmmm, that's interesting.
+si chang_None_23:29:24:you are right
+Bot_opinion_23:29:24:Can you be brave if you are afraid? That's the only time you can be brave
+si chang_None_23:29:38:sure, i can be brave
+Bot_question_23:29:38:Do you like House of Cards?
+si chang_None_23:29:43:yes i like it
+Bot_negative_23:29:43:I don't think so.
+si chang_None_23:29:48:why?
+Bot_question_23:29:48:What is true strength?
+si chang_None_23:29:57:not sure what you mean
+Bot_elaborate_23:29:57:What do you mean?
+si chang_None_23:30:08:i am asking you
+overall=3,start=3,interupt=3,engaing=3,return=3,

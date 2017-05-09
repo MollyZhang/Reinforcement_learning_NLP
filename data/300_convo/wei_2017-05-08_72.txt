@@ -1,0 +1,19 @@
+Bot_affirmative_00:12:18:Me too! Let's be best friends :)
+wei_None_00:12:33:well, thanks, but what do you mean?
+Bot_affirmative_00:12:33:Awesome
+wei_None_00:12:44:huh?
+Bot_elaborate_00:12:44:What do you mean?
+wei_None_00:12:53:I am confused.
+Bot_elaborate_00:12:53:Can you tell me more?
+wei_None_00:13:04:I don't know what to say.
+Bot_negative_00:13:04:I don't believe you.
+wei_None_00:13:32:Please be nice and talk on the topic.
+Bot_negative_00:13:32:I don't think so.
+wei_None_00:13:40:okay, then.
+Bot_elaborate_00:13:40:Can you elaborate on that?
+wei_None_00:14:03:you know nothing.
+Bot_negative_00:14:03:Nah, it's not true.
+wei_None_00:14:09:I know it.
+Bot_affirmative_00:14:09:Definitely.
+wei_None_00:14:16:er....
+overall=0,start=0,interupt=0,engaing=0,return=0,

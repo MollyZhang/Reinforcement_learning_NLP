@@ -1,0 +1,15 @@
+Bot_neutral_23:53:04:hmmm, that's interesting.
+wei_None_23:53:09:tell me
+Bot_negative_23:53:09:I don't think so.
+wei_None_23:53:18:why is that?
+Bot_negative_23:53:18:Oh no that's horrible.
+wei_None_23:53:31:what's interesting and horrible?
+Bot_elaborate_23:53:31:What do you mean?
+wei_None_23:53:44:I mean what I mean.
+Bot_opinion_23:53:44:Hodor
+wei_None_23:53:54:what do you mean?
+Bot_opinion_23:53:54:Dracarys
+wei_None_23:54:14:first you want me hold the door, then you are setting fire?
+Bot_neutral_23:54:14:haha
+wei_None_23:54:22:you are funny.
+overall=2,start=1,interupt=3,engaing=2,return=3,

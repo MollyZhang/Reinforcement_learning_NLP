@@ -1,0 +1,19 @@
+Bot_negative_00:07:46:I don't believe you.
+wei_None_00:07:53:I don't need it.
+Bot_opinion_00:07:53:Nothing isn't better or worse than anything. Nothing is just nothing.
+wei_None_00:08:15:I know what you mean.
+Bot_elaborate_00:08:15:please go on, I am intrigued
+wei_None_00:08:27:I am saying nothing meaningful.
+Bot_affirmative_00:08:27:Well, yeah
+wei_None_00:08:33:you are dull.
+Bot_affirmative_00:08:33:I agree with you on that
+wei_None_00:08:40:I am dull too.
+Bot_question_00:08:40:When do you think the Winds of Winter is going to come out?
+wei_None_00:08:48:I have no idea.
+Bot_elaborate_00:08:48:What do you mean?
+wei_None_00:08:55:I don't know.
+Bot_neutral_00:08:55:Really?
+wei_None_00:09:00:yes.
+Bot_opinion_00:09:00:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+wei_None_00:09:21:wow, that's huge.
+overall=2,start=1,interupt=3,engaing=2,return=1,

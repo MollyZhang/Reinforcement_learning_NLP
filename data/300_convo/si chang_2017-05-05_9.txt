@@ -1,0 +1,11 @@
+Bot_neutral_23:35:25:Well okay.
+si chang_None_23:35:28:hi
+Bot_neutral_23:35:28:haha
+si chang_None_23:35:31:haha waht
+Bot_affirmative_23:35:31:Me too! Let's be best friends :)
+si chang_None_23:35:37:ok sure
+Bot_question_23:35:37:What one piece of advice would you offer to a person who have never seen the show?
+si chang_None_23:35:45:please watch it
+Bot_affirmative_23:35:45:Fantastic idea!
+si chang_None_23:35:48:yea
+overall=5,start=5,interupt=5,engaing=5,return=5,

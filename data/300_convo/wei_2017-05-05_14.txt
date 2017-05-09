@@ -1,0 +1,15 @@
+Bot_opinion_21:52:00:Fear cuts deeper than swords.
+wei_None_21:52:38:I love swords, I think I will not fear if I have a sword.
+Bot_affirmative_21:52:38:Definitely.
+wei_None_21:52:55:Do you want to see more dragons in the new season?
+Bot_opinion_21:52:55:I finished reading the books in 10 seconds because I am a computer.
+wei_None_21:53:13:Any findings in books?
+Bot_neutral_21:53:13:haha
+wei_None_21:53:18:tell me.
+Bot_elaborate_21:53:18:What do you mean?
+wei_None_21:53:38:tell me what's going on in the books.
+Bot_neutral_21:53:38:Really?
+wei_None_21:53:52:yes, I want to know it.
+Bot_negative_21:53:52:I don't think so.
+wei_None_21:54:06:But I just said yes.
+overall=1,start=3,interupt=3,engaing=2,return=2,

@@ -1,0 +1,15 @@
+Bot_negative_23:56:52:Excuse me, that's not true.
+wei_None_23:57:05:it's rude to start like this.
+Bot_negative_23:57:05:You are just completely wrong
+wei_None_23:57:20:then I will talking rude too.
+Bot_question_23:57:20:Do you want to ride a dragon?
+wei_None_23:57:34:I will rudely ride a dragon.
+Bot_neutral_23:57:34:Really?
+wei_None_23:57:40:I am kidding.
+Bot_neutral_23:57:40:LOL
+wei_None_23:57:56:can we talk nicely from now on?
+Bot_question_23:57:56:What's good and what's evil?
+wei_None_23:58:13:wow, this question is hard to answer.
+Bot_elaborate_23:58:13:You gotta tell me more.
+wei_None_23:58:33:it's philosopy point.
+overall=1,start=0,interupt=2,engaing=1,return=2,

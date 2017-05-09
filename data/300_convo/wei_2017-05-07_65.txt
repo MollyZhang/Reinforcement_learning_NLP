@@ -1,0 +1,15 @@
+Bot_affirmative_23:54:44:You have a great piont point.
+wei_None_23:54:57:I don't know what do you mean.
+Bot_affirmative_23:54:57:This is the best thing I have seen in a long time.
+wei_None_23:55:23:can you share with me?
+Bot_elaborate_23:55:23:please go on, I am intrigued
+wei_None_23:55:35:I want to hear not tell.
+Bot_neutral_23:55:35:LOL
+wei_None_23:55:48:well, say something interesting.
+Bot_neutral_23:55:48:I need to meditate on that
+wei_None_23:56:06:this conversation if meaningless.
+Bot_affirmative_23:56:06:Cool
+wei_None_23:56:11:why?
+Bot_question_23:56:11:Which house do you wanted to be in?
+wei_None_23:56:28:I am lost, what about you?
+overall=0,start=1,interupt=0,engaing=0,return=1,

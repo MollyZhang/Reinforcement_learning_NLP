@@ -1,0 +1,15 @@
+Bot_affirmative_22:18:29:I know what you mean
+wei_None_22:18:38:But I said nothing.
+Bot_elaborate_22:18:38:What do you mean?
+wei_None_22:18:55:I said nothing and you just understand what I mean?
+Bot_opinion_22:18:55:Valar Morghulis
+wei_None_22:19:11:Do you want to be a no one?
+Bot_negative_22:19:11:You are just completely wrong
+wei_None_22:19:26:Okay, so you don't.
+Bot_affirmative_22:19:26:Yep!
+wei_None_22:19:45:which character in the story do you want to play?
+Bot_opinion_22:19:45:Any man who must say 'I am the king' is no true king.
+wei_None_22:20:08:so you want to paly any character except the king, I guess.
+Bot_affirmative_22:20:08:You have a great piont point.
+wei_None_22:20:27:thanks, you are a naughty bot.
+overall=4,start=1,interupt=4,engaing=3,return=4,

@@ -1,0 +1,15 @@
+Bot_elaborate_22:53:35:Why?
+wei_None_22:53:40:what why?
+Bot_neutral_22:53:40:hmmm, that's interesting.
+wei_None_22:53:48:well, you bet.
+Bot_affirmative_22:53:48:Brilliant!
+wei_None_22:54:01:I am not fallowing you.
+Bot_opinion_22:54:01:Valar Morghulis
+wei_None_22:54:18:that is a magical sentence.
+Bot_elaborate_22:54:18:What do you mean?
+wei_None_22:54:35:one man must serve.
+Bot_negative_22:54:35:Nah, it's not true.
+wei_None_22:54:48:it's true in the story though.
+Bot_affirmative_22:54:48:I know what you mean
+wei_None_22:55:14:How do you like the character of no one?
+overall=2,start=0,interupt=2,engaing=2,return=1,

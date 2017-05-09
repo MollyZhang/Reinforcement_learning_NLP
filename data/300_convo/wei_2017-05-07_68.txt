@@ -1,0 +1,15 @@
+Bot says:  Can you elaborate on that?
+wei: what?
+Bot says:  What?
+wei: what?
+Bot says:  Why?
+wei: oh, god.
+Bot says:  Can you tell me more?
+wei: I really can't
+Bot says:  All dwarfs may be bastards yet not all bastards are dwarfs.
+wei: are you a dwarf?
+Bot says:  hmmm, that's interesting.
+wei: since you are not tall.
+Bot says:  Fear cuts deeper than swords.
+wei: do you ever get cut by fear?
+overall=0,start=1,interupt=1,engaing=1,return=1,

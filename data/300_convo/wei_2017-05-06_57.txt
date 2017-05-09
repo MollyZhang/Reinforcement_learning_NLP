@@ -1,0 +1,15 @@
+Bot says:  Yep!
+wei: what's up?
+Bot says:  Which season in the series do you like the most?
+wei: I like the third season the most.
+Bot says:  Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+wei: You have a good memory on remembering all the quotes.
+Bot says:  What one piece of advice would you offer to a person who have never seen the show?
+wei: If you want to talk with the bot, you'd better watch it first.
+Bot says:  What's your favorite valyrian steel weapon?
+wei: I hope I could have a special designed sword.
+Bot says:  Can you be brave if you are afraid? That's the only time you can be brave
+wei: I will calm down, and always be brave, thanks.
+Bot says:  You are just completely wrong
+wei: okay, then what do you think?
+overall=4,start=2,interupt=4,engaing=5,return=3,

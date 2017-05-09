@@ -1,0 +1,19 @@
+Bot_opinion_17:41:52:Dracarys
+jie7_None_17:42:16:awesome magic.
+Bot_negative_17:42:16:I don't think so.
+jie7_None_17:42:28:it is awesome.
+Bot_elaborate_17:42:28:Huh?
+jie7_None_17:42:30:it is.
+Bot_question_17:42:30:Which do you like better, the books or the movies?
+jie7_None_17:42:33:movies.
+Bot_affirmative_17:42:33:Well, yeah
+jie7_None_17:42:40:do you like movies too?
+Bot_negative_17:42:40:I don't believe you.
+jie7_None_17:42:44:why not
+Bot_negative_17:42:44:You are just completely wrong
+jie7_None_17:42:54:haha, elaborate please.
+Bot_elaborate_17:42:54:What do you mean?
+jie7_None_17:43:09:i mean tell me about it.
+Bot_elaborate_17:43:09:please go on, I am intrigued
+jie7_None_17:43:18:I am finished actually.
+overall=1,start=3,interupt=2,engaing=1,return=1,

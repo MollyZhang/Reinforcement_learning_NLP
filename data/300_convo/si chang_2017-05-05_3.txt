@@ -1,0 +1,11 @@
+Bot_negative_23:30:21:Excuse me, that's not true.
+si chang_None_23:30:29:why not true
+Bot_elaborate_23:30:29:please go on, I am intrigued
+si chang_None_23:30:38:how are you
+Bot_question_23:30:38:What one piece of advice would you offer to a person who have never seen the show?
+si chang_None_23:31:06:which show
+Bot_question_23:31:06:Which season in the series do you like the most?
+si chang_None_23:31:18:did not watch it
+Bot_affirmative_23:31:18:You are so smart!
+si chang_None_23:31:23:thanks
+overall=4,start=4,interupt=4,engaing=4,return=4,

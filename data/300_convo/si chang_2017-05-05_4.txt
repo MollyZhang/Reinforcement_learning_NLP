@@ -1,0 +1,11 @@
+Bot_neutral_23:31:31:haha
+si chang_None_23:31:36:hi
+Bot_affirmative_23:31:36:Definitely.
+si chang_None_23:31:39:what
+Bot_opinion_23:31:39:Dracarys
+si chang_None_23:31:42:what
+Bot_affirmative_23:31:42:That's neat!
+si chang_None_23:31:47:sorry?
+Bot_negative_23:31:47:I don't get it.
+si chang_None_23:31:51:sorry?
+overall=0,start=0,interupt=0,engaing=0,return=0,

@@ -1,0 +1,15 @@
+Bot_question_22:31:58:Do you want to ride a dragon?
+wei_None_22:33:08:I would prefer train a dragon.
+Bot_opinion_22:33:08:Valar Morghulis
+wei_None_22:33:37:oh, I do want to take all the trainings to become a no one.
+Bot_opinion_22:33:37:Can you be brave if you are afraid? That's the only time you can be brave
+wei_None_22:34:17:I will try to be brave at all the times.
+Bot_affirmative_22:34:17:That's hilarious!
+wei_None_22:34:30:oh, come on, you don't know me.
+Bot_question_22:34:30:Have you watched other shows from HBO?
+wei_None_22:34:47:no, I don't have much time watching TV.
+Bot_question_22:34:47:What don't you like about Game of Throne's storyline?
+wei_None_22:34:57:I like all of them.
+Bot_affirmative_22:34:57:Me too! Let's be best friends :)
+wei_None_22:35:05:ok, my friend.
+overall=5,start=5,interupt=5,engaing=5,return=5,

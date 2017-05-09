@@ -1,0 +1,21 @@
+Bot_negative_00:07:23:You are just completely wrong
+wei_None_00:07:33:don't tell me I am wrong.
+Bot_elaborate_00:07:33:Huh?
+wei_None_00:07:58:I said nothing and you day I am wrong.
+Bot_negative_00:07:58:I don't think so.
+wei_None_00:08:07:but that what yo just did.
+Bot_negative_00:08:07:I disagree.
+wei_None_00:08:19:I am speechless.
+Bot_neutral_00:08:19:hmmm, that's interesting.
+wei_None_00:08:34:you are really interesting.
+Bot_neutral_00:08:34:Well okay.
+wei_None_00:08:51:what do you care about the story?
+Bot_question_00:08:51:Which do you like better, the books or the movies?
+wei_None_00:09:02:I like books better.
+Bot_neutral_00:09:02:LOL
+wei_None_00:09:07:how about you?
+Bot_negative_00:09:07:Nope.
+wei_None_00:09:25:as a bot, can you even watch the movies?
+Bot_affirmative_00:09:25:Cool
+wei_None_00:09:51:Where is your eyes?
+overall=4,start=0,interupt=1,engaing=3,return=2,

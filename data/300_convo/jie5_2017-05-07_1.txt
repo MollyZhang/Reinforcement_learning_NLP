@@ -1,0 +1,19 @@
+Bot_opinion_17:37:17:Fear cuts deeper than swords.
+jie5_None_17:37:40:that is a good point.
+Bot_negative_17:37:40:Nah, it's not true.
+jie5_None_17:37:46:it is true. you are wrong.
+Bot_neutral_17:37:46:Well okay.
+jie5_None_17:37:49::)
+Bot_opinion_17:37:49:Any man who must say 'I am the king' is no true king.
+jie5_None_17:38:03:agree. True king doens't need to say that.
+Bot_affirmative_17:38:03:I am glad to hear that.
+jie5_None_17:38:08:great.
+Bot_question_17:38:08:What's your favorite Character?
+jie5_None_17:38:50:The guy who dualed with the mountain and got killed.
+Bot_negative_17:38:50:I don't think so.
+jie5_None_17:38:58:what is your favorite?
+Bot_opinion_17:38:58:Can you be brave if you are afraid? That's the only time you can be brave
+jie5_None_17:39:12:good point, it is hard, i am not sure.
+Bot_negative_17:39:12:Oh no that's horrible.
+jie5_None_17:39:15:why?
+overall=2,start=3,interupt=3,engaing=2,return=3,

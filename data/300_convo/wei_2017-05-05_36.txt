@@ -1,0 +1,13 @@
+Bot_affirmative_23:00:58:That's hilarious!
+wei_None_23:01:03:what?
+Bot_question_23:01:03:What plot would you want to happen differently?
+wei_None_23:01:12:I have no idea.
+Bot_question_23:01:12:Is there any character that you want to date?
+wei_None_23:01:22:I want to date with you.
+Bot_elaborate_23:01:22:please go on, I am intrigued
+wei_None_23:01:42:how about we go out and have some drink.
+Bot_affirmative_23:01:42:I am glad to hear that.
+wei_None_23:02:03:It's wonderful that you agreed.
+Bot_opinion_23:02:03:Fear cuts deeper than swords.
+wei_None_23:02:20:sure, you are not fear of it.
+overall=4,start=1,interupt=3,engaing=4,return=3,

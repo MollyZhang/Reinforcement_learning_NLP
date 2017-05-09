@@ -1,0 +1,19 @@
+Bot_opinion_00:04:24:When you play a game of thrones you win or you die.
+wei_None_00:04:38:I hope I will survive.
+Bot_negative_00:04:38:Nope.
+wei_None_00:04:46:what do you mean?
+Bot_question_00:04:46:What is true happiness?
+wei_None_00:05:11:servive in the game and enjoy life with my family.
+Bot_negative_00:05:11:I don't get it.
+wei_None_00:05:55:if you have a lot of money, will you feel happy?
+Bot_affirmative_00:05:55:Brilliant!
+wei_None_00:06:10:wow, never thought you like money.
+Bot_affirmative_00:06:10:wow, that's amazing
+wei_None_00:06:34:okay, if you have money, where is it?
+Bot_elaborate_00:06:34:What?
+wei_None_00:06:48:where do you deposit your money, bank?
+Bot_neutral_00:06:48:hmmm, that's interesting.
+wei_None_00:07:08:If you don't mind, I can help.
+Bot_neutral_00:07:08:I need to meditate on that
+wei_None_00:07:26:well, yeah, think about it and let me know.
+overall=4,start=3,interupt=3,engaing=4,return=4,

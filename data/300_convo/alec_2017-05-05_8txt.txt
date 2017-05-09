@@ -1,0 +1,21 @@
+Bot_negative_22:40:57:I don't believe you.
+alec8_None_22:41:03:believe what?
+Bot_question_22:41:03:Which house do you wanted to be in?
+alec8_None_22:42:05:Targerion.
+Bot_opinion_22:42:05:Dracarys
+alec8_None_22:42:10:Cool.
+Bot_elaborate_22:42:10:Huh?
+alec8_None_22:42:19:Dracarys is a cool magic.
+Bot_negative_22:42:19:Oh no that's horrible.
+alec8_None_22:42:25:No, it is not.
+Bot_opinion_22:42:25:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+alec8_None_22:42:33:I don't know what this is.
+Bot_question_22:42:33:How long does it take for you to watch all the TV show?
+alec8_None_22:42:36:1 month.
+Bot_question_22:42:36:Which season in the series do you like the most?
+alec8_None_22:42:40:Last one.
+Bot_question_22:42:40:Who is your favorite villain?
+alec8_None_22:42:54:night king.
+Bot_negative_22:42:54:Nope.
+alec8_None_22:42:56:?
+return=0,overall=0,start=0,interupt=0,engaing=0,

@@ -1,0 +1,15 @@
+Bot_neutral_22:50:18:haha
+wei_None_22:50:21:hah
+Bot_elaborate_22:50:21:You gotta tell me more.
+wei_None_22:50:37:I am waiting for the new season.
+Bot_affirmative_22:50:37:wow, that's amazing
+wei_None_22:50:55:I hope I can see more baby dragons.
+Bot_question_22:50:55:Who is your favorite villain?
+wei_None_22:51:02:cerci
+Bot_negative_22:51:02:Nah, it's not true.
+wei_None_22:52:18:how about you tell me.
+Bot_question_22:52:18:What one piece of advice would you offer to a person who have never seen the show?
+wei_None_22:52:47:It's a great story about glory.
+Bot_question_22:52:47:Which season in the series do you like the most?
+wei_None_22:52:54:the first one.
+overall=4,start=1,interupt=4,engaing=3,return=3,

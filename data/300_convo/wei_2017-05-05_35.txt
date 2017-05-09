@@ -1,0 +1,13 @@
+Bot_neutral_22:59:04:hmmm, that's interesting.
+wei_None_22:59:12:can you tell me about it?
+Bot_affirmative_22:59:12:Fantastic idea!
+wei_None_22:59:19:okay, go ahead.
+Bot_affirmative_22:59:19:This is the best thing I have seen in a long time.
+wei_None_22:59:33:what is it?
+Bot_negative_22:59:33:Oh no that's horrible.
+wei_None_22:59:48:oh, come on.
+Bot_neutral_22:59:48:I need to meditate on that
+wei_None_23:00:03:then keep it to yourself.
+Bot_opinion_23:00:03:Nothing isn't better or worse than anything. Nothing is just nothing.
+wei_None_23:00:32:you still have nothing to say?
+overall=1,start=2,interupt=2,engaing=0,return=0,

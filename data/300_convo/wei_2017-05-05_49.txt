@@ -1,0 +1,13 @@
+Bot says:  Fantastic idea!
+wei: what's on your mind?
+Bot says:  Nope.
+wei: then what is that fatastic idea?
+Bot says:  I don't believe you.
+wei: You can do that.
+Bot says:  How does that work?
+wei: you could just not telling me anything.
+Bot says:  LOL
+wei: do you mean it?
+Bot says:  please go on, I am intrigued
+wei: alright, let's go back on the TV shows.
+overall=4,start=1,interupt=3,engaing=1,return=2,

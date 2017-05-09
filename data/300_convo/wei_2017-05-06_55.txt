@@ -1,0 +1,21 @@
+Bot_elaborate_00:03:54:Can you elaborate on that?
+wei_None_00:04:06:I don't know what do you mean.
+Bot_elaborate_00:04:06:Why?
+wei_None_00:04:11:you gotta tell me
+Bot_affirmative_00:04:11:Yep!
+wei_None_00:04:16:say it.
+Bot_opinion_00:04:16:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+wei_None_00:04:24:wow, that huge.
+Bot_opinion_00:04:24:Nothing isn't better or worse than anything. Nothing is just nothing.
+wei_None_00:05:34:you are saying all of the truth.
+Bot_elaborate_00:05:34:You gotta tell me more.
+wei_None_00:06:03:but I know less than you, so you are the person to speak.
+Bot_question_00:06:03:If you can kill any character, who would that be?
+wei_None_00:06:17:I hope I can fight to death.
+Bot_opinion_00:06:17:All dwarfs may be bastards yet not all bastards are dwarfs.
+wei_None_00:06:34:but can the dwarf fight as a knight?
+Bot_elaborate_00:06:34:What?
+wei_None_00:06:50:can Tyrion fight as a knight?
+Bot_opinion_00:06:50:Dracarys
+wei_None_00:07:07:You've lost me.
+overall=3,start=2,interupt=2,engaing=2,return=1,

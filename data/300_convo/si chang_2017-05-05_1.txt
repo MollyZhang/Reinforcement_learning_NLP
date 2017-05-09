@@ -1,0 +1,13 @@
+Bot_negative_21:56:25:I don't get it.
+si chang_None_21:56:31:why
+Bot_opinion_21:56:31:When you play a game of thrones you win or you die.
+si chang_None_21:56:38:i want to win
+Bot_opinion_21:56:38:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+si chang_None_21:56:45:maybe
+Bot_opinion_21:56:45:Dracarys
+si chang_None_21:56:49:what is this
+Bot_negative_21:56:49:You are just completely wrong
+si chang_None_21:56:54:really
+Bot_affirmative_21:56:54:You have a great piont point.
+si chang_None_21:56:59:come on
+overall=3,start=3,interupt=3,engaing=3,return=3,

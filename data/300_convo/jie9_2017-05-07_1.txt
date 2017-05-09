@@ -1,0 +1,19 @@
+Bot_neutral_17:48:26:LOL
+jie9_None_17:48:28::)
+Bot_neutral_17:48:28:haha
+jie9_None_17:48:30:haha
+Bot_affirmative_17:48:30:Cool
+jie9_None_17:48:32:cool.
+Bot_elaborate_17:48:32:Can you elaborate on that?
+jie9_None_17:48:37:nothing to elaborate.
+Bot_negative_17:48:37:I disagree.
+jie9_None_17:48:39:why?
+Bot_elaborate_17:48:39:How does that work?
+jie9_None_17:49:08:what are you talking about?
+Bot_affirmative_17:49:08:Yep!
+jie9_None_17:49:18:okay.
+Bot_opinion_17:49:18:Any man who must say 'I am the king' is no true king.
+jie9_None_17:49:23:agree, good pont.
+Bot_opinion_17:49:23:Can you be brave if you are afraid? That's the only time you can be brave
+jie9_None_17:49:29:it makes sense.
+overall=1,start=2,interupt=2,engaing=1,return=1,

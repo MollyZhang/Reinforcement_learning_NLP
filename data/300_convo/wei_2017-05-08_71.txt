@@ -1,0 +1,19 @@
+Bot_neutral_00:09:44:I need to meditate on that
+wei_None_00:09:50:what?
+Bot_elaborate_00:09:50:Why?
+wei_None_00:09:56:I am not sure.
+Bot_neutral_00:09:56:hmmm, that's interesting.
+wei_None_00:10:23:I hope the white walkers will all die in next season.
+Bot_neutral_00:10:23:Really?
+wei_None_00:10:49:Yes, and John Snow will lead the army, fight them.
+Bot_negative_00:10:49:Nah, it's not true.
+wei_None_00:10:57:What do you know?
+Bot_affirmative_00:10:57:That's hilarious!
+wei_None_00:11:22:No, it's not, John Snow will lead the army.
+Bot_opinion_00:11:22:When you play a game of thrones you win or you die.
+wei_None_00:11:39:I agree with you on that.
+Bot_negative_00:11:39:I don't believe you.
+wei_None_00:11:49:Then I don't agree with you.
+Bot_elaborate_00:11:49:Can you elaborate on that?
+wei_None_00:11:53:no.
+overall=1,start=0,interupt=1,engaing=0,return=0,

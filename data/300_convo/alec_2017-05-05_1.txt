@@ -1,0 +1,17 @@
+Bot_neutral_22:02:05:I need to meditate on that
+alec zhang_None_22:02:32:ok...
+Bot_opinion_22:02:32:Any man who must say 'I am the king' is no true king.
+alec zhang_None_22:03:01:agree, all people who said that died
+Bot_neutral_22:03:01:Well okay.
+alec zhang_None_22:03:05:okay
+Bot_opinion_22:03:05:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+alec zhang_None_22:03:37:I hope I won't learn that.
+Bot_question_22:03:37:Is there any character that you want to date?
+alec zhang_None_22:04:06:hmm, Emiliar Clark I guess.
+Bot_elaborate_22:04:06:You gotta tell me more.
+alec zhang_None_22:04:18:the dragon queue.
+Bot_negative_22:04:18:Excuse me, that's not true.
+alec zhang_None_22:04:22:why not?
+Bot_question_22:04:22:How long does it take for you to watch all the TV show?
+alec zhang_None_22:04:41:A few years.
+overall=2,return=4,start=0,engaing=3,interupt=2,

@@ -1,0 +1,19 @@
+Bot_affirmative_17:31:14:Awesome
+jie1_None_17:31:26:Awesome!
+Bot_opinion_17:31:26:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+jie1_None_17:31:35:Sad to hear that.
+Bot_question_17:31:35:What's good and what's evil?
+jie1_None_17:31:51:Hard to say.
+Bot_elaborate_17:31:51:What do you mean?
+jie1_None_17:32:06:Good and evil are personal opinion.
+Bot_question_17:32:06:What other fantasy books have you read?
+jie1_None_17:32:15:lord of rings.
+Bot_question_17:32:15:Have you watched other shows from HBO?
+jie1_None_17:32:21:silicon valley.
+Bot_elaborate_17:32:21:Huh?
+jie1_None_17:32:23:yes.
+Bot_negative_17:32:23:I beg to differ.
+jie1_None_17:32:37:west world.
+Bot_negative_17:32:37:You are just completely wrong
+jie1_None_17:32:40:why?
+overall=3,start=2,interupt=3,engaing=2,return=3,

@@ -1,0 +1,19 @@
+Bot_affirmative_17:33:30:I know what you mean
+jie2_None_17:33:34:great.
+Bot_question_17:33:34:If you can kill any character, who would that be?
+jie2_None_17:33:48:the young bolton.
+Bot_elaborate_17:33:48:What?
+jie2_None_17:33:56:Ramzee.
+Bot_affirmative_17:33:56:Cool
+jie2_None_17:33:58:Yes.
+Bot_negative_17:33:58:I disagree.
+jie2_None_17:34:00:why?
+Bot_negative_17:34:00:You are just completely wrong
+jie2_None_17:34:03:why?
+Bot_neutral_17:34:03:hmmm, that's interesting.
+jie2_None_17:34:05:why?
+Bot_affirmative_17:34:05:Me too! Let's be best friends :)
+jie2_None_17:34:11:ok.
+Bot_question_17:34:11:What is true happiness?
+jie2_None_17:34:17:i don't know.
+overall=1,start=3,interupt=1,engaing=1,return=2,

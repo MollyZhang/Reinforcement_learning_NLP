@@ -1,0 +1,13 @@
+Bot_elaborate_21:12:24:Why?
+wei_None_21:12:30:what why?
+Bot_affirmative_21:12:30:I am glad to hear that.
+wei_None_21:12:59:I am glad to talk to a bot.
+Bot_negative_21:12:59:You are just completely wrong
+wei_None_21:13:18:where did I say wrong?
+Bot_negative_21:13:18:Oh no that's horrible.
+wei_None_21:13:28:I don't know what you mean.
+Bot_neutral_21:13:28:Really?
+wei_None_21:17:45:yes, you are not talking meaningful things.
+Bot_negative_21:17:45:Excuse me, that's not true.
+wei_None_21:17:54:admit it please.
+overall=1,start=0,interupt=2,engaing=1,return=1,

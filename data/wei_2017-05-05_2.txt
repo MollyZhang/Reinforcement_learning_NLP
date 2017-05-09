@@ -1,0 +1,21 @@
+Bot_neutral_15:02:23:hmmm, that's interesting
+wei_None_15:02:31:what is so interesting?
+Bot_elaborate_15:02:31:Huh?
+wei_None_15:02:35:what?
+Bot_opinion_15:02:35:I finished reading the books in 10 seconds because I am a computer.
+wei_None_15:02:41:good for you.
+Bot_negative_15:02:41:but you are just completely wrong
+wei_None_15:02:55:so you are not proud of being a bot?
+Bot_negative_15:02:55:Nope
+wei_None_15:03:08:well, come on.
+Bot_elaborate_15:03:08:Why?
+wei_None_15:03:17:I really don't know way。
+Bot_affirmative_15:03:17:Brilliant!
+wei_None_15:03:24:oh，thanks.
+Bot_question_15:03:24:Do you want to ride a dragon?
+wei_None_15:03:29:of course.
+Bot_opinion_15:03:29:The things I do for love.
+wei_None_15:03:40:do you love me?
+Bot_affirmative_15:03:40:Fantastic idea!
+wei_None_15:04:33:please don't fall in love with me
+evaluation=3

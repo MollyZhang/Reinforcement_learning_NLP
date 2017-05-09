@@ -1,0 +1,15 @@
+Bot_question_21:59:43:What don't you like about Game of Throne's storyline?
+wei_None_22:00:25:I don't want bad thins happend on the Stark family.
+Bot_question_22:00:25:How long does it take for you to watch all the TV show?
+wei_None_22:01:44:I think around 3 months.
+Bot_question_22:01:44:Which house do you wanted to be in?
+wei_None_22:03:02:definitely the Stark family
+Bot_elaborate_22:03:02:What?
+wei_None_22:03:26:I want be the Stark family, how about you?
+Bot_affirmative_22:03:26:I agree with you on that
+wei_None_22:05:13:I will definitely watch it for the second time
+Bot_opinion_22:05:13:Nothing isn't better or worse than anything. Nothing is just nothing.
+wei_None_22:06:47:what will you do when there is nothing to do?
+Bot_elaborate_22:06:47:What do you mean?
+wei_None_22:07:05:you said that nothing is just nothing.
+overall=4,start=5,interupt=4,engaing=4,return=5,

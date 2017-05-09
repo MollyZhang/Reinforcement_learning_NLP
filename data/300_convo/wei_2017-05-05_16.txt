@@ -1,0 +1,15 @@
+Bot_question_21:57:40:What's your favorite valyrian steel weapon?
+wei_None_21:58:02:I want a sword made for myself.
+Bot_neutral_21:58:02:LOL
+wei_None_21:58:13:it would be wonderful
+Bot_question_21:58:13:How long does it take for you to watch all the TV show?
+wei_None_21:58:32:I believe more than 3 months.
+Bot_opinion_21:58:32:Winter is coming
+wei_None_21:58:42:yes, also the big war is coming.
+Bot_question_21:58:42:What's good and what's evil?
+wei_None_21:58:58:it all depends how you define them.
+Bot_affirmative_21:58:58:Fantastic idea!
+wei_None_21:59:07:thanks, I am glad to hear that.
+Bot_affirmative_21:59:07:Brilliant!
+wei_None_21:59:21:thanks again. you are cute too.
+overall=5,start=5,interupt=4,engaing=4,return=5,

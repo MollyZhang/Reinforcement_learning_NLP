@@ -1,0 +1,19 @@
+Bot_opinion_20:53:07:When you play a game of thrones you win or you die.
+Yue Cao_None_20:53:24:win
+Bot_neutral_20:53:24:haha
+Yue Cao_None_20:53:28:?
+Bot_affirmative_20:53:28:You are so smart!
+Yue Cao_None_20:53:35:thanks!
+Bot_negative_20:53:35:I beg to differ.
+Yue Cao_None_20:53:53:no problem!
+Bot_neutral_20:53:53:Well okay.
+Yue Cao_None_20:53:56:?
+Bot_opinion_20:53:56:Can you be brave if you are afraid? That's the only time you can be brave
+Yue Cao_None_20:54:06:Sure
+Bot_opinion_20:54:06:Fear cuts deeper than swords.
+Yue Cao_None_20:54:15:sword
+Bot_question_20:54:15:What plot would you want to happen differently?
+Yue Cao_None_20:55:06:Didn't watch before
+Bot_affirmative_20:55:06:Definitely.
+Yue Cao_None_20:55:16:^_^
+overall=3,start=3,interupt=5,engaing=4,return=3,

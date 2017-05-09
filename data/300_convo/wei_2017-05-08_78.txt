@@ -1,0 +1,19 @@
+Bot_neutral_00:29:14:I need to meditate on that
+wei_None_00:29:25:take your time.
+Bot_elaborate_00:29:25:What do you mean?
+wei_None_00:29:39:No rush on our talking.
+Bot_question_00:29:39:What other fantasy books have you read?
+wei_None_00:29:50:Harry Porter.
+Bot_opinion_00:29:50:Hodor
+wei_None_00:30:01:Hold the door.
+Bot_negative_00:30:01:I disagree.
+wei_None_00:30:19:What do you think it should be?
+Bot_neutral_00:30:19:Really?
+wei_None_00:30:33:I don't know what do you mean.
+Bot_neutral_00:30:33:hmmm, that's interesting.
+wei_None_00:30:41:that's not interesting.
+Bot_opinion_00:30:41:Any man who must say 'I am the king' is no true king.
+wei_None_00:30:48:are you a king?
+Bot_negative_00:30:48:I don't think so.
+wei_None_00:31:33:any man who say 'I am not the king' is not a king either.
+overall=3,start=1,interupt=2,engaing=1,return=2,

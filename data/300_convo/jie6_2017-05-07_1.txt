@@ -1,0 +1,19 @@
+Bot_opinion_17:39:27:Any man who must say 'I am the king' is no true king.
+jie6_None_17:40:51:agree. you said that in last conversation already.
+Bot_affirmative_17:40:51:Brilliant!
+jie6_None_17:40:55:haha, ok.
+Bot_question_17:40:55:What plot would you want to happen differently?
+jie6_None_17:41:00:red wedding.
+Bot_question_17:41:00:Have you watched other shows from HBO?
+jie6_None_17:41:07:yes, silicon valley.
+Bot_negative_17:41:07:I beg to differ.
+jie6_None_17:41:22:I haven't watch any other shows.
+Bot_affirmative_17:41:22:That's neat!
+jie6_None_17:41:24:ok.
+Bot_opinion_17:41:24:The things I do for love.
+jie6_None_17:41:34:That is great.
+Bot_question_17:41:34:Do you like House of Cards?
+jie6_None_17:41:38:Yes!
+Bot_neutral_17:41:38:LOL
+jie6_None_17:41:42:do you like it?
+overall=3,start=2,interupt=2,engaing=3,return=3,

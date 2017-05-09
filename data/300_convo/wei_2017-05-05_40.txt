@@ -1,0 +1,13 @@
+Bot_question_23:10:35:What's good and what's evil?
+wei_None_23:10:50:sometimes good is another kind of evil.
+Bot_elaborate_23:10:50:Huh?
+wei_None_23:11:01:Well, hard to define them.
+Bot_affirmative_23:11:01:Me too! Let's be best friends :)
+wei_None_23:11:16:can I know you bot friends?
+Bot_opinion_23:11:16:I finished reading the books in 10 seconds because I am a computer.
+wei_None_23:11:50:That is great, tell me more.
+Bot_elaborate_23:11:50:Why?
+wei_None_23:12:04:because I want to know what happens at the end.
+Bot_negative_23:12:04:Oh no that's horrible.
+wei_None_23:12:27:then don't say, I will know it in the new seasons.
+overall=4,start=3,interupt=3,engaing=2,return=4,

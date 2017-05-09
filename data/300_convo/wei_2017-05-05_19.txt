@@ -1,0 +1,15 @@
+Bot_opinion_22:13:19:Any man who must say 'I am the king' is no true king.
+wei_None_22:13:28:That is true.
+Bot_elaborate_22:13:28:Can you elaborate on that?
+wei_None_22:13:50:From the TV shows, every king dies.
+Bot_neutral_22:13:50:Well okay.
+wei_None_22:14:17:do you think the mother of dragon will rule the seven kindom?
+Bot_question_22:14:17:If you can kill any character, who would that be?
+wei_None_22:14:26:Cerci
+Bot_affirmative_22:14:26:I agree with you on that
+wei_None_22:14:48:it's great to have the same opinion with you.
+Bot_opinion_22:14:48:All dwarfs may be bastards yet not all bastards are dwarfs.
+wei_None_22:15:24:yes, Tyrion is a very great character in the story.
+Bot_negative_22:15:24:I don't think so.
+wei_None_22:15:48:what is the reason that you don't like him?
+overall=4,start=4,interupt=4,engaing=3,return=4,

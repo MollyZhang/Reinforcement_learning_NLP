@@ -1,0 +1,19 @@
+Bot_question_23:29:37:Have you watched the TV show?
+wei_None_23:29:46:yes I did.
+Bot_elaborate_23:29:46:please go on, I am intrigued
+wei_None_23:30:09:I think everyone watched it love it.
+Bot_question_23:30:09:What's your favorite valyrian steel weapon?
+wei_None_23:30:21:A big heavy sword.
+Bot_elaborate_23:30:21:How does that work?
+wei_None_23:30:48:I hope I can get stronger and prictice with it.
+Bot_negative_23:30:48:You are just completely wrong
+wei_None_23:31:20:then how can I get strong and not killed, if I don't have a sword?
+Bot_affirmative_23:31:20:This is the best thing I have seen in a long time.
+wei_None_23:31:39:wait, do you want me to get killed?
+Bot_question_23:31:39:Is there any character that you want to date?
+wei_None_23:31:49:the mother of dragon.
+Bot_opinion_23:31:49:Any man who must say 'I am the king' is no true king.
+wei_None_23:32:00:will Dannies die?
+Bot_negative_23:32:00:Nah, it's not true.
+wei_None_23:32:06:I hope so.
+overall=4,start=5,interupt=4,engaing=3,return=5,

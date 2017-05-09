@@ -1,0 +1,21 @@
+Bot_elaborate_23:41:19:Can you elaborate on that?
+wei_None_23:41:32:what do you want me to say about?
+Bot_question_23:41:32:Which do you like better, the books or the movies?
+wei_None_23:41:41:I like the books more.
+Bot_opinion_23:41:41:Winter is coming
+wei_None_23:42:08:Do you still remember who create the white walkers?
+Bot_opinion_23:42:08:All dwarfs may be bastards yet not all bastards are dwarfs.
+wei_None_23:42:41:Tyrion is a dwarf but his heart is strong.
+Bot_opinion_23:42:41:Valar Morghulis
+wei_None_23:43:12:all of the no ones are real breave.
+Bot_neutral_23:43:12:hmmm, that's interesting.
+wei_None_23:43:32:do you want to see future?
+Bot_affirmative_23:43:32:Brilliant!
+wei_None_23:44:42:if you can do that, then you will know what happened in the past and what will happen in the future.
+Bot_opinion_23:44:42:Hodor
+wei_None_23:45:28:so Hodor becomes Hodor because they traveled back time and controled him.
+Bot_negative_23:45:28:I don't get it.
+wei_None_23:45:38:alright, never mind.
+Bot_neutral_23:45:38:I need to meditate on that
+wei_None_23:45:52:well, I am not good at telling things.
+overall=4,start=2,interupt=2,engaing=2,return=1,

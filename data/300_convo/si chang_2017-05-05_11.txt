@@ -1,0 +1,19 @@
+Bot_negative_23:43:03:Oh no that's horrible.
+si chang_None_23:43:10:what is horrible
+Bot_neutral_23:43:10:Really?
+si chang_None_23:43:15:en
+Bot_affirmative_23:43:15:This is the best thing I have seen in a long time.
+si chang_None_23:43:32:what?
+Bot_neutral_23:43:32:hmmm, that's interesting.
+si chang_None_23:43:49:what is interesting
+Bot_elaborate_23:43:49:Why?
+si chang_None_23:43:53:what?
+Bot_opinion_23:43:53:Valar Morghulis
+si chang_None_23:43:57:?
+Bot_question_23:43:57:Who decides what morality is?
+si chang_None_23:44:06:not sure
+Bot_negative_23:44:06:Nah, it's not true.
+si chang_None_23:44:09:yea
+Bot_neutral_23:44:09:LOL
+si chang_None_23:44:15:?
+overall=2,start=2,interupt=2,engaing=2,return=2,
