@@ -1,0 +1,21 @@
+Bot_question_15:01:29:What don't you like about Game of Throne's storyline?
+molly_None_15:01:36:It moves sometimes too slowly
+Bot_opinion_15:01:36:Winter is coming
+molly_None_15:01:42:yeah 
+Bot_negative_15:01:42:Nope.
+molly_None_15:01:46:nope your face
+Bot_elaborate_15:01:46:please go on, I am intrigued
+molly_None_15:01:53:it's not intriguing and I don't want to go on
+Bot_question_15:01:53:What's your biggest surprise?
+molly_None_15:02:13:red wedding
+Bot_affirmative_15:02:13:Cool
+molly_None_15:02:17:great
+Bot_opinion_15:02:17:Dracarys
+molly_None_15:02:35:so scared
+Bot_question_15:02:35:What's good and what's evil?
+molly_None_15:02:44:I am good and you are evil
+Bot_affirmative_15:02:44:I am glad to hear that.
+molly_None_15:02:54:lol
+Bot_affirmative_15:02:54:You have a great piont point.
+molly_None_15:03:02:I just loled
+overall=1,start=3,interupt=2,engaing=0,return=2,

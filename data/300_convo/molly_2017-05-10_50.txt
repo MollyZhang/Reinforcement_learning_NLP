@@ -1,0 +1,21 @@
+Bot_negative_14:53:43:I don't believe you.
+molly_None_14:54:03:I didn't say anything yet
+Bot_elaborate_14:54:03:Can you tell me more?
+molly_None_14:54:16:what do you want to know
+Bot_question_14:54:16:Who is your favorite villain?
+molly_None_14:54:52:hmmmm I guess the red woman, because she knows magic!
+Bot_neutral_14:54:52:Well okay.
+molly_None_14:54:59:what ?
+Bot_affirmative_14:54:59:Well, yeah
+molly_None_14:55:04:you just said the same thing
+Bot_question_14:55:04:What other fantasy books have you read?
+molly_None_14:55:11:hmmmm harry porter
+Bot_neutral_14:55:11:hmmm, that's interesting.
+molly_None_14:55:15:why?
+Bot_question_14:55:15:What plot would you want to happen differently?
+molly_None_14:56:26:To have dumbodore not die
+Bot_affirmative_14:56:26:You are funny
+molly_None_14:56:32:it's not funny, you sick fuck
+Bot_negative_14:56:32:You are just completely wrong
+molly_None_14:56:35:why??
+overall=1,start=0,interupt=1,engaing=2,return=2,

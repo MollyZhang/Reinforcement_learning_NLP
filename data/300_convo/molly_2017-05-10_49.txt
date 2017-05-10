@@ -1,0 +1,21 @@
+Bot_question_14:52:23:What is true strength?
+molly_None_14:52:37:Talking to you despite the horrible conversation, that's true strength
+Bot_neutral_14:52:37:I need to meditate on that
+molly_None_14:52:39:Do that
+Bot_negative_14:52:39:I don't believe you.
+molly_None_14:52:45:...
+Bot_neutral_14:52:45:Really?
+molly_None_14:52:47:no
+Bot_negative_14:52:47:I don't get it.
+molly_None_14:52:53:yeah because you are dumb
+Bot_neutral_14:52:53:Well okay.
+molly_None_14:52:55:haha
+Bot_affirmative_14:52:55:Awesome
+molly_None_14:52:58:great
+Bot_question_14:52:58:What's good and what's evil?
+molly_None_14:53:02:You are evil
+Bot_neutral_14:53:02:LOL
+molly_None_14:53:10:you have good humor
+Bot_neutral_14:53:10:hmmm, that's interesting.
+molly_None_14:53:26:why is it interesting?
+overall=3,start=4,interupt=4,engaing=2,return=3,

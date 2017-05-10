@@ -1,0 +1,21 @@
+Bot_elaborate_14:36:53:How does that work?
+molly_None_14:36:56:nothing works
+Bot_elaborate_14:36:56:Why?
+molly_None_14:36:59:why ?
+Bot_negative_14:36:59:Nope.
+molly_None_14:37:00:nope!
+Bot_elaborate_14:37:00:You gotta tell me more.
+molly_None_14:37:03:omg
+Bot_opinion_14:37:03:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+molly_None_14:37:08:I don't think so
+Bot_affirmative_14:37:08:This is the best thing I have seen in a long time.
+molly_None_14:37:15:it's not good
+Bot_question_14:37:15:What plot would you want to happen differently?
+molly_None_14:37:18:nothing
+Bot_neutral_14:37:18:hmmm, that's interesting.
+molly_None_14:37:21:it's not
+Bot_negative_14:37:21:Excuse me, that's not true.
+molly_None_14:37:23:..
+Bot_opinion_14:37:23:Nothing isn't better or worse than anything. Nothing is just nothing.
+molly_None_14:37:24:..
+overall=0,start=0,interupt=0,engaing=0,return=0,

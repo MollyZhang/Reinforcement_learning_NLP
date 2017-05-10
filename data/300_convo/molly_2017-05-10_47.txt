@@ -1,0 +1,21 @@
+Bot_elaborate_14:47:01:Can you elaborate on that?
+molly_None_14:47:24:on what?
+Bot_opinion_14:47:24:When you play a game of thrones you win or you die.
+molly_None_14:47:27:okay
+Bot_negative_14:47:27:I don't get it.
+molly_None_14:47:33:there is nothing to get
+Bot_question_14:47:33:When do you think the Winds of Winter is going to come out?
+molly_None_14:47:36:never
+Bot_negative_14:47:36:Nah, it's not true.
+molly_None_14:47:40:why what do you know
+Bot_neutral_14:47:40:LOL
+molly_None_14:47:43:funny
+Bot_elaborate_14:47:43:You gotta tell me more.
+molly_None_14:47:46:not funny
+Bot_opinion_14:47:46:Can you be brave if you are afraid? That's the only time you can be brave
+molly_None_14:48:28:what ?
+Bot_elaborate_14:48:28:What?
+molly_None_14:48:31:what what?
+Bot_neutral_14:48:31:haha
+molly_None_14:48:35:haha your ass
+overall=0,start=0,interupt=0,engaing=0,return=0,

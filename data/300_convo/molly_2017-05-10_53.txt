@@ -1,0 +1,21 @@
+Bot_negative_14:59:30:I don't believe you.
+molly_None_14:59:42:I don't believe you
+Bot_affirmative_14:59:42:That's hilarious!
+molly_None_14:59:45:really?
+Bot_affirmative_14:59:45:Fantastic idea!
+molly_None_14:59:53:I didn't propose any idea
+Bot_opinion_14:59:53:Fear cuts deeper than swords.
+molly_None_15:00:28:my annoyance cuts deeper than fear
+Bot_opinion_15:00:28:Nothing isn't better or worse than anything. Nothing is just nothing.
+molly_None_15:00:36:my annoyance is worse than nothing
+Bot_question_15:00:36:Have you watched the TV show?
+molly_None_15:00:51:yeah
+Bot_neutral_15:00:51:hmmm, that's interesting.
+molly_None_15:00:53:why?
+Bot_affirmative_15:00:53:Awesome
+molly_None_15:00:55:no!
+Bot_negative_15:00:55:Nope.
+molly_None_15:01:00:glad you agree
+Bot_elaborate_15:01:00:Huh?
+molly_None_15:01:06:..
+overall=0,start=0,interupt=0,engaing=0,return=0,

@@ -1,0 +1,21 @@
+Bot_neutral_14:40:24:LOL
+molly_None_14:40:30:what's so funny
+Bot_neutral_14:40:30:Really?
+molly_None_14:40:42:I am asking you
+Bot_negative_14:40:42:Nope.
+molly_None_14:40:54:you are the worst
+Bot_affirmative_14:40:54:Cool
+molly_None_14:41:07:no
+Bot_negative_14:41:07:I disagree.
+molly_None_14:41:14:nononononono!
+Bot_negative_14:41:14:Nah, it's not true.
+molly_None_14:41:21:awwwww I am going crazy
+Bot_opinion_14:41:21:Nothing isn't better or worse than anything. Nothing is just nothing.
+molly_None_14:41:35:you sick fuck
+Bot_elaborate_14:41:35:How does that work?
+molly_None_14:41:39:you are sick
+Bot_negative_14:41:39:You are just completely wrong
+molly_None_14:41:41:I am not
+Bot_negative_14:41:41:I beg to differ.
+molly_None_14:41:45:NOOOOO
+overall=0,start=1,interupt=0,engaing=0,return=0,

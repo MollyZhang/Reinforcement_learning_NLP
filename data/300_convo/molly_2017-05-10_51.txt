@@ -1,0 +1,21 @@
+Bot_elaborate_14:56:47:Can you elaborate on that?
+molly_None_14:56:50:What?
+Bot_affirmative_14:56:50:I know what you mean
+molly_None_14:56:58:You don't apparently
+Bot_affirmative_14:56:58:This is the best thing I have seen in a long time.
+molly_None_14:57:03:You have not seen anything
+Bot_opinion_14:57:03:Hodor
+molly_None_14:57:08:Hodor your ass
+Bot_affirmative_14:57:08:Me too! Let's be best friends :)
+molly_None_14:57:16:I don't want to be your best friend
+Bot_affirmative_14:57:16:I agree with you on that
+molly_None_14:57:19:haha
+Bot_opinion_14:57:19:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+molly_None_14:57:26:Why do you think that?
+Bot_affirmative_14:57:26:I am glad to hear that.
+molly_None_14:57:32:what?
+Bot_affirmative_14:57:32:You are so smart!
+molly_None_14:57:34:I am not
+Bot_opinion_14:57:34:Can you be brave if you are afraid? That's the only time you can be brave
+molly_None_14:58:14:okay
+overall=0,start=0,interupt=1,engaing=0,return=0,

@@ -1,0 +1,21 @@
+Bot_opinion_14:42:14:Nothing isn't better or worse than anything. Nothing is just nothing.
+molly_None_14:42:22:okay whatever
+Bot_negative_14:42:22:I don't believe you.
+molly_None_14:43:05:really
+Bot_affirmative_14:43:05:You have a great piont point.
+molly_None_14:43:14:..
+Bot_negative_14:43:14:You are just completely wrong
+molly_None_14:43:16:...
+Bot_negative_14:43:16:Oh no that's horrible.
+molly_None_14:43:18:...
+Bot_opinion_14:43:18:When you play a game of thrones you win or you die.
+molly_None_14:43:29:I am so sick of talking to you
+Bot_elaborate_14:43:29:What do you mean?
+molly_None_14:43:34:You are soooo bad
+Bot_neutral_14:43:34:haha
+molly_None_14:43:40:yeah
+Bot_elaborate_14:43:40:How does that work?
+molly_None_14:43:45:you are just horrible
+Bot_neutral_14:43:45:Really?
+molly_None_14:43:47:yeah
+overall=1,start=1,interupt=1,engaing=0,return=1,

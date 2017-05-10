@@ -1,0 +1,21 @@
+Bot_elaborate_14:37:33:please go on, I am intrigued
+molly_None_14:37:37:I said nothing
+Bot_opinion_14:37:37:Any man who must say 'I am the king' is no true king.
+molly_None_14:37:42:I didn't say that either
+Bot_negative_14:37:42:I disagree.
+molly_None_14:38:03:you are making me really mad
+Bot_neutral_14:38:03:Well okay.
+molly_None_14:38:09:...
+Bot_affirmative_14:38:09:I am glad to hear that.
+molly_None_14:38:13:I didn't say anything!
+Bot_neutral_14:38:13:LOL
+molly_None_14:38:18:you are so abusive
+Bot_question_14:38:18:What don't you like about Game of Throne's storyline?
+molly_None_14:38:41:you are also crazy
+Bot_negative_14:38:41:I beg to differ.
+molly_None_14:38:48:you are horrible
+Bot_negative_14:38:48:I don't think so.
+molly_None_14:39:30:..
+Bot_negative_14:39:30:I don't get it.
+molly_None_14:39:40:I know you never get it
+overall=0,start=0,interupt=0,engaing=0,return=0,

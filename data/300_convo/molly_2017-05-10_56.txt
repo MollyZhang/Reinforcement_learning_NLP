@@ -1,0 +1,21 @@
+Bot_question_15:04:34:Who is your favorite villain?
+molly_None_15:04:57:you are 
+Bot_elaborate_15:04:57:Can you elaborate on that?
+molly_None_15:05:08:because your randomness is entirely infuriating
+Bot_affirmative_15:05:08:I am glad to hear that.
+molly_None_15:05:11:...
+Bot_neutral_15:05:11:I need to meditate on that
+molly_None_15:05:15:yeah do that 
+Bot_negative_15:05:15:Excuse me, that's not true.
+molly_None_15:05:18:...
+Bot_neutral_15:05:18:LOL
+molly_None_15:05:21:not funny
+Bot_affirmative_15:05:21:Awesome
+molly_None_15:05:24:not awesome
+Bot_affirmative_15:05:24:I know what you mean
+molly_None_15:05:27:you don't really
+Bot_question_15:05:27:What is true strength?
+molly_None_15:05:43:me talking to you
+Bot_neutral_15:05:43:hmmm, that's interesting.
+molly_None_15:05:47:is it?
+overall=0,start=1,interupt=0,engaing=0,return=0,

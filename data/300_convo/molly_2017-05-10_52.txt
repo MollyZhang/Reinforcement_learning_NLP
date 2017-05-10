@@ -1,0 +1,21 @@
+Bot_elaborate_14:58:23:Why?
+molly_None_14:58:26:why what?
+Bot_elaborate_14:58:26:What?
+molly_None_14:58:29:what what?
+Bot_opinion_14:58:29:All dwarfs may be bastards yet not all bastards are dwarfs.
+molly_None_14:58:32:okay..
+Bot_affirmative_14:58:32:Me too! Let's be best friends :)
+molly_None_14:58:42:don't know what you are talkiing about
+Bot_question_14:58:42:Who decides what morality is?
+molly_None_14:58:51:Me and you are evil I have decided
+Bot_opinion_14:58:51:Fear cuts deeper than swords.
+molly_None_14:59:00:sure
+Bot_negative_14:59:00:I don't believe you.
+molly_None_14:59:10:of course you do
+Bot_negative_14:59:10:Excuse me, that's not true.
+molly_None_14:59:14:haha 
+Bot_elaborate_14:59:14:What do you mean?
+molly_None_14:59:17:I don't know 
+Bot_negative_14:59:17:Nope.
+molly_None_14:59:20:nope your face
+overall=0,start=0,interupt=0,engaing=0,return=0,

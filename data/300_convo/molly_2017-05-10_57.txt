@@ -1,0 +1,21 @@
+Bot_opinion_15:06:15:I finished reading the books in 10 seconds because I am a computer.
+molly_None_15:06:21:Good for you, congrats
+Bot_negative_15:06:21:You are just completely wrong
+molly_None_15:06:24:you are mean
+Bot_affirmative_15:06:24:Well, yeah
+molly_None_15:06:31:glad to aknowledge that
+Bot_elaborate_15:06:31:What do you mean?
+molly_None_15:06:38:I mean that you are quite self-aware
+Bot_negative_15:06:38:Nah, it's not true.
+molly_None_15:06:57:that's true too, you are self-aware in the way that you know that you are not self-aware
+Bot_negative_15:06:57:Oh no that's horrible.
+molly_None_15:07:04:yeah
+Bot_negative_15:07:04:I don't get it.
+molly_None_15:07:13:I understand, you are a bot
+Bot_neutral_15:07:13:hmmm, that's interesting.
+molly_None_15:07:19:no it's not
+Bot_elaborate_15:07:19:You gotta tell me more.
+molly_None_15:07:53:you are not interesting, and you are not self-aware and you are a random utterance generating bot and that's the truth of your existence, suck it in! It's horrible
+Bot_elaborate_15:07:53:Can you elaborate on that?
+molly_None_15:09:37:you have about 6 strategies and about 60 pre-written utterances in total and you randomly pick one thing to say out of the 6 strategies and 60 utterances, 99% of the time you speak nonsense, but I have to talk to you regardless to painfully collect manual data for my reinforcement learning project. I hate you. I hope you can get smarter and I will love you. But I hate you now, and I hate to talk to you. 
+overall=3,start=2,interupt=2,engaing=1,return=1,

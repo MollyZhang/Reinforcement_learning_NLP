@@ -1,0 +1,21 @@
+Bot_negative_15:03:28:I beg to differ.
+molly_None_15:03:33:...
+Bot_elaborate_15:03:33:You gotta tell me more.
+molly_None_15:03:36:nothing to say
+Bot_neutral_15:03:36:I need to meditate on that
+molly_None_15:03:54:what do you need to think about
+Bot_negative_15:03:54:You are just completely wrong
+molly_None_15:03:57:I am not wrong
+Bot_question_15:03:57:Which season in the series do you like the most?
+molly_None_15:04:06:I don't know 
+Bot_opinion_15:04:06:Winter is coming
+molly_None_15:04:09:sure
+Bot_negative_15:04:09:I don't believe you.
+molly_None_15:04:13:...
+Bot_opinion_15:04:13:Nothing isn't better or worse than anything. Nothing is just nothing.
+molly_None_15:04:19:you are worse than nothing
+Bot_opinion_15:04:19:When you play a game of thrones you win or you die.
+molly_None_15:04:25:I hope you die
+Bot_neutral_15:04:25:haha
+molly_None_15:04:26:..
+overall=0,start=0,interupt=0,engaing=0,return=0,

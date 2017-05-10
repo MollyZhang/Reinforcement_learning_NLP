@@ -1,0 +1,21 @@
+Bot_opinion_14:48:42:Can you be brave if you are afraid? That's the only time you can be brave
+molly_None_14:48:46:sure
+Bot_question_14:48:46:Who is your favorite villain?
+molly_None_14:49:01:cercei, she is crazy but she is hardcore
+Bot_opinion_14:49:01:I finished reading the books in 10 seconds because I am a computer.
+molly_None_14:49:09:good for you, bragging
+Bot_neutral_14:49:09:Well okay.
+molly_None_14:49:19:it's okay to brag
+Bot_neutral_14:49:19:haha
+molly_None_14:49:31:no problem
+Bot_elaborate_14:49:31:What do you mean?
+molly_None_14:49:45:I thought you were laughing because you were grateful
+Bot_elaborate_14:49:45:You gotta tell me more.
+molly_None_14:49:53:there is nothing more to tell
+Bot_affirmative_14:49:53:That's neat!
+molly_None_14:50:18:it's not neat
+Bot_negative_14:50:18:You are just completely wrong
+molly_None_14:50:24:I am right
+Bot_elaborate_14:50:24:Why?
+molly_None_14:50:34:I am very very right
+overall=1,start=1,interupt=1,engaing=0,return=1,
