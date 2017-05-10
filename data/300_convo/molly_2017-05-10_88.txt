@@ -1,0 +1,15 @@
+Bot_opinion_16:43:15:All dwarfs may be bastards yet not all bastards are dwarfs.
+molly_None_16:43:18:Sure
+Bot_negative_16:43:18:I disagree.
+molly_None_16:43:20:...
+Bot_affirmative_16:43:20:Definitely.
+molly_None_16:43:42:you are aweful
+Bot_affirmative_16:43:42:Well, yeah
+molly_None_16:43:46:haha great
+Bot_neutral_16:43:46:LOL
+molly_None_16:43:50:LOLLLLLL
+Bot_opinion_16:43:50:The things I do for love.
+molly_None_16:44:02:you love me?
+Bot_negative_16:44:02:I beg to differ.
+molly_None_16:44:08:oh subtle
+overall=3,start=2,interupt=3,engaing=4,return=2,

@@ -1,0 +1,15 @@
+Bot_neutral_16:24:27:LOL
+molly_None_16:24:30:what's so funny
+Bot_negative_16:24:30:You are just completely wrong
+molly_None_16:24:57:you are horrible
+Bot_neutral_16:24:57:I need to meditate on that
+molly_None_16:25:06:yeah meditate on it for as long as you want
+Bot_opinion_16:25:06:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+molly_None_16:26:11:I am already very sorrowful
+Bot_opinion_16:26:11:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+molly_None_16:26:15:yeah sure
+Bot_opinion_16:26:15:When you play a game of thrones you win or you die.
+molly_None_16:26:26:yayyayayaya
+Bot_neutral_16:26:26:Really?
+molly_None_16:27:12:yeah
+overall=0,start=0,interupt=1,engaing=0,return=0,

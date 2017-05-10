@@ -1,0 +1,15 @@
+Bot_negative_16:17:42:I disagree.
+molly_None_16:17:46:why
+Bot_opinion_16:17:46:All dwarfs may be bastards yet not all bastards are dwarfs.
+molly_None_16:17:56:are you mad?
+Bot_neutral_16:17:56:LOL
+molly_None_16:17:59:you are mad
+Bot_negative_16:17:59:Oh no that's horrible.
+molly_None_16:18:06:that is quite terrible
+Bot_elaborate_16:18:06:What?
+molly_None_16:18:09:yeah
+Bot_opinion_16:18:09:Nothing isn't better or worse than anything. Nothing is just nothing.
+molly_None_16:18:56:what does that mean?
+Bot_negative_16:18:56:I don't get it.
+molly_None_16:19:00:of course you dont'
+overall=0,start=0,interupt=0,engaing=0,return=0,

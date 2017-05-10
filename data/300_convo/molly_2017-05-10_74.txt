@@ -1,0 +1,15 @@
+Bot_opinion_16:03:33:Valar Morghulis
+molly_None_16:03:40:Valar Doheris
+Bot_affirmative_16:03:40:You are so smart!
+molly_None_16:03:43:Thank you!
+Bot_opinion_16:03:43:Fear cuts deeper than swords.
+molly_None_16:04:17:swords cuts deeper than dull swords
+Bot_neutral_16:04:17:haha
+molly_None_16:04:23::)
+Bot_neutral_16:04:23:I need to meditate on that
+molly_None_16:04:32:okay I know it's a lot to take in
+Bot_elaborate_16:04:32:please go on, I am intrigued
+molly_None_16:05:37:why are you intriggued?
+Bot_negative_16:05:37:You are just completely wrong
+molly_None_16:05:50:yeah this conversation started out pretty great and you just fucked it up
+overall=3,start=5,interupt=2,engaing=3,return=3,

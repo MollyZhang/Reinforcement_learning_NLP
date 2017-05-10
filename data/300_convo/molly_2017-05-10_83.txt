@@ -1,0 +1,15 @@
+Bot_opinion_16:31:24:Valar Morghulis
+molly_None_16:31:29:Valar Doheris
+Bot_elaborate_16:31:29:What?
+molly_None_16:33:21:I thought you know the right response to the quote you said
+Bot_affirmative_16:33:21:I am glad to hear that.
+molly_None_16:33:26:but you don't
+Bot_negative_16:33:26:I beg to differ.
+molly_None_16:33:29:...
+Bot_negative_16:33:29:I don't believe you.
+molly_None_16:33:37:I can't belive you either
+Bot_affirmative_16:33:37:Yep!
+molly_None_16:36:17:you are bad
+Bot_elaborate_16:36:17:What do you mean?
+molly_None_16:36:25:I mean you are a bad bot
+overall=0,start=0,interupt=0,engaing=0,return=0,

@@ -1,0 +1,15 @@
+Bot_elaborate_16:37:39:Huh?
+molly_None_16:37:41:what?
+Bot_elaborate_16:37:41:How does that work?
+molly_None_16:37:44:nothing works
+Bot_neutral_16:37:44:LOL
+molly_None_16:38:18:yeah I want to laugh and cry at the same time
+Bot_negative_16:38:18:Nope.
+molly_None_16:38:22:you suck
+Bot_question_16:38:22:What is true happiness?
+molly_None_16:38:39:I need to meditate on that
+Bot_elaborate_16:38:39:What do you mean?
+molly_None_16:38:45:I need to think about that
+Bot_affirmative_16:38:45:Me too! Let's be best friends :)
+molly_None_16:38:48:okay
+overall=0,start=0,interupt=0,engaing=0,return=0,

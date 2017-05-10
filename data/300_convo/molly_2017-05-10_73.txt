@@ -1,0 +1,15 @@
+Bot_opinion_16:02:11:All dwarfs may be bastards yet not all bastards are dwarfs.
+molly_None_16:02:24:okay good quote, from Tyrion Lannester right?
+Bot_elaborate_16:02:24:Can you tell me more?
+molly_None_16:02:37:I don't know, you said that quote yourself
+Bot_negative_16:02:37:Excuse me, that's not true.
+molly_None_16:02:47:... you have bad memory
+Bot_elaborate_16:02:47:Huh?
+molly_None_16:02:53:yah you are quite dumb
+Bot_question_16:02:53:Do you want to ride a dragon?
+molly_None_16:02:55:nope
+Bot_negative_16:02:55:I don't get it.
+molly_None_16:03:04:why, because you want to ride a dragon?
+Bot_negative_16:03:04:Nope.
+molly_None_16:03:12:what do you not get then?
+overall=1,start=1,interupt=3,engaing=0,return=1,

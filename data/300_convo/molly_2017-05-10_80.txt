@@ -1,0 +1,15 @@
+Bot_question_16:22:20:Which season in the series do you like the most?
+molly_None_16:22:34:don't know, everyone is good
+Bot_question_16:22:34:Which do you like better, the books or the movies?
+molly_None_16:22:37:books
+Bot_question_16:22:37:What other fantasy books have you read?
+molly_None_16:23:05:harry potter
+Bot_elaborate_16:23:05:How does that work?
+molly_None_16:23:09:I read them
+Bot_neutral_16:23:09:hmmm, that's interesting.
+molly_None_16:23:12:yeah very
+Bot_opinion_16:23:12:Valar Morghulis
+molly_None_16:23:18:you will not die, sadly
+Bot_affirmative_16:23:18:This is the best thing I have seen in a long time.
+molly_None_16:23:27:I know right, immortality is a great thing
+overall=1,start=5,interupt=0,engaing=0,return=0,

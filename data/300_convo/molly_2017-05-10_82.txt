@@ -1,0 +1,15 @@
+Bot_negative_16:29:36:Nope.
+molly_None_16:29:39:Nope too
+Bot_elaborate_16:29:39:What?
+molly_None_16:29:43:I am in a bad mood
+Bot_neutral_16:29:43:hmmm, that's interesting.
+molly_None_16:30:28:what's interesting
+Bot_affirmative_16:30:28:Me too! Let's be best friends :)
+molly_None_16:30:35:no
+Bot_affirmative_16:30:35:wow, that's amazing
+molly_None_16:30:39:it's not
+Bot_opinion_16:30:39:Fear cuts deeper than swords.
+molly_None_16:30:48:I want to cut you 
+Bot_negative_16:30:48:I disagree.
+molly_None_16:30:54:you don't know what I want
+overall=0,start=0,interupt=0,engaing=0,return=0,

@@ -1,0 +1,15 @@
+Bot_negative_16:40:46:I don't believe you.
+molly_None_16:40:50:I didn't say anything
+Bot_elaborate_16:40:50:Can you elaborate on that?
+molly_None_16:40:58:you started the conversation
+Bot_negative_16:40:58:Excuse me, that's not true.
+molly_None_16:41:01:christ
+Bot_elaborate_16:41:01:Can you tell me more?
+molly_None_16:41:04:you are lying
+Bot_negative_16:41:04:You are just completely wrong
+molly_None_16:41:09:wow you are a lying bot
+Bot_opinion_16:41:09:When you play a game of thrones you win or you die.
+molly_None_16:41:17:sure I bet you will win that game
+Bot_opinion_16:41:17:Hodor
+molly_None_16:41:27:don't pretend to be stupid, oh wait, you are stupid
+overall=1,start=0,interupt=2,engaing=0,return=1,

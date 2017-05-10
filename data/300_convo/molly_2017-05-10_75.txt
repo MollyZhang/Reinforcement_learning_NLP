@@ -1,0 +1,15 @@
+Bot_negative_16:09:11:Oh no that's horrible.
+molly_None_16:09:15:what's so bad?
+Bot_neutral_16:09:15:Well okay.
+molly_None_16:09:19:it's not bad ?
+Bot_opinion_16:09:19:All dwarfs may be bastards yet not all bastards are dwarfs.
+molly_None_16:09:44:are you a dwarf or are you a bastard?
+Bot_neutral_16:09:44:hmmm, that's interesting.
+molly_None_16:10:29:you are dumb
+Bot_opinion_16:10:29:I finished reading the books in 10 seconds because I am a computer.
+molly_None_16:10:47:and that means you are not dumb? i bet you don't understand the content of the books
+Bot_opinion_16:10:47:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+molly_None_16:11:07:great doge bot. okay why do you think that?
+Bot_affirmative_16:11:07:That's hilarious!
+molly_None_16:11:09:it's not
+overall=2,start=0,interupt=2,engaing=2,return=2,

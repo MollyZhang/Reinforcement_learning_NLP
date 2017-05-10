@@ -1,0 +1,15 @@
+Bot_neutral_16:11:45:I need to meditate on that
+molly_None_16:12:16:what are you meditating on?
+Bot_neutral_16:12:16:Really?
+molly_None_16:12:18:..
+Bot_elaborate_16:12:18:Can you elaborate on that?
+molly_None_16:12:22:I didn't say anything
+Bot_question_16:12:22:Do you like House of Cards?
+molly_None_16:12:27:Yes I do
+Bot_negative_16:12:27:Nope.
+molly_None_16:12:28:..
+Bot_question_16:12:28:Who is your favorite villain?
+molly_None_16:12:30:you
+Bot_question_16:12:30:What's your biggest surprise?
+molly_None_16:12:36:nah
+overall=0,start=0,interupt=0,engaing=0,return=0,

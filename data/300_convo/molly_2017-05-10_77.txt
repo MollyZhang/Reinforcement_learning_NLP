@@ -1,0 +1,15 @@
+Bot_opinion_16:12:46:The things I do for love.
+molly_None_16:12:53:what did you do
+Bot_neutral_16:12:53:Really?
+molly_None_16:13:18:what ?
+Bot_negative_16:13:18:I disagree.
+molly_None_16:13:27:you have nothing to disagree about
+Bot_negative_16:13:27:Nah, it's not true.
+molly_None_16:13:37:it's very very true
+Bot_elaborate_16:13:37:What?
+molly_None_16:13:39:...
+Bot_question_16:13:39:Which do you like better, the books or the movies?
+molly_None_16:13:48:I don't care I am tired of speaking to you
+Bot_elaborate_16:13:48:please go on, I am intrigued
+molly_None_16:14:19:still tired
+overall=0,start=1,interupt=0,engaing=0,return=0,

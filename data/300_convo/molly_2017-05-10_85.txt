@@ -1,0 +1,15 @@
+Bot_question_16:39:31:What's your favorite Character?
+molly_None_16:39:35:White walker
+Bot_question_16:39:35:How long does it take for you to watch all the TV show?
+molly_None_16:40:01:A month, that's very quick
+Bot_question_16:40:01:Who decides what morality is?
+molly_None_16:40:12:you decide, you are a god bot
+Bot_affirmative_16:40:12:wow, that's amazing
+molly_None_16:40:15:sure
+Bot_opinion_16:40:15:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+molly_None_16:40:22:I am already very sorrowful
+Bot_affirmative_16:40:22:Well, yeah
+molly_None_16:40:27:how do you know?
+Bot_question_16:40:27:Do you like House of Cards?
+molly_None_16:40:29:yeah
+overall=1,start=5,interupt=3,engaing=1,return=0,

@@ -1,0 +1,15 @@
+Bot_opinion_16:42:26:Hodor
+molly_None_16:42:30:Hodor
+Bot_question_16:42:30:How long does it take for you to watch all the TV show?
+molly_None_16:42:33:a while
+Bot_elaborate_16:42:33:Huh?
+molly_None_16:42:38:yeah like a month
+Bot_neutral_16:42:38:Well okay.
+molly_None_16:42:46:not bad huh?
+Bot_negative_16:42:46:I disagree.
+molly_None_16:42:49:sure 
+Bot_negative_16:42:49:You are just completely wrong
+molly_None_16:42:56:you are very negative
+Bot_neutral_16:42:56:Really?
+molly_None_16:42:58:yeah
+overall=2,start=1,interupt=1,engaing=1,return=1,
