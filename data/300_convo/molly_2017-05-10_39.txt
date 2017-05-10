@@ -1,0 +1,15 @@
+Bot_question_14:27:35:Is there any character that you want to date?
+molly_None_14:27:49:hmmm definitely Jon Snow he is super cute
+Bot_elaborate_14:27:49:What?
+molly_None_14:27:57:you don't think he is cute?
+Bot_neutral_14:27:57:I need to meditate on that
+molly_None_14:28:18:it's not that hard to notice how cute he is
+Bot_negative_14:28:18:Excuse me, that's not true.
+molly_None_14:28:48:well you come to your meditative conclusion quickly enough
+Bot_neutral_14:28:48:haha
+molly_None_14:28:53::) 
+Bot_elaborate_14:28:53:Can you elaborate on that?
+molly_None_14:29:07:no
+Bot_opinion_14:29:07:Nothing isn't better or worse than anything. Nothing is just nothing.
+molly_None_14:29:19:I am glad you made piece with it
+overall=4,start=5,interupt=4,engaing=3,return=4,

@@ -1,0 +1,15 @@
+Bot_elaborate_13:48:51:What?
+molly_None_13:48:55:What what?
+Bot_elaborate_13:48:55:What do you mean?
+molly_None_13:49:22:what do you mean by asking what do you mean?
+Bot_affirmative_13:49:22:This is the best thing I have seen in a long time.
+molly_None_13:49:26:Thank you
+Bot_opinion_13:49:26:I finished reading the books in 10 seconds because I am a computer.
+molly_None_13:49:30:good for you
+Bot_neutral_13:49:30:Really?
+molly_None_13:49:43:Yeah I am really happy for you and your identity as a robot
+Bot_negative_13:49:43:I don't believe you.
+molly_None_13:49:49:I was being sarcastic
+Bot_question_13:49:49:What's your favorite Character?
+molly_None_13:50:08:hmmm I don't know, Jon Snow, he is cute
+overall=2,start=0,interupt=1,engaing=2,return=2,

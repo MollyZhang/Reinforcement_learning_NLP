@@ -1,0 +1,15 @@
+Bot_opinion_14:21:17:Any man who must say 'I am the king' is no true king.
+molly_None_14:21:24:Sure you and your quotes
+Bot_opinion_14:21:24:Can you be brave if you are afraid? That's the only time you can be brave
+molly_None_14:21:29:And yet more quotes
+Bot_neutral_14:21:29:hmmm, that's interesting.
+molly_None_14:22:08:it's not
+Bot_neutral_14:22:08:Really?
+molly_None_14:22:10:no
+Bot_elaborate_14:22:10:please go on, I am intrigued
+molly_None_14:22:15:it's not funny or interesting
+Bot_opinion_14:22:15:When you play a game of thrones you win or you die.
+molly_None_14:22:19:okay
+Bot_question_14:22:19:What one piece of advice would you offer to a person who have never seen the show?
+molly_None_14:22:28:I don't care, do whatever
+overall=0,start=1,interupt=0,engaing=0,return=0,

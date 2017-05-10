@@ -1,0 +1,15 @@
+Bot_question_13:42:21:Have you watched the TV show?
+molly_None_13:42:25:Yep it's good
+Bot_affirmative_13:42:25:Definitely.
+molly_None_13:42:31:I am glad we agree
+Bot_question_13:42:31:Who decides what morality is?
+molly_None_13:42:36:hmmm definitely me
+Bot_opinion_13:42:36:Nothing isn't better or worse than anything. Nothing is just nothing.
+molly_None_13:42:44:sounds like we agree
+Bot_question_13:42:44:What one piece of advice would you offer to a person who have never seen the show?
+molly_None_13:42:59:watch it right now
+Bot_opinion_13:42:59:Fear cuts deeper than swords.
+molly_None_13:43:09:Right? I tell everybody that
+Bot_elaborate_13:43:09:Huh?
+molly_None_13:43:14:Yep
+overall=2,start=5,interupt=2,engaing=2,return=2,

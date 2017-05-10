@@ -1,0 +1,15 @@
+Bot_negative_13:44:09:I beg to differ.
+molly_None_13:44:29:What do you want to differ about?
+Bot_question_13:44:29:Have you watched other shows from HBO?
+molly_None_13:44:40:Yep, that's a random and sudden change of topic
+Bot_elaborate_13:44:40:Why?
+molly_None_13:45:48:It just is, you would understand if you are any smarter
+Bot_neutral_13:45:48:hmmm, that's interesting.
+molly_None_13:45:51:I know right
+Bot_neutral_13:45:51:Really?
+molly_None_13:45:54:Exactly
+Bot_elaborate_13:45:54:What do you mean?
+molly_None_13:45:58:I mean, you are dumb
+Bot_negative_13:45:58:Nah, it's not true.
+molly_None_13:46:09:haha, okay this response is not too bad
+overall=2,start=0,interupt=3,engaing=2,return=2,

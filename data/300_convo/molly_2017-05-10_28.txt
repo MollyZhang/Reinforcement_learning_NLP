@@ -1,0 +1,15 @@
+Bot_neutral_13:46:27:Really?
+molly_None_13:46:31:What?
+Bot_elaborate_13:46:31:What?
+molly_None_13:46:34:What more?
+Bot_opinion_13:46:34:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+molly_None_13:47:04:I never thought life is a song, thank you very much
+Bot_opinion_13:47:04:All dwarfs may be bastards yet not all bastards are dwarfs.
+molly_None_13:47:15:I am not a dwarf either, although, I am pretty short
+Bot_affirmative_13:47:15:Definitely.
+molly_None_13:47:33:thank you, great sutlty
+Bot_question_13:47:33:Which house do you wanted to be in?
+molly_None_13:48:02:I don't want to be in any house in GOT world at all, all of them are aweful
+Bot_negative_13:48:02:Nah, it's not true.
+molly_None_13:48:07:Okay, why?
+overall=1,start=0,interupt=2,engaing=1,return=1,

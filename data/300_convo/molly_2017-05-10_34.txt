@@ -1,0 +1,15 @@
+Bot_elaborate_13:57:19:Can you tell me more?
+molly_None_13:58:00:I refuse
+Bot_negative_13:58:00:Nope.
+molly_None_13:58:07:you can't refuse my nope
+Bot_neutral_13:58:07:haha
+molly_None_13:58:13::)
+Bot_affirmative_13:58:13:wow, that's amazing
+molly_None_13:58:29:you have never seen a smiling face before?
+Bot_question_13:58:29:If you can kill any character, who would that be?
+molly_None_13:58:40:ramsay, oh wait he is dead
+Bot_question_13:58:40:What's your favorite valyrian steel weapon?
+molly_None_14:19:18:Ice that's the only one I remember
+Bot_question_14:19:18:Do you want to ride a dragon?
+molly_None_14:19:22:yes
+overall=0,start=0,interupt=0,engaing=0,return=0,

@@ -1,0 +1,15 @@
+Bot_negative_13:53:40:I don't get it.
+molly_None_13:54:19:what do you not get?
+Bot_elaborate_13:54:19:How does that work?
+molly_None_13:54:25:there is nothing that works 
+Bot_affirmative_13:54:25:wow, that's amazing
+molly_None_13:54:29:not amazing
+Bot_affirmative_13:54:29:Awesome
+molly_None_13:54:31:not awesome
+Bot_opinion_13:54:31:Nothing isn't better or worse than anything. Nothing is just nothing.
+molly_None_13:54:40:yeah you are worse than nothing
+Bot_question_13:54:40:Do you want to ride a dragon?
+molly_None_13:54:46:nope
+Bot_negative_13:54:46:I beg to differ.
+molly_None_13:54:50:fu
+overall=0,start=0,interupt=0,engaing=0,return=0,

@@ -1,0 +1,15 @@
+Bot_opinion_14:24:31:The things I do for love.
+molly_None_14:24:37:what?
+Bot_neutral_14:24:37:LOL
+molly_None_14:24:40:not funny
+Bot_question_14:24:40:Which season in the series do you like the most?
+molly_None_14:24:50:second or third one
+Bot_neutral_14:24:50:hmmm, that's interesting.
+molly_None_14:25:25:why
+Bot_elaborate_14:25:25:Why?
+molly_None_14:25:30:why?
+Bot_negative_14:25:30:I don't think so.
+molly_None_14:25:32:...
+Bot_question_14:25:32:What plot would you want to happen differently?
+molly_None_14:25:35:nothing
+overall=0,start=0,interupt=0,engaing=0,return=0,

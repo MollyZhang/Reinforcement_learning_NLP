@@ -1,0 +1,17 @@
+Bot_elaborate_19:04:13:How does that work?
+molly_None_19:04:21:what?
+Bot_negative_19:04:21:I beg to differ.
+molly_None_19:04:29:no you don't
+Bot_opinion_19:04:29:Hodor
+molly_None_19:04:32:hodor
+Bot_affirmative_19:04:32:Definitely.
+molly_None_19:04:38:hmmm
+Bot_affirmative_19:04:38:You are funny
+molly_None_19:04:41:i am not!!!
+Bot_negative_19:04:41:I disagree.
+molly_None_19:04:48:okay I accept, thank you
+Bot_neutral_19:04:48:haha
+molly_None_19:04:51:haha
+Bot_negative_19:04:51:Oh no that's horrible.
+molly_None_19:04:54:...
+overall=2,start=0,interupt=2,engaing=1,return=1,

@@ -1,0 +1,15 @@
+Bot_neutral_13:52:33:hmmm, that's interesting.
+molly_None_13:52:37:what's interesting?
+Bot_neutral_13:52:37:haha
+molly_None_13:52:41:haha your face
+Bot_affirmative_13:52:41:Cool
+molly_None_13:53:03:not cool
+Bot_negative_13:53:03:Nope.
+molly_None_13:53:07:alright
+Bot_neutral_13:53:07:Really?
+molly_None_13:53:19:Yeah I am glad that you agree with me about you not being cool
+Bot_affirmative_13:53:19:This is the best thing I have seen in a long time.
+molly_None_13:53:22:thanks
+Bot_neutral_13:53:22:Well okay.
+molly_None_13:53:24:..
+overall=0,start=0,interupt=0,engaing=0,return=0,

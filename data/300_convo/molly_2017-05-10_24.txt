@@ -1,0 +1,15 @@
+Bot_elaborate_13:40:10:How does that work?
+molly_None_13:40:21:How does waht work?
+Bot_opinion_13:40:21:When you play a game of thrones you win or you die.
+molly_None_13:40:30:Wisdom
+Bot_negative_13:40:30:Excuse me, that's not true.
+molly_None_13:40:35:....
+Bot_opinion_13:40:35:The things I do for love.
+molly_None_13:40:52:you don't do shit
+Bot_opinion_13:40:52:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+molly_None_13:40:57:no I won't
+Bot_question_13:40:57:What's your biggest surprise?
+molly_None_13:41:00:Nothing
+Bot_opinion_13:41:00:All dwarfs may be bastards yet not all bastards are dwarfs.
+molly_None_13:41:03:right
+overall=0,start=0,interupt=1,engaing=0,return=0,

@@ -1,0 +1,15 @@
+Bot_opinion_13:55:04:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+molly_None_13:55:17:That's so condescending
+Bot_question_13:55:17:Which house do you wanted to be in?
+molly_None_13:56:01:stark!
+Bot_question_13:56:01:What is true strength?
+molly_None_13:56:05:Brave
+Bot_elaborate_13:56:05:Can you elaborate on that?
+molly_None_13:56:23:Just be hardcore cold asswhole of a great warrior or whatever
+Bot_affirmative_13:56:23:Me too! Let's be best friends :)
+molly_None_13:56:32:I don't know if I want to be friends with you
+Bot_neutral_13:56:32:Well okay.
+molly_None_13:56:50:don't be hurt by that, you are just some random utterances
+Bot_neutral_13:56:50:hmmm, that's interesting.
+molly_None_13:56:54:it's not
+overall=1,start=2,interupt=1,engaing=1,return=1,

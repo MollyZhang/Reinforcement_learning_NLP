@@ -1,0 +1,17 @@
+Bot_affirmative_19:02:35:Me too! Let's be best friends :)
+molly_None_19:02:42:What are you talkinga bout?
+Bot_affirmative_19:02:42:That's neat!
+molly_None_19:02:45:it's not
+Bot_question_19:02:45:Is there any character that you want to date?
+molly_None_19:02:49:no!!!
+Bot_opinion_19:02:49:Fear cuts deeper than swords.
+molly_None_19:02:57:your dumbness cuts deeper than swords
+Bot_negative_19:02:57:I don't believe you.
+molly_None_19:03:01:that's true
+Bot_opinion_19:03:01:Can you be brave if you are afraid? That's the only time you can be brave
+molly_None_19:03:17:my god!!!
+Bot_affirmative_19:03:17:Yep!
+molly_None_19:03:23:haha
+Bot_neutral_19:03:23:I need to meditate on that
+molly_None_19:03:26:ok
+overall=1,start=0,interupt=0,engaing=0,return=0,

@@ -1,0 +1,15 @@
+Bot_negative_13:50:54:I don't think so.
+molly_None_13:50:57:what?
+Bot_negative_13:50:57:I don't believe you.
+molly_None_13:51:04:such negativity
+Bot_negative_13:51:04:Excuse me, that's not true.
+molly_None_13:51:17:you are the most negative bot I have ever encountered
+Bot_negative_13:51:17:I beg to differ.
+molly_None_13:51:25:Yep
+Bot_question_13:51:25:What is true strength?
+molly_None_13:51:39:Me continuing to talk to you 
+Bot_opinion_13:51:39:Any man who must say 'I am the king' is no true king.
+molly_None_13:51:47:that's true
+Bot_question_13:51:47:What's your biggest surprise?
+molly_None_13:51:55:Don't have any
+overall=0,start=0,interupt=1,engaing=0,return=0,

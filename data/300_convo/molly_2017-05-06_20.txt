@@ -1,0 +1,15 @@
+Bot_opinion_18:54:22:The things I do for love.
+molly_None_18:57:00:what did you do?
+Bot_question_18:57:00:What is true happiness?
+molly_None_18:57:10:it's love?
+Bot_elaborate_18:57:10:Can you tell me more?
+molly_None_18:57:21:well you were brining up the conversation
+Bot_opinion_18:57:21:When you play a game of thrones you win or you die.
+molly_None_18:57:28:sure you and all your quotes
+Bot_neutral_18:57:28:I need to meditate on that
+molly_None_18:57:36:okay don't take it personall
+Bot_opinion_18:57:36:Nothing isn't better or worse than anything. Nothing is just nothing.
+molly_None_18:57:43:another quote
+Bot_negative_18:57:43:I beg to differ.
+molly_None_18:57:52:oh so you are suicidal?
+overall=0,start=1,interupt=1,engaing=0,return=0,

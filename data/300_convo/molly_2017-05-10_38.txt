@@ -1,0 +1,15 @@
+Bot_neutral_14:25:44:Well okay.
+molly_None_14:26:38:what's okay
+Bot_affirmative_14:26:38:You are funny
+molly_None_14:26:40:I am not
+Bot_affirmative_14:26:40:Fantastic idea!
+molly_None_14:26:49:not fantastic
+Bot_neutral_14:26:49:I need to meditate on that
+molly_None_14:26:57:don't
+Bot_neutral_14:26:57:Really?
+molly_None_14:27:01:yeah it's not worth it
+Bot_elaborate_14:27:01:please go on, I am intrigued
+molly_None_14:27:18:there is nothing else to be said about that
+Bot_affirmative_14:27:18:I am glad to hear that.
+molly_None_14:27:21:..
+overall=0,start=0,interupt=1,engaing=0,return=0,

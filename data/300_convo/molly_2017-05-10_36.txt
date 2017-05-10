@@ -1,0 +1,15 @@
+Bot_affirmative_14:23:04:This is the best thing I have seen in a long time.
+molly_None_14:23:09:why
+Bot_opinion_14:23:09:All dwarfs may be bastards yet not all bastards are dwarfs.
+molly_None_14:23:13:okay
+Bot_opinion_14:23:13:Dracarys
+molly_None_14:23:17:scared!
+Bot_opinion_14:23:17:The things I do for love.
+molly_None_14:23:21:how touching
+Bot_neutral_14:23:21:Really?
+molly_None_14:23:23:yeah
+Bot_affirmative_14:23:23:Awesome
+molly_None_14:23:26:great
+Bot_elaborate_14:23:26:You gotta tell me more.
+molly_None_14:23:31:nothing more to tell
+overall=0,start=0,interupt=1,engaing=0,return=0,

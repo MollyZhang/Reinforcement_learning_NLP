@@ -1,0 +1,15 @@
+Bot_elaborate_13:41:19:How does that work?
+molly_None_13:41:23:WTF
+Bot_opinion_13:41:23:All dwarfs may be bastards yet not all bastards are dwarfs.
+molly_None_13:41:29:Sure
+Bot_negative_13:41:29:You are just completely wrong
+molly_None_13:41:42:...this dialogue generator is not even random
+Bot_affirmative_13:41:42:Cool
+molly_None_13:41:47:I know right
+Bot_question_13:41:47:Who decides what morality is?
+molly_None_13:41:50:I decide
+Bot_negative_13:41:50:I don't think so.
+molly_None_13:41:53:haha
+Bot_opinion_13:41:53:Fear cuts deeper than swords.
+molly_None_13:42:04:no
+overall=1,start=0,interupt=1,engaing=1,return=0,
