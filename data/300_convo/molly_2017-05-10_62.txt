@@ -1,0 +1,15 @@
+Bot_question_15:41:13:What's your biggest surprise?
+molly_None_15:41:22:red wedding
+Bot_question_15:41:22:Is there any character that you want to date?
+molly_None_15:41:25:jon snow
+Bot_neutral_15:41:25:LOL
+molly_None_15:41:28:what? 
+Bot_neutral_15:41:28:Really?
+molly_None_15:41:44:yeah, he is cute and he is very brave and he is all kind of positive characters 
+Bot_elaborate_15:41:44:What do you mean?
+molly_None_15:41:52:he is great
+Bot_affirmative_15:41:52:Brilliant!
+molly_None_15:41:55:yay!
+Bot_negative_15:41:55:Excuse me, that's not true.
+molly_None_15:41:59:fuck you
+overall=3,start=2,interupt=5,engaing=2,return=2,

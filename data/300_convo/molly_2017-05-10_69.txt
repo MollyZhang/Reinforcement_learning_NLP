@@ -1,0 +1,15 @@
+Bot_question_15:56:01:What is true happiness?
+molly_None_15:56:09:that's a complicated and loaded question bot
+Bot_negative_15:56:09:You are just completely wrong
+molly_None_15:56:17:I am sure that I am not wrong
+Bot_elaborate_15:56:17:Why?
+molly_None_15:56:24:because there is no wrong answer to your stupid question
+Bot_affirmative_15:56:24:Definitely.
+molly_None_15:56:27:okay
+Bot_affirmative_15:56:27:I am glad to hear that.
+molly_None_15:56:30:good
+Bot_elaborate_15:56:30:Can you elaborate on that?
+molly_None_15:56:43:I think you are really very schizophrenic sometimes
+Bot_question_15:56:43:Which house do you wanted to be in?
+molly_None_15:56:50:a big house
+overall=2,start=4,interupt=3,engaing=2,return=2,

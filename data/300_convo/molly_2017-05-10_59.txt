@@ -1,0 +1,15 @@
+Bot_negative_15:37:34:I don't believe you.
+molly_None_15:37:39:what do you not believe?
+Bot_opinion_15:37:39:The things I do for love.
+molly_None_15:37:59:what did you do for love?
+Bot_elaborate_15:37:59:Can you tell me more?
+molly_None_15:38:04:What do you want to know?
+Bot_elaborate_15:38:04:please go on, I am intrigued
+molly_None_15:38:09:I havne't said anything yet
+Bot_affirmative_15:38:09:You are funny
+molly_None_15:38:17:okay, you too, in a sick way
+Bot_elaborate_15:38:17:Huh?
+molly_None_15:38:23:yeah you are funny in a sick way
+Bot_elaborate_15:38:23:What do you mean?
+molly_None_15:38:30:you are not funny anymore
+overall=1,start=0,interupt=3,engaing=1,return=1,

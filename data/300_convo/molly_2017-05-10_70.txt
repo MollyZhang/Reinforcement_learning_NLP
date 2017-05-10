@@ -1,0 +1,15 @@
+Bot_question_15:57:11:What is true strength?
+molly_None_15:57:21:Being able to work all the time, like Elon Musk!
+Bot_affirmative_15:57:21:Brilliant!
+molly_None_15:57:26:I know he is brilliant!
+Bot_negative_15:57:26:Nah, it's not true.
+molly_None_15:57:33:you just contradicted yourself
+Bot_elaborate_15:57:33:please go on, I am intrigued
+molly_None_15:57:38:you are dumb
+Bot_opinion_15:57:38:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+molly_None_15:57:48:sure, I don't believe anything you said
+Bot_affirmative_15:57:48:You are funny
+molly_None_15:57:59:I am not exactly funny, it's more...I am annoyed
+Bot_affirmative_15:57:59:Definitely.
+molly_None_15:58:03:glad you agree
+overall=3,start=4,interupt=3,engaing=2,return=0,

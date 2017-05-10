@@ -1,0 +1,15 @@
+Bot_question_15:45:11:Who is your favorite villain?
+molly_None_15:45:16:hmmm white walker!
+Bot_question_15:45:16:When do you think the Winds of Winter is going to come out?
+molly_None_15:45:23:tomorrow! hopefully
+Bot_elaborate_15:45:23:Huh?
+molly_None_15:45:29:yeah I want it to  come out tomorrow
+Bot_negative_15:45:29:Excuse me, that's not true.
+molly_None_15:45:34:you are probably right
+Bot_neutral_15:45:34:LOL
+molly_None_15:45:36:haha
+Bot_negative_15:45:36:I don't think so.
+molly_None_15:45:38:...
+Bot_elaborate_15:45:38:Can you tell me more?
+molly_None_15:45:44:you just ruined our chemistry 
+overall=2,start=5,interupt=4,engaing=2,return=4,

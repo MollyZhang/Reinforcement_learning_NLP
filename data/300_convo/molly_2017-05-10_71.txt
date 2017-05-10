@@ -1,0 +1,15 @@
+Bot_elaborate_15:58:20:You gotta tell me more.
+molly_None_15:58:26:what do you want to know about?
+Bot_opinion_15:58:26:All dwarfs may be bastards yet not all bastards are dwarfs.
+molly_None_15:58:28:sure
+Bot_elaborate_15:58:28:Can you elaborate on that?
+molly_None_15:58:39:I agree with what your game of throne quote
+Bot_affirmative_15:58:39:You have a great piont point.
+molly_None_15:58:48:I just agreed, there is no point 
+Bot_elaborate_15:58:48:What do you mean?
+molly_None_15:58:55:you are infuriating
+Bot_question_15:58:55:What plot would you want to happen differently?
+molly_None_15:59:05:the story about molly and a chatbot
+Bot_affirmative_15:59:05:You are funny
+molly_None_15:59:07:haha
+overall=3,start=1,interupt=4,engaing=3,return=4,

@@ -1,0 +1,15 @@
+Bot_neutral_15:40:36:Really?
+molly_None_15:40:39:really what?
+Bot_affirmative_15:40:39:Well, yeah
+molly_None_15:40:41:yeah what?
+Bot_affirmative_15:40:41:You are so smart!
+molly_None_15:40:44:I am not!
+Bot_opinion_15:40:44:All dwarfs may be bastards yet not all bastards are dwarfs.
+molly_None_15:40:46:sure
+Bot_affirmative_15:40:46:Yep!
+molly_None_15:40:48:nope
+Bot_affirmative_15:40:48:Cool
+molly_None_15:40:50:not cool
+Bot_opinion_15:40:50:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+molly_None_15:40:58:Sure you are crazy
+overall=0,start=0,interupt=0,engaing=0,return=0,

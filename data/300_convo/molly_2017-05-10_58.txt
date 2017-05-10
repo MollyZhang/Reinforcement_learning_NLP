@@ -1,0 +1,15 @@
+Bot_neutral_15:36:36:hmmm, that's interesting.
+molly_None_15:36:40:what's intersting
+Bot_question_15:36:40:Who is your favorite villain?
+molly_None_15:36:42:You!
+Bot_elaborate_15:36:42:Can you tell me more?
+molly_None_15:36:50:you are a very evil bot
+Bot_neutral_15:36:50:Really?
+molly_None_15:36:53:Yeah!
+Bot_affirmative_15:36:53:Cool
+molly_None_15:37:00:glad you have made piece with that
+Bot_neutral_15:37:00:LOL
+molly_None_15:37:03::)
+Bot_opinion_15:37:03:Can you be brave if you are afraid? That's the only time you can be brave
+molly_None_15:37:16:I am quite brave thank you very much
+overall=4,start=0,interupt=2,engaing=2,return=2,

@@ -1,0 +1,15 @@
+Bot_neutral_15:46:51:haha
+molly_None_15:46:54:what's funny
+Bot_question_15:46:54:Is there any character that you want to date?
+molly_None_15:47:00:White walker!
+Bot_affirmative_15:47:00:Brilliant!
+molly_None_15:47:07:LOL glad that you think that
+Bot_opinion_15:47:07:Can you be brave if you are afraid? That's the only time you can be brave
+molly_None_15:47:17:yeah you gotta be brave to date a white walker
+Bot_elaborate_15:47:17:please go on, I am intrigued
+molly_None_15:47:32:because...you will freeze when you touch each other! 
+Bot_elaborate_15:47:32:Can you elaborate on that?
+molly_None_15:47:40:because white walker freezes people!!!
+Bot_elaborate_15:47:40:How does that work?
+molly_None_15:48:24:hmmm I guess because white walker is REALLY REALLY cold, and then the heat transfer thing make you freeze
+overall=4,start=1,interupt=5,engaing=4,return=5,

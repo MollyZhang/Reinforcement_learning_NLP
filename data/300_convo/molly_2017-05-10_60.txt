@@ -1,0 +1,15 @@
+Bot_affirmative_15:38:45:You are so smart!
+molly_None_15:38:53:Thank you, where does that come from?
+Bot_opinion_15:38:53:I finished reading the books in 10 seconds because I am a computer.
+molly_None_15:39:00:sounds like you are smarter
+Bot_elaborate_15:39:00:Why?
+molly_None_15:39:09:because you finish the books A LOT faster than I did
+Bot_neutral_15:39:09:Well okay.
+molly_None_15:39:17:yeah, smart bot
+Bot_opinion_15:39:17:Can you be brave if you are afraid? That's the only time you can be brave
+molly_None_15:39:22:you are brave too?
+Bot_opinion_15:39:22:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+molly_None_15:39:28:...
+Bot_question_15:39:28:Do you like House of Cards?
+molly_None_15:39:30:yep
+overall=1,start=4,interupt=2,engaing=1,return=1,
