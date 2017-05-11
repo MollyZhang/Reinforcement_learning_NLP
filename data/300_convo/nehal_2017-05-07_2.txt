@@ -1,0 +1,21 @@
+Bot_opinion_18:23:03:Hodor
+Nehal_None_18:23:07:Hold the door
+Bot_negative_18:23:07:Excuse me, that's not true.
+Nehal_None_18:23:14:whats ot true
+Bot_affirmative_18:23:14:Fantastic idea!
+Nehal_None_18:23:21:you are mad
+Bot_affirmative_18:23:21:You are funny
+Nehal_None_18:23:26:you are dumb
+Bot_affirmative_18:23:26:Well, yeah
+Nehal_None_18:23:33:ha ha...you agreed
+Bot_negative_18:23:33:I disagree.
+Nehal_None_18:23:46:you are a hypocrite
+Bot_question_18:23:46:Have you watched the TV show?
+Nehal_None_18:23:52:what tv show?
+Bot_affirmative_18:23:52:Awesome
+Nehal_None_18:24:07:whtas awesome?
+Bot_affirmative_18:24:07:You are so smart!
+Nehal_None_18:24:14:but you are not
+Bot_affirmative_18:24:14:I know what you mean
+Nehal_None_18:24:20:you know nothing
+overall=0,start=1,interupt=1,engaing=1,return=1,

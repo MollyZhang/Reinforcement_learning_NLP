@@ -1,0 +1,17 @@
+Bot_neutral_10:09:11:LOL
+Nehal_None_10:09:27:Whats funny about it?
+Bot_neutral_10:09:27:haha
+Nehal_None_10:12:03:You are being offensive,am I funny
+Bot_neutral_10:12:03:Well okay.
+Nehal_None_10:12:08:Ya,better
+Bot_question_10:12:08:Have you watched the TV show?
+Nehal_None_10:12:14:Which TV Show?
+Bot_question_10:12:14:What plot would you want to happen differently?
+Nehal_None_10:12:31:You mean in Game of thrones?Ned Starks killings
+Bot_neutral_10:12:31:hmmm, that's interesting.
+Nehal_None_10:12:37:What about you?
+Bot_question_10:12:37:Which house do you wanted to be in?
+Nehal_None_10:12:42:Lannister
+Bot_elaborate_10:12:42:How does that work?
+Nehal_None_10:13:19:Lannisters are powerful
+overall=2,start=1,interupt=2,engaing=2,return=2,

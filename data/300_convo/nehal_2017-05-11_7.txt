@@ -1,0 +1,17 @@
+Bot_elaborate_09:58:25:Huh?
+Nehal_None_09:58:31:What do you mean?
+Bot_negative_09:58:31:I disagree.
+Nehal_None_09:58:35:On whta?
+Bot_opinion_09:58:35:Fear cuts deeper than swords.
+Nehal_None_09:59:04:Swords give deeper wounds
+Bot_question_09:59:04:Who is your favorite villain?
+Nehal_None_09:59:10:Ramsay
+Bot_negative_09:59:10:Nah, it's not true.
+Nehal_None_09:59:19:Then who do you think it is?
+Bot_negative_09:59:19:Oh no that's horrible.
+Nehal_None_09:59:24:Whats horrible?
+Bot_negative_09:59:24:Nope.
+Nehal_None_09:59:31:I am not getting you
+Bot_neutral_09:59:31:hmmm, that's interesting.
+Nehal_None_09:59:40:You are not interesting
+overall=0,start=0,interupt=0,engaing=1,return=1,

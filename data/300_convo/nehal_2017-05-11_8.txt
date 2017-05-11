@@ -1,0 +1,17 @@
+Bot_neutral_09:59:53:hmmm, that's interesting.
+Nehal_None_09:59:59:Whats interesting?
+Bot_opinion_09:59:59:Fear cuts deeper than swords.
+Nehal_None_10:00:01:I know
+Bot_negative_10:00:01:Nope.
+Nehal_None_10:00:05:What?
+Bot_question_10:00:05:What don't you like about Game of Throne's storyline?
+Nehal_None_10:00:11:The killings
+Bot_opinion_10:00:11:Winter is coming
+Nehal_None_10:00:24:Thats stark motto
+Bot_opinion_10:00:24:All dwarfs may be bastards yet not all bastards are dwarfs.
+Nehal_None_10:00:31:Very deep
+Bot_negative_10:00:31:I don't believe you.
+Nehal_None_10:00:40:What dont you believe me?
+Bot_elaborate_10:00:40:What do you mean?
+Nehal_None_10:00:49:Why do you not believe me?
+overall=1,start=1,interupt=1,engaing=2,return=1,

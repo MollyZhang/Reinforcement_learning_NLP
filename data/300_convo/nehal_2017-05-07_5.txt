@@ -1,0 +1,21 @@
+Bot_opinion_18:28:39:The things I do for love.
+Nehal_None_18:28:46:Are you Jamie?
+Bot_affirmative_18:28:46:You are funny
+Nehal_None_18:29:04:you are certainly not Jamie
+Bot_elaborate_18:29:04:How does that work?
+Nehal_None_18:29:11:my mind works
+Bot_opinion_18:29:11:Valar Morghulis
+Nehal_None_18:29:22:Are you going to Bravos
+Bot_question_18:29:22:Who decides what morality is?
+Nehal_None_18:29:36:You decide what morality is
+Bot_opinion_18:29:36:When you play a game of thrones you win or you die.
+Nehal_None_18:29:45:thats really weird
+Bot_negative_18:29:45:Nope.
+Nehal_None_18:29:51:thats not weird?
+Bot_question_18:29:51:Do you want to ride a dragon?
+Nehal_None_18:29:58:answer my question
+Bot_opinion_18:29:58:I finished reading the books in 10 seconds because I am a computer.
+Nehal_None_18:30:05:i dont believe you
+Bot_opinion_18:30:05:Can you be brave if you are afraid? That's the only time you can be brave
+Nehal_None_18:30:19:i am never afraid
+overall=0,start=0,interupt=1,engaing=1,return=1,

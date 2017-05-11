@@ -1,0 +1,17 @@
+Bot_opinion_11:31:38:Nothing isn't better or worse than anything. Nothing is just nothing.
+nehal_None_11:31:45:nothing is bullshit
+Bot_opinion_11:31:45:Valar Morghulis
+nehal_None_11:31:51:Valar doeheris
+Bot_affirmative_11:31:51:Fantastic idea!
+nehal_None_11:31:58:I want to go to bravos
+Bot_elaborate_11:31:58:What?
+nehal_None_11:32:08:Bravos is a nice place
+Bot_opinion_11:32:08:Hodor
+nehal_None_11:32:18:Hodor doesnt stay in Bravos
+Bot_opinion_11:32:18:Dracarys
+nehal_None_11:32:28:Do soesnt Dracarys
+Bot_elaborate_11:32:28:What do you mean?
+nehal_None_11:32:40:Dracarys doesnt stay in Bravos
+Bot_question_11:32:40:Have you watched other shows from HBO?
+nehal_None_11:32:43:Veep
+overall=2,start=1,interupt=1,engaing=3,return=1,

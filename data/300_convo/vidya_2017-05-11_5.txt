@@ -1,0 +1,17 @@
+Bot_elaborate_11:16:54:What do you mean?
+vidya_None_11:17:02:What do you mean?
+Bot_negative_11:17:02:You are just completely wrong
+vidya_None_11:17:12:And why am I wrong
+Bot_affirmative_11:17:12:You have a great piont point.
+vidya_None_11:17:24:Thanbks i have a great point point
+Bot_question_11:17:24:Who is your favorite villain?
+vidya_None_11:17:41:Night Walkers
+Bot_elaborate_11:17:41:You gotta tell me more.
+vidya_None_11:17:54:They are mean and cruel.they kill babies
+Bot_question_11:17:54:What don't you like about Game of Throne's storyline?
+vidya_None_11:18:09:Slaying murders
+Bot_neutral_11:18:09:Well okay.
+vidya_None_11:18:20:Dont you think its brutal
+Bot_negative_11:18:20:I disagree.
+vidya_None_11:18:30:Why do you think so?
+overall=3,start=0,interupt=3,engaing=3,return=2,

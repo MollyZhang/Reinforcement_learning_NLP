@@ -1,0 +1,17 @@
+Bot_opinion_11:15:07:I finished reading the books in 10 seconds because I am a computer.
+Vidya_None_11:15:18:wow.thats amazing
+Bot_affirmative_11:15:18:I am glad to hear that.
+Vidya_None_11:15:32:Tell more,how did you read so fast
+Bot_elaborate_11:15:32:What?
+Vidya_None_11:15:49:bots generally read that fast?
+Bot_affirmative_11:15:49:Brilliant!
+Vidya_None_11:15:58:i asked you a question dumbo
+Bot_opinion_11:15:58:Winter is coming
+Vidya_None_11:16:18:Thats totally out of context
+Bot_elaborate_11:16:18:You gotta tell me more.
+Vidya_None_11:16:28:its summer here.lol
+Bot_negative_11:16:28:You are just completely wrong
+Vidya_None_11:16:36:what season is it?
+Bot_affirmative_11:16:36:I know what you mean
+Vidya_None_11:16:40:so say
+overall=1,start=2,interupt=2,engaing=1,return=1,

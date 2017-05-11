@@ -1,0 +1,17 @@
+Bot_negative_10:45:00:Nah, it's not true.
+HK_None_10:45:11:There goes it again
+Bot_elaborate_10:45:11:What?
+HK_None_10:45:19:You are a dumb bot
+Bot_question_10:45:19:Who is your favorite villain?
+HK_None_10:45:45:Cersei,she is hot and cruel
+Bot_negative_10:45:45:You are just completely wrong
+HK_None_10:45:56:Common Cersei is hot
+Bot_neutral_10:45:56:LOL
+HK_None_10:48:12:Whick chick do you find hot
+Bot_question_10:48:12:Do you like House of Cards?
+HK_None_10:48:52:Answerme
+Bot_question_10:48:52:What other fantasy books have you read?
+HK_None_10:51:38:Hunger Games
+Bot_opinion_10:51:38:When you play a game of thrones you win or you die.
+HK_None_10:52:01:Tell me something about hunger games
+overall=0,start=0,interupt=0,engaing=0,return=0,

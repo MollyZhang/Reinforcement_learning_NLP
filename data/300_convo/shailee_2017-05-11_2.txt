@@ -1,0 +1,17 @@
+Bot_opinion_11:20:34:Nothing isn't better or worse than anything. Nothing is just nothing.
+shailee_None_11:20:48:Are you a quotes bot?
+Bot_affirmative_11:20:48:Fantastic idea!
+shailee_None_11:20:57:be one then
+Bot_elaborate_11:20:57:What do you mean?
+shailee_None_11:21:14:say only quotes,that would make you a bit more credible
+Bot_opinion_11:21:14:Dracarys
+shailee_None_11:21:32:People say hes Khal Drogos reincarnation
+Bot_opinion_11:21:32:Valar Morghulis
+shailee_None_11:21:51:I said something interesting,thought you would appreciate it
+Bot_affirmative_11:21:51:Me too! Let's be best friends :)
+shailee_None_11:22:54:q1
+Bot_affirmative_11:22:54:Cool
+shailee_None_11:23:02:Whats cool
+Bot_opinion_11:23:02:Winter is coming
+shailee_None_11:23:08:summer is coming
+overall=1,start=2,interupt=2,engaing=2,return=2,

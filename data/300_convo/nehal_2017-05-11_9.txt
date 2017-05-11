@@ -1,0 +1,17 @@
+Bot_affirmative_10:01:02:I agree with you on that
+nEHAL_None_10:01:19:On what do you agree?
+Bot_neutral_10:01:19:Well okay.
+nEHAL_None_10:01:30:Thats weird and out of context
+Bot_question_10:01:30:Do you like House of Cards?
+nEHAL_None_10:01:36:No,I havent watched
+Bot_opinion_10:01:36:Valar Morghulis
+nEHAL_None_10:01:51:Ya.whatever
+Bot_opinion_10:01:51:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+nEHAL_None_10:02:06:Its hard,certainly not a song
+Bot_neutral_10:02:06:hmmm, that's interesting.
+nEHAL_None_10:02:34:Thank you for the compliment.Which character do you like in Game of thrones?
+Bot_opinion_10:02:34:Can you be brave if you are afraid? That's the only time you can be brave
+nEHAL_None_10:02:52:Thats harry potter
+Bot_question_10:02:52:Who is your favorite villain?
+nEHAL_None_10:03:09:Jeoffrey
+overall=2,start=1,interupt=2,engaing=2,return=2,

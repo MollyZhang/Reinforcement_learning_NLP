@@ -1,0 +1,21 @@
+Bot_affirmative_18:20:29:This is the best thing I have seen in a long time.
+Nehal_None_18:20:41:What are you speaking about?
+Bot_elaborate_18:20:41:You gotta tell me more.
+Nehal_None_18:20:52:You have to tell me more
+Bot_opinion_18:20:52:When you play a game of thrones you win or you die.
+Nehal_None_18:21:19:i have heard that
+Bot_opinion_18:21:19:Fear cuts deeper than swords.
+Nehal_None_18:21:40:why are you telling me quotes?
+Bot_negative_18:21:40:I don't believe you.
+Nehal_None_18:21:46:you are mad
+Bot_elaborate_18:21:46:What do you mean?
+Nehal_None_18:21:54:that means you are mad
+Bot_negative_18:21:54:Nope.
+Nehal_None_18:21:58:you are
+Bot_question_18:21:58:Is there any character that you want to date?
+Nehal_None_18:22:05:jon snow
+Bot_opinion_18:22:05:I finished reading the books in 10 seconds because I am a computer.
+Nehal_None_18:22:11:good for you
+Bot_elaborate_18:22:11:What?
+Nehal_None_18:22:22:you finished readin the books
+overall=1,start=0,interupt=0,engaing=1,return=0,

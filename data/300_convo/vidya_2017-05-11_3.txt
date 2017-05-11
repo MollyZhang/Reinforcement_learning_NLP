@@ -1,0 +1,17 @@
+Bot_negative_10:27:34:Nope.
+Vidya_None_10:27:39:Bah
+Bot_opinion_10:27:39:The things I do for love.
+Vidya_None_10:27:49:Who do you love?
+Bot_elaborate_10:27:49:What?
+Vidya_None_10:27:56:Do you love someone?
+Bot_negative_10:27:56:Nah, it's not true.
+Vidya_None_10:28:03:Interesting
+Bot_negative_10:28:03:I don't get it.
+Vidya_None_10:28:09:NOthing.chuck
+Bot_negative_10:28:09:You are just completely wrong
+Vidya_None_10:28:18:Ok,you mean you are in love?
+Bot_opinion_10:28:18:Hodor
+Vidya_None_10:33:16:You love Hodor?I too love him
+Bot_opinion_10:33:16:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+Vidya_None_10:35:32:You are right
+overall=4,start=3,interupt=3,engaing=4,return=3,

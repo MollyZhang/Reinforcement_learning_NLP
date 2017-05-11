@@ -1,0 +1,17 @@
+Bot_negative_10:04:59:Oh no that's horrible.
+Nehal_None_10:05:08:You are boring1
+Bot_elaborate_10:05:08:Huh?
+Nehal_None_10:05:21:yes,you heard it right,idiot
+Bot_negative_10:05:21:Nah, it's not true.
+Nehal_None_10:05:28:You think so?
+Bot_elaborate_10:05:28:What?
+Nehal_None_10:05:35:That its not true?
+Bot_negative_10:05:35:I beg to differ.
+Nehal_None_10:05:44:So,tell me,what do you think
+Bot_negative_10:05:44:Nope.
+Nehal_None_10:05:48:Tell me
+Bot_affirmative_10:05:48:This is the best thing I have seen in a long time.
+Nehal_None_10:05:58:You are a hypocrite
+Bot_opinion_10:05:58:Nothing isn't better or worse than anything. Nothing is just nothing.
+Nehal_None_10:08:54:Do you mean you are nothing?
+overall=2,start=1,interupt=3,engaing=3,return=3,

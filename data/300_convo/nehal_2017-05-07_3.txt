@@ -1,0 +1,21 @@
+Bot_affirmative_18:24:38:I agree with you on that
+Nehal_None_18:24:45:agreee on whta?
+Bot_affirmative_18:24:45:You are funny
+Nehal_None_18:24:56:you are not funny
+Bot_negative_18:24:56:I don't get it.
+Nehal_None_18:25:02:what dont you get?
+Bot_negative_18:25:02:Nope.
+Nehal_None_18:25:08:what nope?
+Bot_negative_18:25:08:Nah, it's not true.
+Nehal_None_18:25:13:whats not true
+Bot_opinion_18:25:13:Valar Morghulis
+Nehal_None_18:25:19:Valar doeheris
+Bot_neutral_18:25:19:Really?
+Nehal_None_18:25:34:are you even aware what we are speaking about?
+Bot_affirmative_18:25:34:Awesome
+Nehal_None_18:25:45:i dont want to talk to you again
+Bot_negative_18:25:45:I beg to differ.
+Nehal_None_18:25:58:you want to talk to me?
+Bot_negative_18:25:58:I don't believe you.
+Nehal_None_18:26:10:you are a dumb bot
+overall=0,start=0,interupt=0,engaing=0,return=0,

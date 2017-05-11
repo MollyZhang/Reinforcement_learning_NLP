@@ -1,0 +1,17 @@
+Bot_neutral_10:42:34:LOL
+HK_None_10:42:40:?
+Bot_elaborate_10:42:40:You gotta tell me more.
+HK_None_10:42:55:What the fuck do you want me to tell
+Bot_question_10:42:55:Have you watched the TV show?
+HK_None_10:42:59:ya
+Bot_affirmative_10:42:59:You have a great piont point.
+HK_None_10:43:55:Are you fucking dumb
+Bot_neutral_10:43:55:hmmm, that's interesting.
+HK_None_10:44:00:Lol
+Bot_affirmative_10:44:00:Brilliant!
+HK_None_10:44:08:You are a genius
+Bot_neutral_10:44:08:haha
+HK_None_10:44:23:finally you admit you know nothing
+Bot_affirmative_10:44:23:You are funny
+HK_None_10:44:45:Thank you.It was fun to troll you faggot
+overall=0,start=0,interupt=1,engaing=1,return=0,

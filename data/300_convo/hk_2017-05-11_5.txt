@@ -1,0 +1,17 @@
+Bot_neutral_10:55:58:LOL
+HK_None_11:12:06:[BBoring
+Bot_negative_11:12:06:I don't think so.
+HK_None_11:12:26:Yes,you are damn boring
+Bot_question_11:12:26:Is there any character that you want to date?
+HK_None_11:12:34:Daenerys Targareyn
+Bot_opinion_11:12:34:Nothing isn't better or worse than anything. Nothing is just nothing.
+HK_None_11:12:43:You are nothing
+Bot_affirmative_11:12:43:I agree with you on that
+HK_None_11:12:52:Ha ha..you are modest
+Bot_neutral_11:12:52:Really?
+HK_None_11:13:06:Ya..seem so
+Bot_opinion_11:13:06:Fear cuts deeper than swords.
+HK_None_11:13:15:Thats abrupt!
+Bot_opinion_11:13:15:Any man who must say 'I am the king' is no true king.
+HK_None_11:13:31:Lannisters have good quotes
+overall=2,start=0,interupt=2,engaing=2,return=1,

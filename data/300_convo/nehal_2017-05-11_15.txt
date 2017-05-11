@@ -1,0 +1,17 @@
+Bot_neutral_11:33:40:haha
+nehal_None_11:33:45:ha ha lol
+Bot_neutral_11:33:45:I need to meditate on that
+nehal_None_11:33:53:you laughed first cheater
+Bot_elaborate_11:33:53:How does that work?
+nehal_None_11:33:59:that works on karma
+Bot_elaborate_11:33:59:Can you tell me more?
+nehal_None_11:34:22:you dont cry for things you started earlier
+Bot_affirmative_11:34:22:Cool
+nehal_None_11:34:37:I am waiting fo sraeson 7
+Bot_neutral_11:34:37:Well okay.
+nehal_None_11:34:48:arent you interested?
+Bot_negative_11:34:48:I disagree.
+nehal_None_11:34:57:you seem disinterested
+Bot_opinion_11:34:57:Winter is coming
+nehal_None_11:35:09:ok..so are you really interested?
+overall=3,start=0,interupt=2,engaing=3,return=3,

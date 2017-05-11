@@ -1,0 +1,17 @@
+Bot_affirmative_10:03:24:That's hilarious!
+Nehal_None_10:03:38:Excuse me,whats hilarious
+Bot_negative_10:03:38:Nope.
+Nehal_None_10:03:45:What do you mean?
+Bot_neutral_10:03:45:hmmm, that's interesting.
+Nehal_None_10:03:51:What is interesting?
+Bot_neutral_10:03:51:LOL
+Nehal_None_10:04:04:You dont make sense to me
+Bot_affirmative_10:04:04:Cool
+Nehal_None_10:04:17:I dont want to talk to you
+Bot_question_10:04:17:What's good and what's evil?
+Nehal_None_10:04:24:Its all in your mind
+Bot_affirmative_10:04:24:Definitely.
+Nehal_None_10:04:38:Ya,do you also think the same?
+Bot_opinion_10:04:38:Fear cuts deeper than swords.
+Nehal_None_10:04:45:I know,So what?
+overall=1,start=0,interupt=1,engaing=1,return=0,

@@ -1,0 +1,17 @@
+Bot_affirmative_10:16:50:Yep!
+Vidya_None_10:17:03:You are a dumb bot
+Bot_opinion_10:17:03:Valar Morghulis
+Vidya_None_10:17:21:I have heard the phrase somewhere
+Bot_negative_10:17:21:I beg to differ.
+Vidya_None_10:18:09:I have heard it.Dont remember where
+Bot_neutral_10:18:09:LOL
+Vidya_None_10:18:18:Dont laugh at me
+Bot_question_10:18:18:What's good and what's evil?
+Vidya_None_10:18:28:I am good and you are evil.ha ha
+Bot_elaborate_10:18:28:What do you mean?
+Vidya_None_10:24:13:What you think I mean is what I mean
+Bot_elaborate_10:24:13:Can you elaborate on that?
+Vidya_None_10:24:25:You are free to think whatever
+Bot_opinion_10:24:25:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+Vidya_None_10:24:57:I dont think thats going to happen.They are aunt and nephew for gods sake
+overall=2,start=2,interupt=2,engaing=2,return=2,

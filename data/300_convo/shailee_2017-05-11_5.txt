@@ -1,0 +1,17 @@
+Bot_negative_11:27:23:Excuse me, that's not true.
+shailee_None_11:27:32:You are out of context
+Bot_opinion_11:27:32:Nothing isn't better or worse than anything. Nothing is just nothing.
+shailee_None_11:28:08:Nothing is void.and vid returns nothing,go[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Do[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct it?
+Bot_neutral_11:28:08:I need to meditate on that
+shailee_None_11:28:17:think about it
+Bot_elaborate_11:28:17:Can you elaborate on that?
+shailee_None_11:28:36:you need to think about what i said and realise i am not lying
+Bot_elaborate_11:28:36:You gotta tell me more.
+shailee_None_11:28:44:my lips are sealed
+Bot_negative_11:28:44:I don't believe you.
+shailee_None_11:28:51:dont believe then
+Bot_negative_11:28:51:I beg to differ.
+shailee_None_11:29:02:so,you believe me?
+Bot_affirmative_11:29:02:Fantastic idea!
+shailee_None_11:29:05:good
+overall=3,start=0,interupt=2,engaing=3,return=2,

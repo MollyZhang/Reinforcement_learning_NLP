@@ -1,0 +1,21 @@
+Bot_neutral_18:30:32:Well okay.
+Nehal_None_18:30:38:What okay?
+Bot_negative_18:30:38:Nah, it's not true.
+Nehal_None_18:30:43:whats not true?
+Bot_affirmative_18:30:43:That's neat!
+Nehal_None_18:31:02:you have a weird habit of not answering questions
+Bot_neutral_18:31:02:LOL
+Nehal_None_18:31:14:dont laugh,dare you laugh
+Bot_elaborate_18:31:14:What?
+Nehal_None_18:31:24:read you fool
+Bot_negative_18:31:24:Excuse me, that's not true.
+Nehal_None_18:31:32:are you smart?
+Bot_opinion_18:31:32:When you play a game of thrones you win or you die.
+Nehal_None_18:31:46:i alsways win
+Bot_neutral_18:31:46:I need to meditate on that
+Nehal_None_18:32:04:meditate then
+Bot_affirmative_18:32:04:I am glad to hear that.
+Nehal_None_18:32:10:ya.goodbye
+Bot_affirmative_18:32:10:I know what you mean
+Nehal_None_18:32:15:you may leave
+overall=1,start=1,interupt=1,engaing=1,return=1,

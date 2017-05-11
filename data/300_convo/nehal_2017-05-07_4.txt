@@ -1,0 +1,21 @@
+Bot_neutral_18:26:23:LOL
+Nehal_None_18:26:35:whats there to laugh about?
+Bot_negative_18:26:35:You are just completely wrong
+Nehal_None_18:26:46:you didnt answer my question
+Bot_negative_18:26:46:Oh no that's horrible.
+Nehal_None_18:26:57:i know.so answer my question
+Bot_elaborate_18:26:57:You gotta tell me more.
+Nehal_None_18:27:07:you have to tell me!
+Bot_negative_18:27:07:I don't believe you.
+Nehal_None_18:27:16:no one can believe you
+Bot_opinion_18:27:16:Winter is coming
+Nehal_None_18:27:27:winter is over,you freako
+Bot_neutral_18:27:27:I need to meditate on that
+Nehal_None_18:27:36:meditate on what?
+Bot_opinion_18:27:36:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+Nehal_None_18:28:04:did GRRM tell you that?
+Bot_question_18:28:04:Who decides what morality is?
+Nehal_None_18:28:09:You
+Bot_opinion_18:28:09:Any man who must say 'I am the king' is no true king.
+Nehal_None_18:28:23:you say that
+overall=0,start=0,interupt=1,engaing=1,return=0,

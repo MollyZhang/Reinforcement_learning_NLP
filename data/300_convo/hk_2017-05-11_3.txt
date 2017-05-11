@@ -1,0 +1,17 @@
+Bot_elaborate_10:52:13:How does that work?
+HK_None_10:52:19:What works?
+Bot_question_10:52:19:Who is your favorite villain?
+HK_None_10:52:24:Cersei
+Bot_neutral_10:52:24:Really?
+HK_None_10:52:26:Yes
+Bot_neutral_10:52:26:Well okay.
+HK_None_10:52:47:You fuck whats ok?
+Bot_negative_10:52:47:I don't get it.
+HK_None_10:53:05:tell me something interesting or you are getting 0 ating again
+Bot_neutral_10:53:05:hmmm, that's interesting.
+HK_None_10:53:15:Thats not interesting
+Bot_question_10:53:15:If you can kill any character, who would that be?
+HK_None_10:53:31:Jeoffrey,but hes already dead
+Bot_affirmative_10:53:31:Well, yeah
+HK_None_10:53:49:Whos your favourite villain?
+overall=0,start=0,interupt=1,engaing=1,return=1,

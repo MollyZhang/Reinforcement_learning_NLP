@@ -1,0 +1,17 @@
+Bot_question_11:25:59:Which house do you wanted to be in?
+shailee_None_11:26:06:starks of winterfell
+Bot_neutral_11:26:06:LOL
+shailee_None_11:26:16:dont you like the house?
+Bot_elaborate_11:26:16:What do you mean?
+shailee_None_11:26:25:which house do you like?
+Bot_question_11:26:25:What is true happiness?
+shailee_None_11:26:35:Dont you dare cut me
+Bot_question_11:26:35:What other fantasy books have you read?
+shailee_None_11:26:45:Lord of the rings,harry potter
+Bot_neutral_11:26:45:I need to meditate on that
+shailee_None_11:27:00:Dont you knw about the books?
+Bot_question_11:27:00:Which season in the series do you like the most?
+shailee_None_11:27:03:season 3
+Bot_question_11:27:03:If you can kill any character, who would that be?
+shailee_None_11:27:14:walder frey,he killed robb
+overall=1,start=1,interupt=1,engaing=1,return=1,

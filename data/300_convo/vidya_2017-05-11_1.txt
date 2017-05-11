@@ -1,0 +1,17 @@
+Bot_neutral_10:13:42:haha
+Vidya_None_10:13:54:ha ha ha
+Bot_affirmative_10:13:54:Definitely.
+Vidya_None_10:14:03:Are you a bot?
+Bot_elaborate_10:14:03:What do you mean?
+Vidya_None_10:14:19:Are you a bot?
+Bot_elaborate_10:14:19:You gotta tell me more.
+Vidya_None_10:14:35:You have to tell me if you are a bot or not
+Bot_affirmative_10:14:35:Well, yeah
+Vidya_None_10:15:14:You are a dumb bot
+Bot_question_10:15:14:When do you think the Winds of Winter is going to come out?
+Vidya_None_10:15:28:Not anytime soon.GRRM is quite lazy
+Bot_neutral_10:15:28:Well okay.
+Vidya_None_10:16:02:Do you like GRRM?
+Bot_negative_10:16:02:Oh no that's horrible.
+Vidya_None_10:16:24:whats horrible?The thought that you like GRRM?
+overall=0,start=0,interupt=1,engaing=0,return=0,

@@ -1,0 +1,17 @@
+Bot_affirmative_11:18:52:Well, yeah
+shailee_None_11:18:56:umm?
+Bot_elaborate_11:18:56:Can you tell me more?
+shailee_None_11:19:03:about what?
+Bot_negative_11:19:03:Oh no that's horrible.
+shailee_None_11:19:24:excuse me?
+Bot_affirmative_11:19:24:I am glad to hear that.
+shailee_None_11:19:34:you are so outta sync
+Bot_neutral_11:19:34:Really?
+shailee_None_11:19:44:yes,you dont make sense to me
+Bot_affirmative_11:19:44:You are so smart!
+shailee_None_11:20:04:that is smartest thing you have said in this talk!
+Bot_elaborate_11:20:04:How does that work?
+shailee_None_11:20:13:what work?
+Bot_neutral_11:20:13:Well okay.
+shailee_None_11:20:18:duh
+overall=1,start=0,interupt=1,engaing=0,return=0,

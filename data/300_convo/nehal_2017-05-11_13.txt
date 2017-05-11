@@ -1,0 +1,17 @@
+Bot_opinion_11:30:20:All dwarfs may be bastards yet not all bastards are dwarfs.
+nehal_None_11:30:33:thats not transitivity
+Bot_neutral_11:30:33:LOL
+nehal_None_11:30:43:ya,doesnt it make sense/
+Bot_negative_11:30:43:I disagree.
+nehal_None_11:30:51:why do you think so?
+Bot_affirmative_11:30:51:I agree with you on that
+nehal_None_11:30:58:thats weird
+Bot_question_11:30:58:How long does it take for you to watch all the TV show?
+nehal_None_11:31:06:it took me 10 days
+Bot_elaborate_11:31:06:You gotta tell me more.
+nehal_None_11:31:14:i binge watched
+Bot_negative_11:31:14:I don't think so.
+nehal_None_11:31:21:ya.i did.ask my mom
+Bot_elaborate_11:31:21:Can you elaborate on that?
+nehal_None_11:31:25:on what/
+overall=2,start=2,interupt=2,engaing=2,return=2,

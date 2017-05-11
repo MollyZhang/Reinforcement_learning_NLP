@@ -1,0 +1,17 @@
+Bot_elaborate_10:54:05:How does that work?
+HK_None_10:54:27:You know nothing Jon Snow
+Bot_opinion_10:54:27:Valar Morghulis
+HK_None_10:54:41:Thats not Jon Snow,dont you understand contexts?
+Bot_negative_10:54:41:I beg to differ.
+HK_None_10:54:47:Prove it
+Bot_opinion_10:54:47:Can you be brave if you are afraid? That's the only time you can be brave
+HK_None_10:54:58:I am brave you are dumb
+Bot_negative_10:54:58:I don't believe you.
+HK_None_10:55:04:Prove it
+Bot_elaborate_10:55:04:What do you mean?
+HK_None_10:55:22:May the 4th be with you
+Bot_elaborate_10:55:22:Can you tell me more?
+HK_None_10:55:28:Star Wars
+Bot_question_10:55:28:What one piece of advice would you offer to a person who have never seen the show?
+HK_None_10:55:44:Fucking awesome
+overall=1,start=0,interupt=1,engaing=1,return=1,

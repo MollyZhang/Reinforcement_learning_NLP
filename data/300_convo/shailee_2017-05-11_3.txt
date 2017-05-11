@@ -1,0 +1,17 @@
+Bot_negative_11:23:45:Oh no that's horrible.
+shailee_None_11:24:00:i dont quite get you
+Bot_neutral_11:24:00:LOL
+shailee_None_11:24:07:lol
+Bot_elaborate_11:24:07:Can you elaborate on that?
+shailee_None_11:24:24:on what?i laughed at you.didnt you understand that?
+Bot_affirmative_11:24:24:You have a great piont point.
+shailee_None_11:24:51:you are so dead dead .lol
+Bot_question_11:24:51:What's your favorite Character?
+shailee_None_11:25:08:jon snow
+Bot_neutral_11:25:08:haha
+shailee_None_11:25:22:he will be the king
+Bot_question_11:25:22:What is true happiness?
+shailee_None_11:25:35:free food
+Bot_negative_11:25:35:I beg to differ.
+shailee_None_11:25:46:whats happiness to you?
+overall=1,start=1,interupt=1,engaing=1,return=0,
