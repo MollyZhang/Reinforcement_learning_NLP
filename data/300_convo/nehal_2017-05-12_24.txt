@@ -1,0 +1,21 @@
+Bot_affirmative_10:44:36:Fantastic idea!
+nehal_None_10:44:47:What is the fantastic idea?
+Bot_negative_10:44:47:You are just completely wrong
+nehal_None_10:44:54:You are wrong?
+Bot_elaborate_10:44:54:Can you tell me more?
+nehal_None_10:45:06:This is absolute crap
+Bot_elaborate_10:45:06:please go on, I am intrigued
+nehal_None_10:45:18:Why do you not learn
+Bot_question_10:45:18:Do you want to ride a dragon?
+nehal_None_10:45:31:Yes,i want to,but i can only ride a car
+Bot_negative_10:45:31:I beg to differ.
+nehal_None_10:45:41:I dont have money
+Bot_question_10:45:41:Which do you like better, the books or the movies?
+nehal_None_10:45:44:books
+Bot_neutral_10:45:44:haha
+nehal_None_10:46:00:movies are not made,you senseless 
+Bot_elaborate_10:46:00:How does that work?
+nehal_None_10:46:08:they are just not made
+Bot_neutral_10:46:08:I need to meditate on that
+nehal_None_10:46:13:well.ya
+overall=0,start=0,interupt=2,engaing=2,return=2,

@@ -1,0 +1,11 @@
+Bot_question_10:37:19:What one piece of advice would you offer to a person who have never seen the show?
+siddhi_None_10:37:39:Its violent and nude
+Bot_affirmative_10:37:39:You have a great piont point.
+siddhi_None_10:37:52:Its so violent.they killed a horse
+Bot_question_10:37:52:Which season in the series do you like the most?
+siddhi_None_10:37:56:1st
+Bot_affirmative_10:37:56:I know what you mean
+siddhi_None_10:38:03:what i mean?
+Bot_neutral_10:38:03:LOL
+siddhi_None_10:38:06:lol
+overall=0,start=1,interupt=2,engaing=1,return=1,

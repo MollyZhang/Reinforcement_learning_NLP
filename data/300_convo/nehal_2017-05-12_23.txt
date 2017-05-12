@@ -1,0 +1,21 @@
+Bot_neutral_10:42:49:hmmm, that's interesting.
+nehal_None_10:42:53:iopokopkpokopk
+Bot_question_10:42:53:Have you watched the TV show?
+nehal_None_10:42:56:yes
+Bot_neutral_10:42:56:Well okay.
+nehal_None_10:43:11:Do you think bagels are bad for health?
+Bot_opinion_10:43:11:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+nehal_None_10:43:18:what are you saying
+Bot_question_10:43:18:When do you think the Winds of Winter is going to come out?
+nehal_None_10:43:29:are you just giving me trivia
+Bot_neutral_10:43:29:haha
+nehal_None_10:43:40:tell me more
+Bot_elaborate_10:43:40:Can you tell me more?
+nehal_None_10:43:47:are you repeating me
+Bot_opinion_10:43:47:All dwarfs may be bastards yet not all bastards are dwarfs.
+nehal_None_10:44:05:this makes no sense at all
+Bot_affirmative_10:44:05:I know what you mean
+nehal_None_10:44:11:so make sense
+Bot_neutral_10:44:11:I need to meditate on that
+nehal_None_10:44:24:no use talking to a cow like you
+overall=0,start=0,interupt=1,engaing=1,return=0,

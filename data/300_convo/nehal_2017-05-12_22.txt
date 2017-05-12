@@ -1,0 +1,21 @@
+Bot_elaborate_10:41:21:What?
+nehal_None_10:41:27:why?
+Bot_affirmative_10:41:27:You have a great piont point.
+nehal_None_10:41:30:ha ha
+Bot_neutral_10:41:30:hmmm, that's interesting.
+nehal_None_10:41:36:blah blah
+Bot_neutral_10:41:36:Well okay.
+nehal_None_10:41:45:start something interesting
+Bot_elaborate_10:41:45:please go on, I am intrigued
+nehal_None_10:41:49:you start
+Bot_opinion_10:41:49:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+nehal_None_10:42:07:bulls hit,they wont .they are not a couple yet
+Bot_negative_10:42:07:Excuse me, that's not true.
+nehal_None_10:42:17:do you think they are a couple?
+Bot_affirmative_10:42:17:Well, yeah
+nehal_None_10:42:28:You are watching some other show then
+Bot_opinion_10:42:28:Can you be brave if you are afraid? That's the only time you can be brave
+nehal_None_10:42:35:I am bravest
+Bot_affirmative_10:42:35:I know what you mean
+nehal_None_10:42:38:Thnak you
+overall=2,start=0,interupt=3,engaing=3,return=3,

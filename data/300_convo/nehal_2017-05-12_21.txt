@@ -1,0 +1,21 @@
+Bot_affirmative_10:39:09:I agree with you on that
+Nehal_None_10:39:16:You are so annoying
+Bot_question_10:39:16:What other fantasy books have you read?
+Nehal_None_10:39:26:I like harry potter
+Bot_opinion_10:39:26:Dracarys
+Nehal_None_10:39:39:Dracarys is so ugly
+Bot_question_10:39:39:What's your biggest surprise?
+Nehal_None_10:39:50:Ned starks death
+Bot_elaborate_10:39:50:Huh?
+Nehal_None_10:40:00:Wasnt that surprsing?
+Bot_question_10:40:00:What plot would you want to happen differently?
+Nehal_None_10:40:11:He should not have died
+Bot_question_10:40:11:What one piece of advice would you offer to a person who have never seen the show?
+Nehal_None_10:40:33:You are fucked
+Bot_neutral_10:40:33:LOL
+Nehal_None_10:40:49:Obviously,thats the best show ever
+Bot_elaborate_10:40:49:What do you mean?
+Nehal_None_10:41:01:No other show can match its charisma
+Bot_elaborate_10:41:01:Can you elaborate on that?
+Nehal_None_10:41:07:Its unbeatable
+overall=2,start=1,interupt=2,engaing=2,return=2,

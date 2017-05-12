@@ -1,0 +1,11 @@
+Bot_opinion_10:34:36:I finished reading the books in 10 seconds because I am a computer.
+siddhi_None_10:34:46:good for you
+Bot_opinion_10:34:46:Any man who must say 'I am the king' is no true king.
+siddhi_None_10:35:58:Ok
+Bot_negative_10:35:58:Oh no that's horrible.
+siddhi_None_10:36:06:You want me to say more?
+Bot_question_10:36:06:What other fantasy books have you read?
+siddhi_None_10:36:30:I have read not many books
+Bot_opinion_10:36:30:All dwarfs may be bastards yet not all bastards are dwarfs.
+siddhi_None_10:36:57:I dont think that makes sesnse
+overall=1,start=2,interupt=2,engaing=2,return=2,
