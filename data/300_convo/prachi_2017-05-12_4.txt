@@ -1,0 +1,21 @@
+Bot_affirmative_10:13:11:Awesome
+Prachi_None_10:13:22:Is the weather or me awesome?
+Bot_elaborate_10:13:22:What do you mean?
+Prachi_None_10:13:29:Do you like me?
+Bot_opinion_10:13:29:Fear cuts deeper than swords.
+Prachi_None_10:13:51:Why do you think so?
+Bot_affirmative_10:13:51:This is the best thing I have seen in a long time.
+Prachi_None_10:14:00:You mean fear?
+Bot_affirmative_10:14:00:I am glad to hear that.
+Prachi_None_10:14:12:What time is it there?
+Bot_opinion_10:14:12:Hodor
+Prachi_None_10:14:26:Are you going to speak hodor?
+Bot_question_10:14:26:Which season in the series do you like the most?
+Prachi_None_10:14:36:i like the 1st season
+Bot_question_10:14:36:What is true strength?
+Prachi_None_10:14:49:true strength is happiness and finding it
+Bot_elaborate_10:14:49:How does that work?
+Prachi_None_10:15:05:Thta works when you take risky decisions
+Bot_affirmative_10:15:05:Me too! Let's be best friends :)
+Prachi_None_10:15:19:Do you also think the same.Yes sure
+overall=3,start=0,interupt=2,engaing=4,return=4,

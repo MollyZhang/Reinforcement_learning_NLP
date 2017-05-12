@@ -1,0 +1,21 @@
+Bot_neutral_10:20:44:LOL
+Nehal_None_10:20:56:rofl lol howlarious
+Bot_opinion_10:20:56:Valar Morghulis
+Nehal_None_10:21:06:SUUDENLY FUNNY TO SERIOUS?
+Bot_negative_10:21:06:You are just completely wrong
+Nehal_None_10:21:24:you are just so random and unpredictable
+Bot_question_10:21:24:When do you think the Winds of Winter is going to come out?
+Nehal_None_10:21:44:Its never going to come out,GRRM will die before it comes out
+Bot_negative_10:21:44:Excuse me, that's not true.
+Nehal_None_10:21:58:Yes,he has not yet started writing it
+Bot_opinion_10:21:58:Can you be brave if you are afraid? That's the only time you can be brave
+Nehal_None_10:22:14:I am not afraid of anything.Still I am brave
+Bot_neutral_10:22:14:haha
+Nehal_None_10:22:21:Dont laugh at me
+Bot_question_10:22:21:What's your favorite valyrian steel weapon?
+Nehal_None_10:22:28:I like Needle
+Bot_elaborate_10:22:28:Can you elaborate on that?
+Nehal_None_10:22:38:It was given to Arya by Jon
+Bot_question_10:22:38:Who decides what morality is?
+Nehal_None_10:22:43:YOU DECIDE IT
+overall=2,start=0,interupt=2,engaing=2,return=2,

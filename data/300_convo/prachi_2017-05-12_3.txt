@@ -1,0 +1,21 @@
+Bot_opinion_10:11:30:Hodor
+Prachi_None_10:11:43:I like hodor.They shouldnt have killed him
+Bot_opinion_10:11:43:Winter is coming
+Prachi_None_10:11:55:I am so waiting for it
+Bot_negative_10:11:55:Nah, it's not true.
+Prachi_None_10:12:05:I am waiting,why dont you think
+Bot_negative_10:12:05:I don't think so.
+Prachi_None_10:12:12:tell me the reason
+Bot_neutral_10:12:12:LOL
+Prachi_None_10:12:16:lol
+Bot_neutral_10:12:16:hmmm, that's interesting.
+Prachi_None_10:12:23:You gotta tell me more
+Bot_affirmative_10:12:23:Awesome
+Prachi_None_10:12:32:What is awesome?
+Bot_question_10:12:32:Which do you like better, the books or the movies?
+Prachi_None_10:12:35:books
+Bot_affirmative_10:12:35:I am glad to hear that.
+Prachi_None_10:12:43:do you also like the books?
+Bot_opinion_10:12:43:Can you be brave if you are afraid? That's the only time you can be brave
+Prachi_None_10:13:01:There are many times you can be brave
+overall=3,start=3,interupt=3,engaing=3,return=3,

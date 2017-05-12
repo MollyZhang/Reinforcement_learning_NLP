@@ -1,0 +1,21 @@
+Bot_elaborate_10:24:30:please go on, I am intrigued
+nehal_None_10:24:41:What do you want to talk about/
+Bot_negative_10:24:41:Nope.
+nehal_None_10:24:50:You dont want to talk?
+Bot_opinion_10:24:50:Winter is coming
+nehal_None_10:25:00:It is coming in July
+Bot_opinion_10:25:00:All dwarfs may be bastards yet not all bastards are dwarfs.
+nehal_None_10:25:09:Maybe,who cares
+Bot_opinion_10:25:09:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+nehal_None_10:25:16:Who cares/
+Bot_affirmative_10:25:16:Definitely.
+nehal_None_10:25:20:Do you?
+Bot_neutral_10:25:20:Well okay.
+nehal_None_10:25:33:Its hard to believe you care
+Bot_opinion_10:25:33:The things I do for love.
+nehal_None_10:25:43:Things I do for power
+Bot_elaborate_10:25:43:What?
+nehal_None_10:25:49:Power is power
+Bot_neutral_10:25:49:LOL
+nehal_None_10:25:53:Yes,it is
+overall=3,start=0,interupt=3,engaing=3,return=3,

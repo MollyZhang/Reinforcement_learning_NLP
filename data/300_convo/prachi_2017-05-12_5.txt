@@ -1,0 +1,21 @@
+Bot_neutral_10:15:35:hmmm, that's interesting.
+Prachi_None_10:15:51:I like game of thrones
+Bot_affirmative_10:15:51:Awesome
+Prachi_None_10:15:56:Do you also like?
+Bot_affirmative_10:15:56:Yep!
+Prachi_None_10:15:59:Great
+Bot_affirmative_10:15:59:This is the best thing I have seen in a long time.
+Prachi_None_10:16:07:I know,is int it
+Bot_neutral_10:16:07:LOL
+Prachi_None_10:16:12:what happened?
+Bot_opinion_10:16:12:Nothing isn't better or worse than anything. Nothing is just nothing.
+Prachi_None_10:16:22:You dont want to tell me?
+Bot_affirmative_10:16:22:Definitely.
+Prachi_None_10:16:26:Tell me
+Bot_elaborate_10:16:26:What do you mean?
+Prachi_None_10:16:36:You are hiding something from me
+Bot_elaborate_10:16:36:Can you tell me more?
+Prachi_None_10:16:42:You should tell me
+Bot_affirmative_10:16:42:wow, that's amazing
+Prachi_None_10:16:51:I am not speaking to you.
+overall=3,start=2,interupt=4,engaing=4,return=3,

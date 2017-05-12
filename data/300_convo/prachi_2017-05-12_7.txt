@@ -1,0 +1,21 @@
+Bot_opinion_10:18:58:Valar Morghulis
+Prachi_None_10:19:08:I dont remember this
+Bot_elaborate_10:19:08:please go on, I am intrigued
+Prachi_None_10:19:20:I have heard this,but dont remember where
+Bot_elaborate_10:19:20:You gotta tell me more.
+Prachi_None_10:19:32:I think Arya says this
+Bot_question_10:19:32:Which house do you wanted to be in?
+Prachi_None_10:19:35:Stark
+Bot_opinion_10:19:35:Nothing isn't better or worse than anything. Nothing is just nothing.
+Prachi_None_10:19:44:You dont like any houses?
+Bot_opinion_10:19:44:The things I do for love.
+Prachi_None_10:19:54:Love is blind
+Bot_negative_10:19:54:Oh no that's horrible.
+Prachi_None_10:20:02:ya,have you been in love?
+Bot_question_10:20:02:Who decides what morality is?
+Prachi_None_10:20:09:Answer me
+Bot_question_10:20:09:What's good and what's evil?
+Prachi_None_10:20:23:Good and evil both are in us
+Bot_affirmative_10:20:23:Cool
+Prachi_None_10:20:30:Dont u think that?
+overall=2,start=2,interupt=2,engaing=2,return=2,

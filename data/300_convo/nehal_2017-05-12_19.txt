@@ -1,0 +1,21 @@
+Bot_neutral_10:26:06:hmmm, that's interesting.
+nehal_None_10:26:11:okoijokj
+Bot_opinion_10:26:11:I finished reading the books in 10 seconds because I am a computer.
+nehal_None_10:26:29:I finished in 1 secon,I am a wizard
+Bot_affirmative_10:26:29:I am glad to hear that.
+nehal_None_10:26:38:Thank you.You are a sport
+Bot_neutral_10:26:38:LOL
+nehal_None_10:26:50:You dont seem jealous types
+Bot_opinion_10:26:50:Any man who must say 'I am the king' is no true king.
+nehal_None_10:27:08:Geoffrey was never the king
+Bot_affirmative_10:27:08:Me too! Let's be best friends :)
+nehal_None_10:27:17:He was a coward
+Bot_elaborate_10:27:17:You gotta tell me more.
+nehal_None_10:27:26:e ran away from the battle
+Bot_affirmative_10:27:26:Awesome
+nehal_None_10:27:38:taht doesnt make him awesome
+Bot_neutral_10:27:38:Well okay.
+nehal_None_10:27:48:you cry/
+Bot_opinion_10:27:48:Can you be brave if you are afraid? That's the only time you can be brave
+nehal_None_10:27:54:duh
+overall=2,start=0,interupt=2,engaing=2,return=1,

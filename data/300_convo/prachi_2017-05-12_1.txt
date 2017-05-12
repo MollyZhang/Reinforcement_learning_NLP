@@ -1,0 +1,21 @@
+Bot_elaborate_10:07:13:Huh?
+Prachi_None_10:07:24:How is the weather today?
+Bot_elaborate_10:07:24:Can you elaborate on that?
+Prachi_None_10:07:35:Is it hot or cold?
+Bot_affirmative_10:07:35:Brilliant!
+Prachi_None_10:07:45:What is brilliant?
+Bot_negative_10:07:45:I don't believe you.
+Prachi_None_10:07:52:I now dont believe you
+Bot_opinion_10:07:52:Winter is coming
+Prachi_None_10:08:01:It is hot here
+Bot_affirmative_10:08:01:wow, that's amazing
+Prachi_None_10:08:12:Isnt it very cold there?
+Bot_elaborate_10:08:12:You gotta tell me more.
+Prachi_None_10:08:30:I heard it gets cold in Santa Cruz
+Bot_affirmative_10:08:30:You have a great piont point.
+Prachi_None_10:08:38:Does it rain?
+Bot_affirmative_10:08:38:You are funny
+Prachi_None_10:08:45:It doesnt?
+Bot_neutral_10:08:45:hmmm, that's interesting.
+Prachi_None_10:08:52:I am asking you
+overall=1,start=0,interupt=2,engaing=1,return=1,

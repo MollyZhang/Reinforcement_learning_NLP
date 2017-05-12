@@ -1,0 +1,21 @@
+Bot_question_10:17:05:What's your favorite valyrian steel weapon?
+Prachi_None_10:17:19:I like jonssword
+Bot_question_10:17:19:What don't you like about Game of Throne's storyline?
+Prachi_None_10:17:31:They killed Ned in the first season
+Bot_opinion_10:17:31:Nothing isn't better or worse than anything. Nothing is just nothing.
+Prachi_None_10:17:44:Nothing
+Bot_affirmative_10:17:44:That's hilarious!
+Prachi_None_10:17:51:Thnak you
+Bot_affirmative_10:17:51:Me too! Let's be best friends :)
+Prachi_None_10:18:01:Are you also funny?
+Bot_question_10:18:01:Do you want to ride a dragon?
+Prachi_None_10:18:09:Yes,i want to ride Dracarys
+Bot_affirmative_10:18:09:I know what you mean
+Prachi_None_10:18:23:What dragon you like the most?
+Bot_negative_10:18:23:Nope.
+Prachi_None_10:18:31:You dont like
+Bot_neutral_10:18:31:Well okay.
+Prachi_None_10:18:38:Then we cant be friends
+Bot_elaborate_10:18:38:Can you tell me more?
+Prachi_None_10:18:46:I love dragons
+overall=2,start=3,interupt=3,engaing=2,return=2,

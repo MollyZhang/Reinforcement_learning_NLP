@@ -1,0 +1,21 @@
+Bot_negative_10:22:59:Excuse me, that's not true.
+nehal_None_10:23:08:Random fake
+Bot_neutral_10:23:08:hmmm, that's interesting.
+nehal_None_10:23:10:hjhjhkjk
+Bot_opinion_10:23:10:Any man who must say 'I am the king' is no true king.
+nehal_None_10:23:22:Did i say i am the king?I am the queen
+Bot_question_10:23:22:What other fantasy books have you read?
+nehal_None_10:23:28:Harry potter
+Bot_neutral_10:23:28:Well okay.
+nehal_None_10:23:33:What about you?
+Bot_question_10:23:33:What plot would you want to happen differently?
+nehal_None_10:23:48:Arya should have met her mother and brother
+Bot_question_10:23:48:Who is your favorite villain?
+nehal_None_10:23:53:Ramsay bastard
+Bot_negative_10:23:53:I don't get it.
+nehal_None_10:24:03:What dont you get?
+Bot_opinion_10:24:03:Winter is coming
+nehal_None_10:24:09:Yes,it is .
+Bot_question_10:24:09:If you can kill any character, who would that be?
+nehal_None_10:24:16:Ramsay ,i hate him
+overall=2,start=0,interupt=2,engaing=2,return=1,

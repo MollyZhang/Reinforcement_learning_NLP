@@ -1,0 +1,21 @@
+Bot_opinion_10:09:08:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+Prachi_None_10:09:19:Life is beautiful
+Bot_opinion_10:09:19:Winter is coming
+Prachi_None_10:09:38:Summer is coming,and I am so waiting for it
+Bot_opinion_10:09:38:Dracarys
+Prachi_None_10:09:47:Who is Dracarys
+Bot_opinion_10:09:47:All dwarfs may be bastards yet not all bastards are dwarfs.
+Prachi_None_10:10:00:I didnt get you
+Bot_neutral_10:10:00:hmmm, that's interesting.
+Prachi_None_10:10:09:Tell me more about it
+Bot_elaborate_10:10:09:How does that work?
+Prachi_None_10:10:27:It would be better if you colud tell more about it
+Bot_negative_10:10:27:I disagree.
+Prachi_None_10:10:42:Why you cant tell me about it
+Bot_neutral_10:10:42:Really?
+Prachi_None_10:10:57:You speak at random
+Bot_affirmative_10:10:57:You are funny
+Prachi_None_10:11:05:You are boring
+Bot_question_10:11:05:What one piece of advice would you offer to a person who have never seen the show?
+Prachi_None_10:11:14:Never talk to you
+overall=0,start=0,interupt=0,engaing=1,return=0,

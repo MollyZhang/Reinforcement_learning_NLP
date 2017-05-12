@@ -1,0 +1,21 @@
+Bot_question_10:28:11:What's your favorite Character?
+Nehal_None_10:28:18:Arya stark
+Bot_neutral_10:28:18:Really?
+Nehal_None_10:28:23:Ya,she brave
+Bot_question_10:28:23:Who decides what morality is?
+Nehal_None_10:28:29:Gods decide it
+Bot_negative_10:28:29:I beg to differ.
+Nehal_None_10:28:37:Then who decides it
+Bot_opinion_10:28:37:Hodor
+Nehal_None_10:28:44:Ha ha.hodor?
+Bot_negative_10:28:44:I don't think so.
+Nehal_None_10:28:52:You only said
+Bot_negative_10:28:52:Nope.
+Nehal_None_10:29:02:You said.I ave chats to prove
+Bot_opinion_10:29:02:Fear cuts deeper than swords.
+Nehal_None_10:29:10:Swords pain you
+Bot_question_10:29:10:Which season in the series do you like the most?
+Nehal_None_10:29:16:season 4
+Bot_neutral_10:29:16:LOL
+Nehal_None_10:29:22:what about you?
+overall=4,start=3,interupt=4,engaing=4,return=4,
