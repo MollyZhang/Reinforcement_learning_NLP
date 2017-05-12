@@ -1,0 +1,13 @@
+Bot_affirmative_10:47:40:Definitely.
+nehal_None_10:47:53:I love coldplay
+Bot_negative_10:47:53:I don't think so.
+nehal_None_10:48:09:They were there on Game of thrones
+Bot_neutral_10:48:09:Well okay.
+nehal_None_10:48:21:isnt that fascinating to you?
+Bot_opinion_10:48:21:Dracarys
+nehal_None_10:48:26:Hes boring
+Bot_elaborate_10:48:26:You gotta tell me more.
+nehal_None_10:48:39:He does nothing but be angry on the show
+Bot_elaborate_10:48:39:Huh?
+nehal_None_10:48:43:ya
+overall=0,start=0,interupt=1,engaing=1,return=1,
