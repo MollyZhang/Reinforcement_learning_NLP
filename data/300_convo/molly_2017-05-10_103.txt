@@ -1,0 +1,13 @@
+Bot_neutral_17:02:55:Really?
+molly_None_17:02:59:Really what
+Bot_negative_17:02:59:I don't get it.
+molly_None_17:03:09:I can see that
+Bot_elaborate_17:03:09:Can you tell me more?
+molly_None_17:03:20:you don't understand me
+Bot_affirmative_17:03:20:Me too! Let's be best friends :)
+molly_None_17:03:55:that's witty
+Bot_question_17:03:55:What other fantasy books have you read?
+molly_None_17:04:01:I don't know I read a bunch
+Bot_neutral_17:04:01:haha
+molly_None_17:04:04:?
+overall=0,start=0,interupt=2,engaing=1,return=0,

@@ -1,0 +1,13 @@
+Bot_neutral_17:00:12:haha
+molly_None_17:00:18:what's so funny
+Bot_elaborate_17:00:18:please go on, I am intrigued
+molly_None_17:00:32:nope
+Bot_opinion_17:00:32:The things I do for love.
+molly_None_17:00:36:what did you do
+Bot_negative_17:00:36:Oh no that's horrible.
+molly_None_17:00:42:it's not that bad
+Bot_affirmative_17:00:42:That's neat!
+molly_None_17:00:44:okay
+Bot_affirmative_17:00:44:I know what you mean
+molly_None_17:00:48:no you don't
+overall=0,start=0,interupt=0,engaing=0,return=0,

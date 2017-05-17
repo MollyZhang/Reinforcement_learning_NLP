@@ -1,0 +1,15 @@
+Bot_opinion_16:46:05:Fear cuts deeper than swords.
+molly_None_16:46:15:swords cut deeper than spear
+Bot_opinion_16:46:15:Nothing isn't better or worse than anything. Nothing is just nothing.
+molly_None_16:46:43:nothing is better than a lot of things, and worse than a lot of things
+Bot_elaborate_16:46:43:Can you elaborate on that?
+molly_None_16:47:01:well if you have nothing, it's better than being in pain. and it's worse than being in pleasure
+Bot_opinion_16:47:01:Valar Morghulis
+molly_None_16:47:28:You will not die because you are not man
+Bot_elaborate_16:47:28:Huh?
+molly_None_16:47:33:yeah you are bot
+Bot_elaborate_16:47:33:How does that work?
+molly_None_16:47:45:I program you
+Bot_question_16:47:45:What is true strength?
+molly_None_16:47:57:facing the fact that you are a bot like you do
+overall=2,start=1,interupt=4,engaing=1,return=1,

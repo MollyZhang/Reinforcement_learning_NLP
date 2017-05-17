@@ -1,0 +1,15 @@
+Bot_elaborate_16:56:19:What do you mean?
+molly_None_16:56:25:I didn't say antyhing
+Bot_negative_16:56:25:Excuse me, that's not true.
+molly_None_16:56:35:oh shit, maybe I have bad memeory
+Bot_elaborate_16:56:35:Can you elaborate on that?
+molly_None_16:56:45:bad memory man
+Bot_affirmative_16:56:45:I am glad to hear that.
+molly_None_16:56:49:great
+Bot_negative_16:56:49:Nah, it's not true.
+molly_None_16:56:51:no
+Bot_opinion_16:56:51:Dracarys
+molly_None_16:56:53:scared
+Bot_opinion_16:56:53:Hodor
+molly_None_16:56:59:sad story
+overall=0,start=0,interupt=0,engaing=0,return=0,

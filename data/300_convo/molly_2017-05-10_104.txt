@@ -1,0 +1,13 @@
+Bot_affirmative_17:04:16:You have a great piont point.
+molly_None_17:04:21:I didn't say antyhing
+Bot_affirmative_17:04:21:wow, that's amazing
+molly_None_17:04:25:no it's not
+Bot_opinion_17:04:25:Winter is coming
+molly_None_17:04:30:surely it is
+Bot_opinion_17:04:30:The things I do for love.
+molly_None_17:04:38:what did you do
+Bot_affirmative_17:04:38:Me too! Let's be best friends :)
+molly_None_17:04:41:...
+Bot_affirmative_17:04:41:I agree with you on that
+molly_None_17:04:43:...
+overall=0,start=0,interupt=0,engaing=0,return=0,

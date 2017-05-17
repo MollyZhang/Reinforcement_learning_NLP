@@ -1,0 +1,15 @@
+Bot_elaborate_16:57:35:What do you mean?
+molly_None_16:58:22:go to hell
+Bot_opinion_16:58:22:Any man who must say 'I am the king' is no true king.
+molly_None_16:58:52:okay
+Bot_negative_16:58:52:I don't get it.
+molly_None_16:59:00:you mean you don't get your own quote?
+Bot_opinion_16:59:00:Nothing isn't better or worse than anything. Nothing is just nothing.
+molly_None_16:59:04:sure
+Bot_affirmative_16:59:04:wow, that's amazing
+molly_None_16:59:06:no
+Bot_negative_16:59:06:Oh no that's horrible.
+molly_None_16:59:07:no
+Bot_affirmative_16:59:07:Brilliant!
+molly_None_16:59:10:no
+overall=0,start=0,interupt=0,engaing=0,return=0,

@@ -1,0 +1,15 @@
+Bot_negative_16:51:29:Nah, it's not true.
+molly_None_16:51:33:what's not true
+Bot_negative_16:51:33:Excuse me, that's not true.
+molly_None_16:52:14:what's not true
+Bot_elaborate_16:52:14:please go on, I am intrigued
+molly_None_16:52:19:I am not saying anything
+Bot_neutral_16:52:19:haha
+molly_None_16:52:24:not funny
+Bot_neutral_16:52:24:hmmm, that's interesting.
+molly_None_16:52:27:not intersting
+Bot_negative_16:52:27:Nope.
+molly_None_16:52:29:nope
+Bot_negative_16:52:29:You are just completely wrong
+molly_None_16:52:37:man you are driving me insane
+overall=0,start=0,interupt=0,engaing=0,return=0,

@@ -1,0 +1,15 @@
+Bot_negative_16:54:33:Nah, it's not true.
+molly_None_16:54:36:What's not true
+Bot_elaborate_16:54:36:Can you tell me more?
+molly_None_16:54:39:No
+Bot_negative_16:54:39:I beg to differ.
+molly_None_16:54:41:...
+Bot_neutral_16:54:41:LOL
+molly_None_16:54:43:not funny
+Bot_elaborate_16:54:43:How does that work?
+molly_None_16:54:47:just not funny
+Bot_affirmative_16:54:47:Me too! Let's be best friends :)
+molly_None_16:54:49:no
+Bot_opinion_16:54:49:Nothing isn't better or worse than anything. Nothing is just nothing.
+molly_None_16:55:04:not having friends is worse than having friends
+overall=1,start=0,interupt=0,engaing=0,return=0,

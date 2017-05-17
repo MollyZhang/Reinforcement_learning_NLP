@@ -1,0 +1,13 @@
+Bot_affirmative_17:01:50:Definitely.
+molly_None_17:01:54:Of course!
+Bot_elaborate_17:01:54:Why?
+molly_None_17:02:03:I am just repeating what you said
+Bot_neutral_17:02:03:LOL
+molly_None_17:02:22:haha
+Bot_negative_17:02:22:Excuse me, that's not true.
+molly_None_17:02:25:...
+Bot_affirmative_17:02:25:wow, that's amazing
+molly_None_17:02:30:no it's not
+Bot_negative_17:02:30:I don't believe you.
+molly_None_17:02:33:okay
+overall=1,start=0,interupt=2,engaing=0,return=0,

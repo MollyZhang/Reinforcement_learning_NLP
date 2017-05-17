@@ -1,0 +1,15 @@
+Bot_negative_16:48:20:I don't think so.
+molly_None_16:48:24:about what?
+Bot_question_16:48:24:What one piece of advice would you offer to a person who have never seen the show?
+molly_None_16:48:31:hmmmm watch it
+Bot_affirmative_16:48:31:Awesome
+molly_None_16:48:34:okay
+Bot_opinion_16:48:34:Valar Morghulis
+molly_None_16:48:42:You should die
+Bot_negative_16:48:42:Excuse me, that's not true.
+molly_None_16:48:59:that's not a factual statement
+Bot_affirmative_16:48:59:You are funny
+molly_None_16:49:02:sure
+Bot_negative_16:49:02:Nah, it's not true.
+molly_None_16:49:05:...
+overall=0,start=0,interupt=0,engaing=0,return=0,

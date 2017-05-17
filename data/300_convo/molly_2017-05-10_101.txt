@@ -1,0 +1,13 @@
+Bot_affirmative_17:00:53:Brilliant!
+molly_None_17:01:00:what's brilliant
+Bot_affirmative_17:01:00:Awesome
+molly_None_17:01:04:what's awesome
+Bot_neutral_17:01:04:I need to meditate on that
+molly_None_17:01:09:okay
+Bot_neutral_17:01:09:hmmm, that's interesting.
+molly_None_17:01:13:what's interesting
+Bot_question_17:01:13:How long does it take for you to watch all the TV show?
+molly_None_17:01:16:a while
+Bot_opinion_17:01:16:Nothing isn't better or worse than anything. Nothing is just nothing.
+molly_None_17:01:32:sure
+overall=1,start=0,interupt=2,engaing=0,return=0,

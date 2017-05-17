@@ -1,0 +1,15 @@
+Bot_question_16:44:57:What one piece of advice would you offer to a person who have never seen the show?
+molly_None_16:45:05:don't watch it
+Bot_neutral_16:45:05:Well okay.
+molly_None_16:45:12:I know
+Bot_affirmative_16:45:12:Yep!
+molly_None_16:45:17:We know so much
+Bot_question_16:45:17:Which do you like better, the books or the movies?
+molly_None_16:45:21:movies
+Bot_opinion_16:45:21:When you play a game of thrones you win or you die.
+molly_None_16:45:24:sure
+Bot_negative_16:45:24:Nope.
+molly_None_16:45:30:nope again?
+Bot_elaborate_16:45:30:Why?
+molly_None_16:45:33:why what?
+overall=0,start=5,interupt=0,engaing=0,return=0,

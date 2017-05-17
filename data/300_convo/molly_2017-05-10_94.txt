@@ -1,0 +1,15 @@
+Bot_affirmative_16:52:50:You are so smart!
+molly_None_16:52:55:thanks, but why?
+Bot_negative_16:52:55:Nope.
+molly_None_16:53:05:refuse to explain your random compliment?
+Bot_opinion_16:53:05:Fear cuts deeper than swords.
+molly_None_16:53:11:you are afraid to explain?
+Bot_negative_16:53:11:Excuse me, that's not true.
+molly_None_16:53:22:so you are not afraid, chill, I am just saying
+Bot_neutral_16:53:22:Really?
+molly_None_16:53:28:yeah
+Bot_neutral_16:53:28:LOL
+molly_None_16:53:43:LOL you have a weird sense of humor
+Bot_question_16:53:43:What don't you like about Game of Throne's storyline?
+molly_None_16:54:12:it's sometimes very violent
+overall=0,start=5,interupt=1,engaing=0,return=0,

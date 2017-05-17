@@ -1,0 +1,15 @@
+Bot_elaborate_16:49:12:Can you elaborate on that?
+molly_None_16:49:33:I haven't said anything
+Bot_negative_16:49:33:Nope.
+molly_None_16:49:45:so why do you ask me to elaborate?
+Bot_neutral_16:49:45:I need to meditate on that
+molly_None_16:50:21:okay
+Bot_opinion_16:50:21:When you play a game of thrones you win or you die.
+molly_None_16:50:35:this is the result of your meditation?
+Bot_question_16:50:35:If you can kill any character, who would that be?
+molly_None_16:50:44:hmmm some very bad person for sure
+Bot_neutral_16:50:44:Really?
+molly_None_16:50:58:yeah of course, I would like to think myself as a good person
+Bot_neutral_16:50:58:Well okay.
+molly_None_16:51:02:you disagree or what?
+overall=2,start=0,interupt=3,engaing=1,return=3,
