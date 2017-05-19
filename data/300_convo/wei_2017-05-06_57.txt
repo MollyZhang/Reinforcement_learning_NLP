@@ -1,15 +1,15 @@
-Bot says:  Yep!
-wei: what's up?
-Bot says:  Which season in the series do you like the most?
-wei: I like the third season the most.
-Bot says:  Life is not a song, sweetling. Someday you may learn that, to your sorrow.
-wei: You have a good memory on remembering all the quotes.
-Bot says:  What one piece of advice would you offer to a person who have never seen the show?
-wei: If you want to talk with the bot, you'd better watch it first.
-Bot says:  What's your favorite valyrian steel weapon?
-wei: I hope I could have a special designed sword.
-Bot says:  Can you be brave if you are afraid? That's the only time you can be brave
-wei: I will calm down, and always be brave, thanks.
-Bot says:  You are just completely wrong
-wei: okay, then what do you think?
+Bot_affirmative_23:31:39:  Yep!
+wei_None_23:32:06: what's up?
+Bot_question_23:31:39:  Which season in the series do you like the most?
+wei_None_23:32:06: I like the third season the most.
+Bot_opinion_23:31:39:  Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+wei_None_23:32:06: You have a good memory on remembering all the quotes.
+Bot_question_23:31:39:  What one piece of advice would you offer to a person who have never seen the show?
+wei_None_23:32:06: If you want to talk with the bot, you'd better watch it first.
+Bot_question_23:31:39:  What's your favorite valyrian steel weapon?
+wei_None_23:32:06: I hope I could have a special designed sword.
+Bot_opinion_23:31:39:  Can you be brave if you are afraid? That's the only time you can be brave
+wei_None_23:32:06: I will calm down, and always be brave, thanks.
+Bot_negative_23:31:39:  You are just completely wrong
+wei_None_23:32:06: okay, then what do you think?
 overall=4,start=2,interupt=4,engaing=5,return=3,

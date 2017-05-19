@@ -1,15 +1,15 @@
-Bot says:  I don't get it.
-wei: me either.
-Bot says:  Dracarys
-wei: does it also means fire?
-Bot says:  Life is not a song, sweetling. Someday you may learn that, to your sorrow.
-wei: hardness in life is not that bad.
-Bot says:  hmmm, that's interesting.
-wei: life sucks, but find a path and enjoy it.
-Bot says:  Is there any character that you want to date?
-wei: John Snow.
-Bot says:  I don't believe you.
-wei: Tyrion。
-Bot says:  What's your favorite valyrian steel weapon?
-wei: A weapon made of you.
+Bot_elaborate_10:37:45:  I don't get it.
+wei_None_23:30:21: me either.
+Bot_neutral_23:29:37:  Dracarys
+wei_None_23:30:21: does it also means fire?
+Bot_opinion_23:29:37:  Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+wei_None_23:30:21: hardness in life is not that bad.
+Bot_affirmative_23:29:37:  hmmm, that's interesting.
+wei_None_23:30:21: life sucks, but find a path and enjoy it.
+Bot_question_23:29:37:  Is there any character that you want to date?
+wei_None_23:30:21: John Snow.
+Bot_negative_23:29:37:  I don't believe you.
+wei_None_23:30:21: Tyrion。
+Bot_question_23:29:37:  What's your favorite valyrian steel weapon?
+wei_None_23:30:21: A weapon made of you.
 overall=3,start=1,interupt=3,engaing=2,return=1,

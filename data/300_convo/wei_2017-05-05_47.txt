@@ -1,19 +1,19 @@
-Bot says:  What?
-wei: what what?
-Bot says:  Nah, it's not true.
-wei: but I did nothing.
-Bot says:  Me too! Let's be best friends :)
-wei: can we at least do someting after we become friends.
-Bot says:  I beg to differ.
-wei: how lazy are you?
-Bot says:  Can you be brave if you are afraid? That's the only time you can be brave
-wei: are you afraid of being not lazy?
-Bot says:  When you play a game of thrones you win or you die.
-wei: Are you afraid of die?
-Bot says:  I don't think so.
-wei: wow, I am imprised.
-Bot says:  Which season in the series do you like the most?
-wei: I like the third season.
-Bot says:  What's your biggest surprise?
-wei: I am surprised that there are real dragons exist.
+Bot_elaborate_10:37:45:  What?
+wei_None_10:39:42: what what?
+Bot_negative_10:37:45:  Nah, it's not true.
+wei_None_10:39:42: but I did nothing.
+Bot_affirmative_10:37:45:  Me too! Let's be best friends :)
+wei_None_10:39:42: can we at least do something after we become friends.
+Bot_negative_10:37:45:  I beg to differ.
+wei_None_10:39:42: how lazy are you?
+Bot_opinion_10:37:45 says:  Can you be brave if you are afraid? That's the only time you can be brave
+wei_None_10:39:42: are you afraid of being not lazy?
+Bot_opinion_10:37:45:  When you play a game of thrones you win or you die.
+wei_None_10:39:42: Are you afraid of die?
+Bot_negative_10:37:45:  I don't think so.
+wei_None_10:39:42: wow, I am imprised.
+Bot_question_10:37:45:  Which season in the series do you like the most?
+wei_None_10:39:42: I like the third season.
+Bot_question_10:37:45:  What's your biggest surprise?
+wei_None_10:39:42: I am surprised that there are real dragons exist.
 overall=5,start=1,interupt=3,engaing=3,return=2,

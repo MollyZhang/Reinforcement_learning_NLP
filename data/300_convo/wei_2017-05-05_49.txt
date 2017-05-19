@@ -1,13 +1,13 @@
-Bot says:  Fantastic idea!
-wei: what's on your mind?
-Bot says:  Nope.
-wei: then what is that fatastic idea?
-Bot says:  I don't believe you.
-wei: You can do that.
-Bot says:  How does that work?
-wei: you could just not telling me anything.
-Bot says:  LOL
-wei: do you mean it?
-Bot says:  please go on, I am intrigued
-wei: alright, let's go back on the TV shows.
+Bot_affirmative_23:29:37:  Fantastic idea!
+wei_None_23:32:06: what's on your mind?
+Bot_negative_23:29:37:  Nope.
+wei_None_23:32:06: then what is that fatastic idea?
+Bot_negative_23:29:37:  I don't believe you.
+wei_None_23:32:06: You can do that.
+Bot_question_23:29:37:  How does that work?
+wei_None_23:32:06: you could just not telling me anything.
+Bot_neutral_23:29:37:  LOL
+wei_None_23:32:06: do you mean it?
+Bot_elaborate_23:29:37:  please go on, I am intrigued
+wei_None_23:32:06: alright, let's go back on the TV shows.
 overall=4,start=1,interupt=3,engaing=1,return=2,
