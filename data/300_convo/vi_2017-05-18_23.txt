@@ -1,0 +1,17 @@
+Bot_elaborate_11:27:15:You gotta tell me more.
+vi_None_11:27:28:I have nothing to say.
+Bot_opinion_11:27:28:Can you be brave if you are afraid? That's the only time you can be brave
+vi_None_11:27:55:I am brave to talk to you, it's a challange of by patience.
+Bot_neutral_11:27:55:Really?
+vi_None_11:28:04:yeah, I mean it.
+Bot_opinion_11:28:04:Nothing isn't better or worse than anything. Nothing is just nothing.
+vi_None_11:28:32:huh, that's a great opinion.
+Bot_neutral_11:28:32:hmmm, that's interesting.
+vi_None_11:28:56:you become boring now.
+Bot_affirmative_11:28:56:Definitely.
+vi_None_11:29:16:why are you proud of being boring?
+Bot_opinion_11:29:16:Valar Morghulis
+vi_None_11:29:37:one man must serve.
+Bot_negative_11:29:37:Excuse me, that's not true.
+vi_None_11:29:43:will hyou serve?
+overall=2,start=0,interupt=1,engaing=2,return=1,

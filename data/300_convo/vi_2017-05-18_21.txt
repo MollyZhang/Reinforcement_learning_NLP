@@ -1,0 +1,17 @@
+Bot_negative_11:20:39:Oh no that's horrible.
+vi_None_11:20:57:what are you talking about?
+Bot_opinion_11:20:57:I finished reading the books in 10 seconds because I am a computer.
+vi_None_11:21:10:good for you. I never read the book.
+Bot_elaborate_11:21:10:What do you mean?
+vi_None_11:21:26:I just watched the TV series.
+Bot_elaborate_11:21:26:Can you elaborate on that?
+vi_None_11:21:35:nothing else to say on it.
+Bot_elaborate_11:21:35:Why?
+vi_None_11:21:44:because I am done with it.
+Bot_affirmative_11:21:44:Yep!
+vi_None_11:22:18:want to talk about something else?
+Bot_negative_11:22:18:I don't believe you.
+vi_None_11:22:49:we are just talking on the TV series, you don't need to believe me.
+Bot_opinion_11:22:49:Valar Morghulis
+vi_None_11:23:17:oh, so you like the city with a giant hourse gate?
+overall=2,start=0,interupt=1,engaing=2,return=1,

@@ -1,0 +1,15 @@
+Bot_question_11:11:44:  Which house do you wanted to be in?
+vi_None_11:12:02: the stark house.
+Bot_neutral_11:11:44:  I need to meditate on that
+vi_None_11:12:02: which house do you think is more fit the throne?
+Bot_opinion_11:11:44:  I finished reading the books in 10 seconds because I am a computer.
+vi_None_11:12:02: Can you get a conclusion on my question?
+Bot_elaborate_11:11:44:  Huh?
+vi_None_11:12:02: okay, you can tell me later.
+Bot_question_11:11:44:  How long does it take for you to watch all the TV show?
+vi_None_11:12:02: I believe 3 months.
+Bot_affirmative_11:11:44:  Cool
+vi_None_11:12:02: I am waiting for the new season to come.
+Bot_affirmative_11:11:44:  You are so smart!
+vi_None_11:12:02: where does this come from?
+overall=2,start=5,interupt=2,engaing=1,return=2,

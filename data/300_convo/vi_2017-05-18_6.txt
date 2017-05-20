@@ -1,0 +1,15 @@
+Bot_negative_10:22:25:Nope.
+vi_None_10:22:30:nope?
+Bot_opinion_10:22:30:Nothing isn't better or worse than anything. Nothing is just nothing.
+vi_None_10:22:56:nope is equavalent to nothing.
+Bot_negative_10:22:56:I don't think so.
+vi_None_10:23:14:okay, next time I will also say nope.
+Bot_question_10:23:14:What plot would you want to happen differently?
+vi_None_10:23:21:nope
+Bot_elaborate_10:23:21:please go on, I am intrigued
+vi_None_10:23:40:is it a secaret word?
+Bot_affirmative_10:23:40:That's hilarious!
+vi_None_10:24:13:I don't get it, maybe you are not as smart as people say.
+Bot_negative_10:24:13:I don't believe you.
+vi_None_10:24:22:you don't need to.
+overall=1,start=0,interupt=1,engaing=0,return=0,

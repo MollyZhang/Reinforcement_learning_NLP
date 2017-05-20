@@ -1,0 +1,15 @@
+Bot_neutral_10:30:20:Really?
+vi_None_10:30:26:really what?
+Bot_negative_10:30:26:Oh no that's horrible.
+vi_None_10:30:33:what is horrible?
+Bot_elaborate_10:30:33:Why?
+vi_None_10:30:42:what is that?
+Bot_elaborate_10:30:42:What?
+vi_None_10:30:56:What what>
+Bot_opinion_10:30:56:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+vi_None_10:31:32:I just heared a very sad song, I think you singed for me.
+Bot_negative_10:31:32:Excuse me, that's not true.
+vi_None_10:31:56:But you keep asking questions, which makes me unhappy.
+Bot_opinion_10:31:56:Winter is coming
+vi_None_10:32:42:if I am a white walker, I will try to turn you to a white bot. it will be interesting.
+overall=0,start=0,interupt=1,engaing=1,return=0,

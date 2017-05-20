@@ -1,0 +1,15 @@
+Bot_opinion_11:00:31:Nothing isn't better or worse than anything. Nothing is just nothing.
+vi_None_11:00:40:you are so smark
+Bot_negative_11:00:40:Nah, it's not true.
+vi_None_11:00:53:not smark, smart I mean.
+Bot_affirmative_11:00:53:You are so smart!
+vi_None_11:01:09:I guess we are both smart now.
+Bot_neutral_11:01:09:Really?
+vi_None_11:01:22:yes. I know I am.
+Bot_affirmative_11:01:22:That's hilarious!
+vi_None_11:01:36:what? you hurt my feeling.
+Bot_opinion_11:01:36:Valar Morghulis
+vi_None_11:01:56:but sill, you hurt my feeling, say sorry to me.
+Bot_elaborate_11:01:56:What?
+vi_None_11:02:10:you are a rude bot.
+overall=3,start=3,interupt=4,engaing=3,return=2,

@@ -1,0 +1,15 @@
+Bot_elaborate_10:37:45:What do you mean?
+vi_None_10:37:53:I said nothing?
+Bot_elaborate_10:37:53:How does that work?
+vi_None_10:38:03:I really don't know.
+Bot_elaborate_10:38:03:You gotta tell me more.
+vi_None_10:38:12:kill me now.
+Bot_elaborate_10:38:12:please go on, I am intrigued
+vi_None_10:38:46:go on the topic of killing me?
+Bot_affirmative_10:38:46:I agree with you on that
+vi_None_10:38:59:oh my god, bot killer.
+Bot_opinion_10:38:59:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+vi_None_10:39:26:a killer also knows john snow?
+Bot_neutral_10:39:26:I need to meditate on that
+vi_None_10:39:42:looks like you like him.
+overall=2,start=1,interupt=1,engaing=2,return=1,

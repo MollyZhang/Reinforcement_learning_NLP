@@ -1,0 +1,15 @@
+Bot_neutral_10:04:27:Really?
+vi_None_10:04:36:what's happening?
+Bot_opinion_10:04:36:Nothing isn't better or worse than anything. Nothing is just nothing.
+vi_None_10:05:16:yes,you just said nothing。
+Bot_elaborate_10:05:16:You gotta tell me more.
+vi_None_10:05:37:wha do you want me to say? I am hungry.
+Bot_opinion_10:05:37:Dracarys
+vi_None_10:07:00:are you making food for me? I like BBQ. do you like spicy sauce?
+Bot_opinion_10:07:00:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+vi_None_10:07:49:let's not say sad things, let's talk about food.
+Bot_negative_10:07:49:I disagree.
+vi_None_10:08:19:is that because you don't need to eat?
+Bot_neutral_10:08:19:haha
+vi_None_10:09:04:but I can tell you the recipes of how to make good dishes and you can use them to make more friends.
+overall=3,start=1,interupt=3,engaing=3,return=2,

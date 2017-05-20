@@ -1,0 +1,15 @@
+Bot_question_10:27:01:How long does it take for you to watch all the TV show?
+vi_None_10:27:16:oh, it took me more than 3 months.
+Bot_negative_10:27:16:I disagree.
+vi_None_10:27:36:why do you don't agree on the fact.
+Bot_negative_10:27:36:I don't get it.
+vi_None_10:28:16:watching so many TV series took me a long time.
+Bot_question_10:28:16:Do you want to ride a dragon?
+vi_None_10:28:27:of cuorse I wish.
+Bot_neutral_10:28:27:Well okay.
+vi_None_10:28:58:this is awkward.
+Bot_negative_10:28:58:Excuse me, that's not true.
+vi_None_10:29:15:but I don't want to lie to you.
+Bot_neutral_10:29:15:haha
+vi_None_10:29:44:do you want to play a character in game of thrones?
+overall=3,start=5,interupt=3,engaing=2,return=2,

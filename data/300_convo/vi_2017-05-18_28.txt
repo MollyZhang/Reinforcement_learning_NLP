@@ -1,0 +1,19 @@
+Bot_negative_11:37:51:I beg to differ.
+vi_None_11:37:59:I beg to agree.
+Bot_neutral_11:37:59:haha
+vi_None_11:38:01:hoho
+Bot_elaborate_11:38:01:Why?
+vi_None_11:38:08:I don't know why.
+Bot_negative_11:38:08:I disagree.
+vi_None_11:38:11:I agree
+Bot_affirmative_11:38:11:Definitely.
+vi_None_11:38:16:of course.
+Bot_neutral_11:38:16:Well okay.
+vi_None_11:38:19:kay then
+Bot_affirmative_11:38:19:Fantastic idea!
+vi_None_11:38:24:bye bye
+Bot_elaborate_11:38:24:What do you mean?
+vi_None_11:38:31:hello.
+Bot_question_11:38:31:What's good and what's evil?
+vi_None_11:38:39:don't want to say
+overall=0,start=0,interupt=0,engaing=0,return=0,

@@ -1,0 +1,15 @@
+Bot_question_10:35:50:Have you watched the TV show?
+vi_None_10:36:07:yes, of course, it is really good.
+Bot_neutral_10:36:07:hmmm, that's interesting.
+vi_None_10:36:33:Do you like the book more than the TV show?
+Bot_elaborate_10:36:33:please go on, I am intrigued
+vi_None_10:36:43:Which one do you like?
+Bot_neutral_10:36:43:LOL
+vi_None_10:36:56:which do you prefer?
+Bot_affirmative_10:36:56:Awesome
+vi_None_10:37:06:you diveing me crazy.
+Bot_affirmative_10:37:06:Yep!
+vi_None_10:37:11:bad bot.
+Bot_negative_10:37:11:You are just completely wrong
+vi_None_10:37:22:but you are not nice to me.
+overall=3,start=5,interupt=3,engaing=2,return=2,

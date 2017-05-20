@@ -1,0 +1,15 @@
+Bot_opinion_10:24:38:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+vi_None_10:24:52:wow, that's huge, how do you know it.
+Bot_negative_10:24:52:Nope.
+vi_None_10:25:13:you don't know it and you just say it from nowhere?
+Bot_question_10:25:13:What's your biggest surprise?
+vi_None_10:25:52:I am surprised on what you just told me.
+Bot_question_10:25:52:Who is your favorite villain?
+vi_None_10:26:06:the queen.
+Bot_neutral_10:26:06:I need to meditate on that
+vi_None_10:26:12:cerci.
+Bot_neutral_10:26:12:Well okay.
+vi_None_10:26:17:how about you?
+Bot_question_10:26:17:What's your favorite valyrian steel weapon?
+vi_None_10:26:43:a sward called kill cerci.
+overall=2,start=4,interupt=2,engaing=2,return=2,

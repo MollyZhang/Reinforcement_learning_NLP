@@ -1,0 +1,15 @@
+Bot_opinion_11:06:19:Fear cuts deeper than swords.
+vi_None_11:06:51:but swords but deeper than fear for you. do you ever fear of anything? out of wifi?
+Bot_affirmative_11:06:51:Awesome
+vi_None_11:07:15:without wifi means you are on vacation, right?
+Bot_negative_11:07:15:Nope.
+vi_None_11:07:43:then means you are sleeping and waiting to be wake up?
+Bot_question_11:07:43:What's good and what's evil?
+vi_None_11:08:30:it's complecated for people, but for bot, there is not much good or bad difference, right?
+Bot_question_11:08:30:If you can kill any character, who would that be?
+vi_None_11:09:21:I want to kill little finger?
+Bot_elaborate_11:09:21:please go on, I am intrigued
+vi_None_11:09:29:I forget his name.
+Bot_elaborate_11:09:29:Can you elaborate on that?
+vi_None_11:10:17:the one that is born poor but earn lots of money and loved Cat.
+overall=4,start=4,interupt=3,engaing=3,return=2,

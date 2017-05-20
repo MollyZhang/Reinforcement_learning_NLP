@@ -1,0 +1,15 @@
+Bot_question_10:33:11:If you can kill any character, who would that be?
+vi_None_10:33:28:the queen, she is pure evil.
+Bot_negative_10:33:28:I don't believe you.
+vi_None_10:33:42:who do you think is pure evil?
+Bot_elaborate_10:33:42:How does that work?
+vi_None_10:33:53:I think you don't know.
+Bot_question_10:33:53:When do you think the Winds of Winter is going to come out?
+vi_None_10:34:07:I am not a fun of it, I don't know.
+Bot_affirmative_10:34:07:wow, that's amazing
+vi_None_10:34:32:I don't think it's amazing, what's on you mind?
+Bot_negative_10:34:32:You are just completely wrong
+vi_None_10:35:17:please don't say that. I just don't understand you.
+Bot_neutral_10:35:17:LOL
+vi_None_10:35:26:you make me sleepy.
+overall=1,start=4,interupt=2,engaing=2,return=1,

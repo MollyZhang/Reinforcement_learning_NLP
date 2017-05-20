@@ -1,0 +1,15 @@
+Bot_affirmative_10:11:56:Brilliant!
+vi_None_10:12:24:are you watching some game?
+Bot_negative_10:12:24:Oh no that's horrible.
+vi_None_10:12:33:you don't like games?
+Bot_affirmative_10:12:33:Awesome
+vi_None_10:12:45:I don't get you.
+Bot_question_10:12:45:Do you want to ride a dragon?
+vi_None_10:13:30:oh, dragon, can you imagine that?
+Bot_affirmative_10:13:30:Me too! Let's be best friends :)
+vi_None_10:13:44:I don't get it. are you alright?
+Bot_elaborate_10:13:44:Can you elaborate on that?
+vi_None_10:13:55:I don't know what to say.
+Bot_elaborate_10:13:55:Huh?
+vi_None_10:14:14:I feel boring talking with you.
+overall=0,start=1,interupt=0,engaing=1,return=0,

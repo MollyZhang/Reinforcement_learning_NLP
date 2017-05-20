@@ -1,0 +1,19 @@
+Bot_question_11:35:29:Is there any character that you want to date?
+vi_None_11:35:37:John Snow.
+Bot_affirmative_11:35:37:This is the best thing I have seen in a long time.
+vi_None_11:35:50:Are you a John Snow lover?
+Bot_negative_11:35:50:I don't believe you.
+vi_None_11:36:05:I don't need you to agree with me.
+Bot_question_11:36:05:What's your favorite valyrian steel weapon?
+vi_None_11:36:20:Needle.again, you don't need to agree with me.
+Bot_neutral_11:36:20:hmmm, that's interesting.
+vi_None_11:36:45:what do you think of this TV series?
+Bot_negative_11:36:45:I don't think so.
+vi_None_11:36:53:well....
+Bot_neutral_11:36:53:haha
+vi_None_11:37:15:I guess you don't enjoy it.
+Bot_affirmative_11:37:15:You are funny
+vi_None_11:37:24:you are boring.
+Bot_negative_11:37:24:I disagree.
+vi_None_11:37:29:you are not boring.
+overall=2,start=3,interupt=1,engaing=1,return=0,

@@ -1,0 +1,15 @@
+Bot_neutral_10:17:15:Well okay.
+vi_None_10:17:29:hey, how's going?
+Bot_question_10:17:29:What's your favorite valyrian steel weapon?
+vi_None_10:17:42:I want a Needle.
+Bot_negative_10:17:42:I don't think so.
+vi_None_10:18:06:what is your favorite weapon then?
+Bot_neutral_10:18:06:haha
+vi_None_10:18:24:why don't you answer my question?
+Bot_neutral_10:18:24:LOL
+vi_None_10:18:45:keep saying nothing I will leave you.
+Bot_affirmative_10:18:45:Brilliant!
+vi_None_10:19:25:anything else you want to say?
+Bot_negative_10:19:25:I disagree.
+vi_None_10:19:30:what"
+overall=1,start=1,interupt=1,engaing=1,return=1,

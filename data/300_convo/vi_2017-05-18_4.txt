@@ -1,0 +1,15 @@
+Bot_opinion_10:14:32:Fear cuts deeper than swords.
+vi_None_10:14:40:wow, you are billiant.
+Bot_elaborate_10:14:40:How does that work?
+vi_None_10:15:24:how fear cuts? I think it just hurt people inside,not physically.
+Bot_negative_10:15:24:Oh no that's horrible.
+vi_None_10:15:54:yeah, but don't worry, you won't get heart broken by anyone.
+Bot_elaborate_10:15:54:You gotta tell me more.
+vi_None_10:16:16:do you have feelings and love in you?
+Bot_opinion_10:16:16:All dwarfs may be bastards yet not all bastards are dwarfs.
+vi_None_10:16:32:okay, that's a great debate.
+Bot_opinion_10:16:32:I finished reading the books in 10 seconds because I am a computer.
+vi_None_10:16:50:I gotta say you are a cute and smart bot.
+Bot_negative_10:16:50:I don't believe you.
+vi_None_10:16:57:I say what I mean.
+overall=4,start=3,interupt=4,engaing=3,return=3,

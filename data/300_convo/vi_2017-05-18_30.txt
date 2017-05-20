@@ -1,0 +1,19 @@
+Bot_negative_11:53:45:You are just completely wrong
+vi_None_11:53:53:I am so tied of this
+Bot_question_11:53:53:Do you like House of Cards?
+vi_None_11:54:17:I don't, I don't have too much time on watching TV Series.
+Bot_elaborate_11:54:17:How does that work?
+vi_None_11:54:30:YOU becomes so dumb
+Bot_negative_11:54:30:Excuse me, that's not true.
+vi_None_11:54:47:then don't ask me stupid questions.
+Bot_affirmative_11:54:47:You have a great piont point.
+vi_None_11:55:04:I don't understand you
+Bot_question_11:55:04:How long does it take for you to watch all the TV show?
+vi_None_11:55:10:1 month
+Bot_neutral_11:55:10:hmmm, that's interesting.
+vi_None_11:55:18:that's pretty fast
+Bot_opinion_11:55:18:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+vi_None_11:55:37:do you ever experiemce any bad times?
+Bot_question_11:55:37:Which season in the series do you like the most?
+vi_None_11:55:47:the first season.
+overall=0,start=0,interupt=1,engaing=0,return=0,

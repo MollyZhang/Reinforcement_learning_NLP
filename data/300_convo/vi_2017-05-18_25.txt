@@ -1,0 +1,17 @@
+Bot_affirmative_11:32:12:Well, yeah
+vi_None_11:32:17:waht?
+Bot_opinion_11:32:17:Valar Morghulis
+vi_None_11:32:29:one man must serve.
+Bot_opinion_11:32:29:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+vi_None_11:32:42:I am impressed.
+Bot_negative_11:32:42:I disagree.
+vi_None_11:32:57:what do you don't agree?
+Bot_elaborate_11:32:57:How does that work?
+vi_None_11:33:06:I really don't know.
+Bot_affirmative_11:33:06:Brilliant!
+vi_None_11:33:14:are you out of your mind?
+Bot_neutral_11:33:14:Really?
+vi_None_11:33:20:I think you are.
+Bot_neutral_11:33:20:hmmm, that's interesting.
+vi_None_11:33:38:Maybe you don't have a good mood.
+overall=0,start=0,interupt=0,engaing=0,return=0,

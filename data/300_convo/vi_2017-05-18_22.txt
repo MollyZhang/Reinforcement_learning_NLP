@@ -1,0 +1,17 @@
+Bot_affirmative_11:23:57:wow, that's amazing
+vi_None_11:24:10:tell me, I want to know.
+Bot_question_11:24:10:What's your favorite valyrian steel weapon?
+vi_None_11:24:19:Needle.
+Bot_question_11:24:19:What one piece of advice would you offer to a person who have never seen the show?
+vi_None_11:24:56:don't miss it.
+Bot_negative_11:24:56:I don't get it.
+vi_None_11:25:21:well, I will tell my friend to definitely watch it.
+Bot_affirmative_11:25:21:I know what you mean
+vi_None_11:25:44:I want to visit the places in the TV series.
+Bot_elaborate_11:25:44:Huh?
+vi_None_11:25:59:I like the views and the palaces.
+Bot_affirmative_11:25:59:Me too! Let's be best friends :)
+vi_None_11:26:16:if I finally decide to go, I will take you.
+Bot_negative_11:26:16:Excuse me, that's not true.
+vi_None_11:26:33:why, you don't want to join me?
+overall=3,start=1,interupt=3,engaing=2,return=2,

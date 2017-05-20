@@ -1,0 +1,15 @@
+Bot_opinion_10:57:58:Winter is coming
+vi_None_10:58:34:wow, I wish they could find more dragon glasses to kill white walkers.
+Bot_elaborate_10:58:34:How does that work?
+vi_None_10:58:51:the dragon glass could kill a white walker.
+Bot_opinion_10:58:51:Dracarys
+vi_None_10:59:21:do you think a dragon's fire could keill white walkers too?
+Bot_question_10:59:21:What's your favorite Character?
+vi_None_10:59:33:John Snow.
+Bot_elaborate_10:59:33:Why?
+vi_None_10:59:50:because he is sexy.
+Bot_affirmative_10:59:50:Brilliant!
+vi_None_11:00:02:looks like you like him too.
+Bot_question_11:00:02:Who is your favorite villain?
+vi_None_11:00:12:Cerci, the queen.
+overall=5,start=3,interupt=4,engaing=3,return=4,

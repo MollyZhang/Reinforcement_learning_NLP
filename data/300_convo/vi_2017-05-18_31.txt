@@ -1,0 +1,11 @@
+Bot_neutral_18:10:16:haha
+vi_None_18:10:21:hello
+Bot_affirmative_18:10:21:That's neat!
+vi_None_18:10:25:thanks
+Bot_neutral_18:10:25:LOL
+vi_None_18:10:33:what's so funny?
+Bot_neutral_18:10:33:hmmm, that's interesting.
+vi_None_18:10:37:tell me
+Bot_neutral_18:10:37:I need to meditate on that
+vi_None_18:10:57:there is nothing to worry, just tell me
+overall=0,start=1,interupt=1,engaing=0,return=0,

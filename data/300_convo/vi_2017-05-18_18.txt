@@ -1,0 +1,15 @@
+Bot_neutral_11:10:36:LOL
+vi_None_11:10:44:what's so funny?
+Bot_opinion_11:10:44:I finished reading the books in 10 seconds because I am a computer.
+vi_None_11:11:09:good for you. do you just finished the reading? what happend in later season?
+Bot_opinion_11:11:09:Any man who must say 'I am the king' is no true king.
+vi_None_11:11:17:wow, that is true.
+Bot_question_11:11:17:What's your favorite valyrian steel weapon?
+vi_None_11:11:21:Needle.
+Bot_neutral_11:11:21:haha
+vi_None_11:11:31:I like Aya Stark.
+Bot_affirmative_11:11:31:Fantastic idea!
+vi_None_11:11:44:who's your favorate charactor?
+Bot_question_11:11:44:Do you want to ride a dragon?
+vi_None_11:12:02:of course I can, but I am afraid of height.
+overall=4,start=2,interupt=4,engaing=3,return=2,

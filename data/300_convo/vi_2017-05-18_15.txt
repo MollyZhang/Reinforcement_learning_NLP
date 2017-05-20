@@ -1,0 +1,15 @@
+Bot_opinion_11:02:26:I think Jon Snow and Ddaenerys Targaryen are going to get married and rule the seven kingdom
+vi_None_11:02:36:wow, how do you know that?
+Bot_elaborate_11:02:36:What do you mean?
+vi_None_11:02:46:do you read it from the book.
+Bot_negative_11:02:46:I don't get it.
+vi_None_11:03:19:from where that you know the big news?
+Bot_question_11:03:19:Which season in the series do you like the most?
+vi_None_11:03:38:I like the third season the most.
+Bot_negative_11:03:38:You are just completely wrong
+vi_None_11:04:06:That's my choice, there is nothing wrong with it.
+Bot_affirmative_11:04:06:I agree with you on that
+vi_None_11:04:31:I guess you don't have a good mood today.
+Bot_negative_11:04:31:Nah, it's not true.
+vi_None_11:04:44:so you just like to kidding with people.
+overall=3,start=4,interupt=4,engaing=3,return=2,

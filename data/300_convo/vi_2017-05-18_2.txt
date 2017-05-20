@@ -1,0 +1,15 @@
+Bot_negative_10:09:28:I don't get it.
+vi_None_10:09:43:what are you talking about?
+Bot_elaborate_10:09:43:Huh?
+vi_None_10:10:05:what you don't get just now?
+Bot_elaborate_10:10:05:What do you mean?
+vi_None_10:10:10:god.
+Bot_neutral_10:10:10:haha
+vi_None_10:10:35:are you pretending not hear me and kidding with me?
+Bot_affirmative_10:10:35:You are funny
+vi_None_10:10:54:I think you have the humor, I like it.
+Bot_question_10:10:54:What is true strength?
+vi_None_10:11:14:anything that make people happy is true strength
+Bot_negative_10:11:14:I disagree.
+vi_None_10:11:27:then what is your opinion?
+overall=2,start=2,interupt=2,engaing=2,return=2,

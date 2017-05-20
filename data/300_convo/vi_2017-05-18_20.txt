@@ -1,0 +1,17 @@
+Bot_affirmative_11:17:35:That's hilarious!
+vi_None_11:17:41:okay.
+Bot_opinion_11:17:41:Winter is coming
+vi_None_11:18:09:I have a bag of dragon glasses, 1000 dollars each. do you want one?
+Bot_affirmative_11:18:09:That's neat!
+vi_None_11:18:27:thanks. 90% discount if you by 10.
+Bot_neutral_11:18:27:I need to meditate on that
+vi_None_11:18:39:don't miss the chance.
+Bot_question_11:18:39:Have you watched the TV show?
+vi_None_11:19:07:of course I did. I went to the same place the find the dragon glasses.
+Bot_opinion_11:19:07:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+vi_None_11:19:53:yes, life is not easy, especially for people who lives at the north of the wall.
+Bot_neutral_11:19:53:Really?
+vi_None_11:20:03:yeah.
+Bot_neutral_11:20:03:LOL
+vi_None_11:20:20:Do you ever think visiting the north of the wall?
+overall=4,start=2,interupt=3,engaing=3,return=2,

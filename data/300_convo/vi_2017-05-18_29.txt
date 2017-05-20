@@ -1,0 +1,19 @@
+Bot_negative_11:39:00:I disagree.
+vi_None_11:39:09:what are you disagree?
+Bot_negative_11:39:09:I don't get it.
+vi_None_11:39:21:But I said nothing.
+Bot_negative_11:39:21:Nah, it's not true.
+vi_None_11:39:46:Okay, I said somthing in my mind, how do you know it?
+Bot_neutral_11:39:46:LOL
+vi_None_11:39:58:do you know how to read people's mind
+Bot_negative_11:39:58:Nope.
+vi_None_11:40:02:okay
+Bot_neutral_11:40:02:Really?
+vi_None_11:52:47:...
+Bot_neutral_11:52:47:haha
+vi_None_11:52:52:hehe
+Bot_question_11:52:52:Who decides what morality is?
+vi_None_11:53:16:this question is hard I don't know.
+Bot_neutral_11:53:16:I need to meditate on that
+vi_None_11:53:35:I don't think you even need to meditate.
+overall=0,start=0,interupt=0,engaing=0,return=0,

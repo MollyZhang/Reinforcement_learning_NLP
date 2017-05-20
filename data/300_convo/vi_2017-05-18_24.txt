@@ -1,0 +1,17 @@
+Bot_neutral_11:30:02:LOL
+vi_None_11:30:12:It's a long day.
+Bot_elaborate_11:30:12:Can you elaborate on that?
+vi_None_11:30:24:I am so tired.
+Bot_negative_11:30:24:Nope.
+vi_None_11:30:31:Why?
+Bot_neutral_11:30:31:haha
+vi_None_11:30:41:say something.
+Bot_question_11:30:41:What plot would you want to happen differently?
+vi_None_11:31:10:I want to put you in the show and play by the side of Cerci.
+Bot_question_11:31:10:Which house do you wanted to be in?
+vi_None_11:31:21:I want to be in the Stark house.
+Bot_opinion_11:31:21:Life is not a song, sweetling. Someday you may learn that, to your sorrow.
+vi_None_11:31:35:that is soooo true.
+Bot_negative_11:31:35:I beg to differ.
+vi_None_11:31:50:you want to say that not true? interesting.
+overall=1,start=0,interupt=1,engaing=0,return=0,

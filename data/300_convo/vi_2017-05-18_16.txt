@@ -1,0 +1,15 @@
+Bot_elaborate_11:05:02:What?
+vi_None_11:05:10:I don't know.
+Bot_elaborate_11:05:10:please go on, I am intrigued
+vi_None_11:05:25:I don't know what you want me to say.
+Bot_negative_11:05:25:I don't get it.
+vi_None_11:05:33:I don't get you.
+Bot_elaborate_11:05:33:What do you mean?
+vi_None_11:05:38:what do you mean?
+Bot_negative_11:05:38:Nah, it's not true.
+vi_None_11:05:45:you are always wrong.
+Bot_question_11:05:45:Which season in the series do you like the most?
+vi_None_11:05:54:I don't want to answer it.
+Bot_neutral_11:05:54:haha
+vi_None_11:06:00:I don't like you.
+overall=0,start=0,interupt=2,engaing=0,return=0,
