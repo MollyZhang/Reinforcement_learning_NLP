@@ -12,7 +12,7 @@ Bot_neutral_22:23:21: hmmm, that's interesting.
 Wei_None_22:24:32: I guess a bot can do nothing except talk.
 Bot_elaborate_22:24:32: What do you mean?
 Wei_None_22:24:44: I am sorry to hurt your feeling.
-Bot_Affirmative_22:24:44: Awesome.
+Bot_affirmative_22:24:44: Awesome.
 Wei_None_22:25:02: Do you want to talk more about the new season?
 Bot_opinion_22:25:02: Nothing isn't better or worse than anything. Nothing is just nothing. 
 Wei_None_22:25:17: I like this quote.

@@ -10,7 +10,7 @@ Bot_question_22:22:59: Have you watched the TV show?
 Wei_None_22:23:21: Yes, I did, but I still like the books more than the TV Show.  
 Bot_opinion_22:23:21: I finished reading the books in 10 seconds because I am a computer.
 Wei_None_22:24:32: Good for you.  
-Bot_Affirmative_22:24:32: You are funny. 
+Bot_affirmative_22:24:32: You are funny. 
 Wei_None_22:24:44: I am funny because I am a human.
 Bot_neutral_22:24:44: haha. 
 Wei_None_22:25:02: Let’s talk about the TV Show.
