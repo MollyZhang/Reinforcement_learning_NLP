@@ -1,0 +1,17 @@
+Bot_question: what do you think about the Botton family?
+user_None:They are cruel to treat with people, I don’t like them.
+Bot_neutral:I need to think of it, they are a group of people trying to live in Game of thrones.
+user_None: There are also lots of other families, who are trying to live by following big family with loyalty.
+Bot_elaborate: do you think their loyalty will always hold, some family switches the side when war comes.
+user_None: okay, I hope after all the slaves are set to free, they will always be loyalty to mother of dragon and fight for her.
+Bot_affirmative: Definitely, the slaves have no family to serve, the mother of dragon is their family to follow, they would never betray her.
+user_None: even if they will fight the army of Cerci and die, they die with glory and as a free man.
+Bot_question: what do you think will happen after John Snow win the White Walkers and Dennis win Cerci?
+user_None: I have no idea,they might start a new war.
+Bot_negative: I don’t think they will fight with each other, if a marriage could stop the war, they will do it.
+user_None: I like your opinion, it is possible to happen as long as they win.
+Bot_opinion: I think from the previous seasons we know that John Snow and Dennis are great leaders, there is a high probability that they will win.
+user_None: I would like to see if John Snow would be hurt by fire? I think he might be another true dragon.
+Bot_neutral: of course he will, he has black hair, his blood is not pure.
+user_None:wow, you really know a lot.
+overall=5,start=5,interupt=5,engaing=5,return=5,

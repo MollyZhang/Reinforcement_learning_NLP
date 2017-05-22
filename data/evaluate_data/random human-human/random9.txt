@@ -1,0 +1,15 @@
+Bot_negative_15:54:25:I don’t think we could talk too much on it.
+molly_None_15:54:27:why?
+Bot_negative_15:54:27:I don’t know you, we could have totally different opinions
+molly_None_15:54:29:okay, but we could still talk about it.
+Bot_elaborate_15:54:29:Huh? On which storyline?
+molly_None_15:54:31:what do you think Bran Stark will use his power of time traveling?
+Bot_opinion_15:54:31:I think his power could become more strong and help John Snow fight white walkers.
+molly_None_15:54:33:will he die because of people’s trick.
+Bot_elaborate_15:54:33:What do you mean?
+molly_None_15:54:46:I mean he will not like three eyed raven sitting there and living for a long time. Someone who want’s to hurt John might kill Bran.
+Bot_elaborate_15:54:46:do you think it really gonna happen?
+molly_None_15:54:49:I am just saying, I have no idea.
+Bot_elaborate_15:54:49:You gotta tell me more.
+molly_None_15:54:54:I shouldn’t brought it up.
+overall=1,start=1,interupt=1,engaing=0,return=1,

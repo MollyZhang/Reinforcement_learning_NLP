@@ -1,0 +1,15 @@
+Bot_neutral_15:40:36:It is weird that a king’s children are all daughters.
+molly_None_15:40:39:I know that you are talking about.
+Bot_affirmative_15:40:39:you are smart to get it immediately.
+molly_None_15:40:41:I guess it is obvious to see from previous seasons.
+Bot_affirmative_15:40:41:You are right, it not hard to guess.
+molly_None_15:40:44:Which girl do you like the most? Short hair or long hair?
+Bot_opinion_15:40:44:I think the one with short hair is cuter.
+molly_None_15:40:46:I agree with you.
+Bot_affirmative_15:40:46:fatastic, we have the same likes.
+molly_None_15:40:48:but they are all good at killings.
+Bot_affirmative_15:40:48:that is cool, isn’t it?
+molly_None_15:40:50:I don’t think it’s cool.
+Bot_opinion_15:40:50:I think in game of thrones, a girl who knows to kill is a living skill.
+molly_None_15:40:58:alright, at some level it’s not bad to kill.
+overall=3,start=3,interupt=3,engaing=2,return=2,

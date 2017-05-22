@@ -1,0 +1,15 @@
+Bot_affirmative_15:38:45:You are so smart on analyzing the relationships between the houses.
+molly_None_15:38:53:Thank you, how to you know that? I never talk about it with you.
+Bot_opinion_15:38:53:I think it is hard for me to see things so thorough, good for you, bro.
+molly_None_15:39:00:Then how do you know it again?
+Bot_elaborate_15:39:00:what do you want me to say? I guess you are asking something I don’t know.
+molly_None_15:39:09:is this the way that you pretend you know others and trying to make friends?
+Bot_neutral_15:39:09:Well okay. You know it. Never mind. You are correct.
+molly_None_15:39:17:that’s okay, I can be a friend with you and we can talk things about the storylines. And I do enjoy to analysis the relationships between the houses.
+Bot_opinion_15:39:17:I think Tywine and Stark are the most influential houses, one has money, one has army.
+molly_None_15:39:22:that is an interesting opinion.
+Bot_opinion_15:39:22:and the longer I watch the TV series, the more love I have for the stark family, I don’t want anyone in the family die.
+molly_None_15:39:28:oh, someone die because of the development of the storyline, otherwise, it won’t be this wonderful. 
+Bot_question_15:39:28:Do you like to watch the new season together?
+molly_None_15:39:30:yep, of course.
+overall=3,start=1,interupt=3,engaing=3,return=3,

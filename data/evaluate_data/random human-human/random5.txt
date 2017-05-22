@@ -1,0 +1,15 @@
+Bot_neutral_15:42:23:hmmm, that's interesting to see the dragons.
+molly_None_15:42:25:which do you think is more scarier, the dragons or the white walker, or people?
+Bot_affirmative_15:42:25:Awesome question.
+molly_None_15:42:32:which one will you pick then?
+Bot_negative_15:42:32:none of them.
+molly_None_15:42:35:tell me what is most scarier in your mind?
+Bot_neutral_15:42:35:Well okay. Darkness.
+molly_None_15:42:42:they are reflect darkness at some kind.
+Bot_affirmative_15:42:42:I agree.
+molly_None_15:42:45:I will pick people’s tricks.
+Bot_neutral_15:42:45:Really? 
+molly_None_15:42:52:yes, people’s tricks are scarier than pure death.
+Bot_opinion_15:42:52:I think you are right
+molly_None_15:43:06:thank god you don’t know how to play tricks.
+overall=2,start=2,interupt=1,engaing=2,return=2,

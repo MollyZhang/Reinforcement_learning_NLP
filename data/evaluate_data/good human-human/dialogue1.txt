@@ -1,0 +1,17 @@
+Bot_opinion: Hi, I really like to see John Snow kill all white walkers.
+user_None: oh, well, he must have a huge army, it’s not easy to kill white walkers.
+Bot_elaborate: can you tell me more about the army? What should they have to kill the white walkers.
+user_None: Maybe they need to find more dragon glasses or hire the dragons.
+Bot_affirmative: that is true, it is definitely gonna be a strong army to have the dragons.
+user_None: My friend told me that John Snow will marry the mother of dragons and rule the seven kindom
+Bot_question: do you really think that will happen?
+user_None: yes, so that they have a joint army to fight with the white walkers during the big winter.
+Bot_opinion: But I am thinking that the witches who create the white walkers could find a new way to turn them back to dead people, 
+user_None: huh, that is possible, but I remember the witches said they don’t know how to do it in previous seasons.
+Bot_neutral: I know it is not easy.
+user_None: I like Aya Stark, it is not easy for her to become “no one”, and could finally revenge on the people in her list.
+Bot_affirmative: Totally agree with you. She is always a smart and charming Stark girl.
+user_None: I am wondering what will happen to her at the end.
+Bot_opinion: I think she will be the one that protect her family.
+user_None: that’s true, her sister and brother all need her help.
+overall=5,start=5,interupt=4,engaing=5,return=5,

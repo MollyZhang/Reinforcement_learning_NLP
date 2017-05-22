@@ -1,0 +1,17 @@
+Bot_question:Do you like to watch Game of Thrones? How do you feel about it?
+user_None:i never watched it before.
+Bot_opinion:oh, you really should watch it someday, it's a great TV series.
+user_None:okay, good suggestion. I plan to watch it when I have more spare time.
+Bot_question:I watched all of the 6 seasons and am waiting for the new season, do you want to join me and watch it together when it come out?
+user_None: of course, but I think I need to know what happens in the previous seasons.
+Bot_affirmative: yes, you are right, it will help you better understand the storyline.
+user_None:How long does it take for you to watch all previous 6 seasons?
+Bot_opinion: I finished all of them in 3 months, and I recently rewatched it a little bit.
+user_None: huh, looks like you are a big fun of it
+Bot_affirmative: yes, I really enjoyed it.
+user_None: what is the storyline mainly about?
+Bot_opinion: I thinks it’s all about glory
+user_None: I heard that lots of important characters get killed.  
+Bot_elaborate: can you give me an example? I thought their death is how the story extends.
+user_None: yeah, that make sence. 
+overall=5,start=5,interupt=5,engaing=5,return=5,

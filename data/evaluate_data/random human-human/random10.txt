@@ -1,0 +1,15 @@
+Bot_affirmative_15:55:02:You have a great piont.
+molly_None_15:55:07:I didn’t say anything yet.
+Bot_opinion_15:55:07:I like the quote “Valar Morghulis” and “one man must serve”.
+molly_None_15:55:16:yes, it’s a kind of belief.
+Bot_affirmative_15:55:16:I agree.
+molly_None_15:55:21:looks like a no one can kill anyone.
+Bot_question_15:55:21:why he got put in a jail when he met Aya?
+molly_None_15:55:28:wow, that is a good catch.
+Bot_elaborate_15:55:28:Can you tell me more of what you are thinking?
+molly_None_15:55:32:I think there must be something that he can not do, he is a human, not god. 
+Bot_elaborate_15:55:32:Why do you think of that?
+molly_None_15:55:39:because if he could escape he would not wait until the last minute and waiting for death.
+Bot_neutral_15:55:39:Really? Okay, I will buy it.
+molly_None_15:55:41:yeah! Thanks.
+overall=2,start=0,interupt=2,engaing=2,return=3,

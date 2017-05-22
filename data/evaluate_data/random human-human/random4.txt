@@ -1,0 +1,15 @@
+Bot_question_15:41:13:do you remember what is the reason that the witches behind the wall turn dead people to white walkers?
+molly_None_15:41:22:I don’t remember.
+Bot_question_15:41:22:Is there a way to turn the white walkers back to dead people?
+molly_None_15:41:25:I don’t think so. They been in the history for hundred years.
+Bot_neutral_15:41:25:okay. 
+molly_None_15:41:28:if they could, there is no reason it’s done till now. 
+Bot_neutral_15:41:28:Really? There might be something that not found yet.
+molly_None_15:41:44:maybe bran can see it, when he became the know three eyed raven. 
+Bot_elaborate_15:41:44:What do you mean? Will he see what would help and find it?
+molly_None_15:41:52:that’s possible.
+Bot_affirmative_15:41:52:Brilliant! I’d like to see it in next season.
+molly_None_15:41:55:yay! I hope someone could help him.
+Bot_negative_15:41:55: No, Hodor already died.
+molly_None_15:41:59: there is a girl and some other witches, they can help. 
+overall=3,start=5,interupt=3,engaing=3,return=3,

@@ -1,0 +1,17 @@
+Bot_opinion:I really like the sprits of the “no one”, they respect life and kill with no doubt. 
+user_None:I don’t think they respect life when they kill others as killers.
+Bot_elaborate:I think being a killer is there roles, peoples who give their life to no one been treated respectfully, do you think all killers don’t really respect life.
+user_None: alright, they are a important storyline in game of thrones. 
+Bot_affirmative:yes, it helps to build the character of the little Stark girl. 
+user_None: I wonder if Aya not help to save his life, will he find a way to escappe?
+Bot_negetive: I don’t think so, if he can, he could already get the keys to escape, he will not ask for help.
+user_None: yes, no matter how good he is at killing others, he will still has something that he could not handle.
+Bot_question: do you think Aya’s sister become sophisticated as her mother?
+user_None:It looks like she is turning to be a strong lady after all those things happened on her.
+Bot_opnion:that’s good for her, otherwise, she would not survive in the world of game of thrones.
+user_None: But do you think only the true dragon could be the king and sitting in the iron seat?
+Bot_elaborate: what do you mean by the true dragon, do you mean person who have dragons? And who will not get burned by fire?
+user_None: yes, but looks like only one of the dragon family is alive in the world. what will be the end after she dies?
+Bot_opnion: maybe someone is also one of the family that we don’t know yet.
+user_None: That is possible.
+overall=5,start=4,interupt=5,engaing=5,return=5,

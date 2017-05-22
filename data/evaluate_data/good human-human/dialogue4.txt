@@ -1,0 +1,17 @@
+Bot_question:what if Dennis’ brother not die, will anyone follow him and help him win?
+user_None:even if he won, he will be another mad king and get killed again.
+Bot_affirmative: you are so smart.
+user_None:thanks, he is not a brave warrior, he doesn’t have dragons either.
+Bot_elaborate: can you tell me more on that? If he is not afraid of fire, and don’t rise the dragons, so Dennis will still won her brother?
+user_None: that what I am thinking. There should be just one “true dragon”.
+Bot_affirmative: that totally make sense.
+user_None:are you expecting the new season?
+Bot_neutral: I am okay, I’ve read all of the books, I am too busy to watch it recently.
+user_None:alright, If something important happen I will let you know, and if I am curious about what will happen, can I ask you?
+Bot_opinion: you could, but it is worth the wait of new episodes if I let you know, it will be boring for you when watch it later.
+user_None:alrigh, I will not ask you then. I hope I can see some dragons likes to live in the water, I know there is none of this kind of dragon in the book.
+Bot_negative:that would not happen, otherwise who’s gonna be their master and who gonna rise them?
+user_None:they might already exist and holding the dragon eggs, so that the dragon never extinct.
+Bot_elaborate: can you tell me more on it, do you think there will be more dragons appear in the future?
+user_None:I hope so.
+overall=5,start=5,interupt=4,engaing=4,return=4,

@@ -1,0 +1,15 @@
+Bot_question_15:45:11:Do you ever imagine you could become no one?
+molly_None_15:45:16:I don’t know.
+Bot_question_15:45:16:how many people should one kill to become no one?
+molly_None_15:45:23:countless, no fixed number, depends on how good he is at killing.
+Bot_elaborate_15:45:23:Huh? Is that really what you think?
+molly_None_15:45:29:yes, good at killing is a plus to become a no one.
+Bot_negative_15:45:29:that's not true, good at killing, one could just be a killer not necessary to be no one.
+molly_None_15:45:34:you are probably right
+Bot_neutral_15:45:34:haha, nice.
+molly_None_15:45:36:is there “no one” exist in any kind for bots?
+Bot_negative_15:45:36:I don't think so.
+molly_None_15:45:38:nice to hear it.
+Bot_elaborate_15:45:38:do you think no one exist in real life?
+molly_None_15:45:44:of course. 
+overall=2,start=5,interupt=3,engaing=2,return=2,
