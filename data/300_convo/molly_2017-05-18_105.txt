@@ -1,0 +1,19 @@
+Bot_affirmative_23:48:48:Cool
+Molly_None_23:48:51:what's cool
+Bot_question_23:48:51:What's your biggest surprise?
+Molly_None_23:48:55:nothing
+Bot_elaborate_23:48:55:How does that work?
+Molly_None_23:49:02:don't know
+Bot_question_23:49:02:How long does it take for you to watch all the TV show?
+Molly_None_23:49:04:k
+Bot_neutral_23:49:04:Really?
+Molly_None_23:49:05:l
+Bot_elaborate_23:49:05:Why?
+Molly_None_23:49:05:l
+Bot_opinion_23:49:05:Fear cuts deeper than swords.
+Molly_None_23:49:06:l
+Bot_elaborate_23:49:06:Can you tell me more?
+Molly_None_23:49:07:l
+Bot_elaborate_23:49:07:Huh?
+Molly_None_23:49:08:l
+overall=0,start=0,interupt=0,engaing=0,return=0,

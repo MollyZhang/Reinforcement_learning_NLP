@@ -9,7 +9,7 @@ wei_None_23:30:21: life sucks, but find a path and enjoy it.
 Bot_question_23:29:37:  Is there any character that you want to date?
 wei_None_23:30:21: John Snow.
 Bot_negative_23:29:37:  I don't believe you.
-wei_None_23:30:21: Tyrion。
+wei_None_23:30:21: Tyrion?
 Bot_question_23:29:37:  What's your favorite valyrian steel weapon?
 wei_None_23:30:21: A weapon made of you.
 overall=3,start=1,interupt=3,engaing=2,return=1,

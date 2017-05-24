@@ -11,7 +11,7 @@ wei_None_23:22:36:She finally becomes a no one.
 Bot_negative_23:22:36:Nah, it's not true.
 wei_None_23:22:47:what do you think?
 Bot_question_23:22:47:Who decides what morality is?
-wei_None_23:23:15:I am not sure, maybe the most powerful party。
+wei_None_23:23:15:I am not sure, maybe the most powerful party?
 Bot_opinion_23:23:15:Can you be brave if you are afraid? That's the only time you can be brave
 wei_None_23:23:26:I will try my best.
 Bot_question_23:23:26:Have you watched other shows from HBO?
