@@ -5,12 +5,14 @@ Implementing Reinforcement Learning to find the best dialogue strategy for a con
 # To record a converstaion, do:
 1. `git clone https://github.com/MollyZhang/Reinforcement_learning_NLP.git`
 2. `cd Reinforcement_learning_NLP`
-3. `python log_dialogue.py`  
+3. 'cd RL'
+4. `python run.py`  
 After recording conversations, commit and push the recorded data to this repository by:  
 4. `git add data/300_convo/*`
 5. `git commit -m 'new data'`
 6. `git push`
 
+If you want to train and populate reward table based on the 300 conversations recorded,type f,if you want to try a new dialogue,type s,if you want to view the accuracy of the evaluation model,type e,if you want to view the reward table,type r,if you want to view the Q_table type q
 
 ### Future improvements
 - Dealing with user saying gibberish like "dfkjlskdfj"
