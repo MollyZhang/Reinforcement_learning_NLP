@@ -67,9 +67,6 @@ def record_convo():
 		strategies_list=strategies_list[1:]
     
 		utterances=utterances[:len(utterances)-1]
-		print(utterances)
-		print(strategies_list)
-		
 		for values in utterances:
 			Q_table=pickle.load(open( "Q_table.pkl", "rb" ) )
 			indexes=utterances.index(values)

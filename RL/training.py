@@ -40,9 +40,8 @@ def main():
 			Q_table=Q_learning.training(indexes,user_utterances,strategies_list)
 			Q_table.to_pickle('Q_table.pkl')
 	
-		print("following is the Q_learning table")
-		print(Q_table)
-		print(temp_dict)
+		
+
 			
 
 if __name__ == "__main__":

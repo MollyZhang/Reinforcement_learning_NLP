@@ -85,6 +85,7 @@ class Qlearning:
     
 	def max_q_value(self,utterance):
 		max=0
+		self.Q_table=pickle.load(open( "Q_table.pkl", "rb" ) )
 		for column in self.Q_table:
 			if self.Q_table.at[utterance,column]>max:
 				max=self.Q_table.at[utterance,column]
@@ -147,9 +148,6 @@ class Qlearning:
 				Q_table=pickle.load(open( "Q_table.pkl", "rb" ) )
 				Q_table.at[self.user_utterances[indexes],self.strategies_list[indexes]]=((temp_dict[self.user_utterances[indexes]]-1)*Q_table.at[self.user_utterances[indexes],self.strategies_list[indexes]]+Q_table.at[self.user_utterances[indexes],self.strategies_list[indexes]]+Qlearning.learning_rate*R_table.at[self.user_utterances[indexes],self.strategies_list[indexes]] + self.discount_factor*self.max_q_value(next_utterance)-Q_table.at[self.user_utterances[indexes],self.strategies_list[indexes]])/temp_dict[self.user_utterances[indexes]]
 				count=count+1
-				print(user_utterances[indexes],self.strategies_list[indexes],Q_table.at[self.user_utterances[indexes],self.strategies_list[indexes]])
-				#print(count)
-				#print(Q_table)
 				Q_table.to_pickle('Q_table.pkl')
 				
 			else:
