@@ -15,6 +15,8 @@ If you want to train and populate reward table based on the 300 conversations re
 - Dealing with user saying gibberish like "dfkjlskdfj"
 - Dealing user repeat itself
 - Dealing with user insult
+- Having strategy to mickmick user input. e.g. When user says "yay!!!", bot says"wow!!!!". 
+
 
 ### A brief overview of the code
 We have learnt currently from the 300 odd conversations and populated the Reward table based on the user evaluation metrics.
