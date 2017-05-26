@@ -7,7 +7,7 @@ wei_None_23:49:10:I am a big fun of game of thrones.
 Bot_neutral_23:49:10:Well okay.
 wei_None_23:49:16:how about you?
 Bot_negative_23:49:16:I beg to differ.
-wei_None_23:49:32:let's talk about something else。
+wei_None_23:49:32:let's talk about something else?
 Bot_question_23:49:32:What's your favorite Character?
 wei_None_23:49:54:Aya Stark.
 Bot_elaborate_23:49:54:What?

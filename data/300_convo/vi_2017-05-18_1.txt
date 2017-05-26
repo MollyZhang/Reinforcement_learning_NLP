@@ -1,7 +1,7 @@
 Bot_neutral_10:04:27:Really?
 vi_None_10:04:36:what's happening?
 Bot_opinion_10:04:36:Nothing isn't better or worse than anything. Nothing is just nothing.
-vi_None_10:05:16:yes,you just said nothing。
+vi_None_10:05:16:yes,you just said nothing?
 Bot_elaborate_10:05:16:You gotta tell me more.
 vi_None_10:05:37:wha do you want me to say? I am hungry.
 Bot_opinion_10:05:37:Dracarys
