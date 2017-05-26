@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import codecs
+import sys
 
 class BeginQtable:
     def __init__(self, actions, dic):
@@ -18,7 +19,7 @@ class BeginQtable:
 
 
 action_list = ['question','negative','affirmative','neutral','elaborate','opinion']
-action_dic = {'question':0,'negetive':0,'affirmative':0,'neutral':0,'elaborate':0,'opinion':0}
+action_dic = {'question':0,'negative':0,'affirmative':0,'neutral':0,'elaborate':0,'opinion':0}
 
 begin_table = BeginQtable(action_list,action_dic)
 
@@ -38,7 +39,8 @@ with codecs.open("begin_action.txt", 'r',"utf-8") as f:
         begin_table.learn(begin_action, score)
 
 print begin_table.q_table
+#begin_table.q_table.to_csv(sys.stdout)
+begin_table.q_table.to_pickle('beginning.pkl')
 
-
-#   question  negative  affirmative  neutral  elaborate  opinion
+#    question  negative  affirmative  neutral  elaborate  opinion
 # 0  4.222222  1.157895         1.08  1.47619   0.653846      3.
