@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.change_15:04:09:Oh yeah. It's like you take some of the beach home with you!
+Bot_Answer.continuation_15:04:09:My favorite time to walk the beach is early in the morning.
+User_Answer.continuation_15:04:09:My favorite time to walk along the beach is at night. The sunsets make me feel so beautiful and peaceful, and since I'm an introvert, it's a good way to get some alone time.
+Bot_Answer.elaboration_15:04:09:I also like the birds being active so I can watch them and mornings seem to be better for that.

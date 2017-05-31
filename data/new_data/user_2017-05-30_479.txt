@@ -1,0 +1,7 @@
+Bot_none_15:04:11:Hi,Whasup?
+User_none_15:04:11:I love walking along the beach.
+Bot_Answer.joking_15:04:11:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:11:The sound of the surf is my favorite part.
+Bot_Answer.continuation_15:04:11:The sound of the surf is nice, there's a reason they use it for those machines that play relaxation sounds.
+User_Answer.continuation_15:04:11:Yeah. It's kind of funny though, because there's so much movement and unpredictability with the waves, you'd think that would be associated with chaos and being all jumpy, not calmness and relaxing.
+Bot_Answer.elaboration_15:04:11:Yea, as long as the movement is relaxing, its okay.

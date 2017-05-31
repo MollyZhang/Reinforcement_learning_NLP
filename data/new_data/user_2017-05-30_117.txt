@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:09:Speaking of cars, I'm thinking of getting a new one.
+Bot_Answer.change_15:04:09:I think it won't be too much longer until we can all get self-driving functionality in our cars.
+User_Answer.change_15:04:09:Probably. I think I'll miss driving myself once everything gets fully automated, especially out on the open road where you can really feel in control. Maybe I should get something sporty while I've still got time.
+Bot_Answer.change_15:04:09:I love the open road. That's why I like to run so much. There is nothing like finishing a marathon.

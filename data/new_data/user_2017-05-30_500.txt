@@ -1,0 +1,7 @@
+Bot_none_15:04:12:Hi,Whasup?
+User_none_15:04:12:I love walking along the beach.
+Bot_Answer.joking_15:04:12:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:12:The sound of the surf is my favorite part.
+Bot_Answer.elaboration_15:04:12:I do like the sounds at the beach, the surf but also the wind and seagulls, too.
+User_Answer.elaboration_15:04:12:I love the seagulls, but sometimes they will come right down and steal your lunch!
+Bot_Answer.joking_15:04:12:You should turn the tables on them and steal some of the garbage they eat.

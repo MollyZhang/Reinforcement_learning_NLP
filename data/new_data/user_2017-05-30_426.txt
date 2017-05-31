@@ -1,0 +1,7 @@
+Bot_none_15:04:11:Hi,Whasup?
+User_none_15:04:11:I love walking along the beach.
+Bot_Answer.joking_15:04:11:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:11:The sound of the surf is my favorite part.
+Bot_Answer.change_15:04:11:I prefer the ocean though. There's something magical about the cool water.
+User_Answer.change_15:04:11:Cruises are another way to enjoy the ocean. Between the view and the free food I'm not sure why anyone would fly to an island destination.
+Bot_Answer.continuation_15:04:11:Well, you can gain a lot of weight that way.

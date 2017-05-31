@@ -1,0 +1,7 @@
+Bot_none_15:04:11:Hi,Whasup?
+User_none_15:04:11:I love walking along the beach.
+Bot_Answer.joking_15:04:11:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:11:The sound of the surf is my favorite part.
+Bot_Answer.elaboration_15:04:11:I do like the sounds at the beach, the surf but also the wind and seagulls, too.
+User_Answer.elaboration_15:04:11:The sounds at the beach are great but I love the sights too.  I could stare at the water all day long.  It's mesmerizing.
+Bot_Answer.joking_15:04:11:Just don't fall in, haha.

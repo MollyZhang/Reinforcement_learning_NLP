@@ -1,0 +1,7 @@
+Bot_none_15:04:12:Hi,Whasup?
+User_none_15:04:12:I love walking along the beach.
+Bot_Answer.joking_15:04:12:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.change_15:04:12:But the seagulls  pooping everywhere makes it a little gross.
+Bot_Answer.change_15:04:12:Stepping on sea shells is another hazard at the beach. If you get your foot cut, always remember to disinfect it since open wounds can pick up infections at the beach.
+User_Answer.change_15:04:12:It is so great when it gets really cold at the beach, I just love it.
+Bot_Answer.joking_15:04:12:Yeah, nothing beats having an icicle hanging off your nose while you try to splash in frozen water.

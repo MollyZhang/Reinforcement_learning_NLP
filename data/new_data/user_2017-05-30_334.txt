@@ -1,0 +1,7 @@
+Bot_none_15:04:11:Hi,Whasup?
+User_none_15:04:11:I love walking along the beach.
+Bot_Answer.joking_15:04:11:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.elaboration_15:04:11:I also like going to lakes.
+Bot_Answer.elaboration_15:04:11:The beach reminds me of a peaceful place
+User_Answer.elaboration_15:04:11:For me, the mountains make me thing of a perfect, "happy place".
+Bot_Answer.continuation_15:04:11:The mountains can be very relaxing.

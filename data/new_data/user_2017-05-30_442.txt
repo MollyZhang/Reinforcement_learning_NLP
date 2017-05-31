@@ -1,0 +1,7 @@
+Bot_none_15:04:11:Hi,Whasup?
+User_none_15:04:11:I love walking along the beach.
+Bot_Answer.joking_15:04:11:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:11:The sound of the surf is my favorite part.
+Bot_Answer.elaboration_15:04:11:I've been going to the beach since I was very young.
+User_Answer.elaboration_15:04:11:I'm looking forward to when I'll have my own kids to take to the beach.
+Bot_Answer.continuation_15:04:11:That will be fun. What beach will you take them to?

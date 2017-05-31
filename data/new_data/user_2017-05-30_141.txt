@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:09:Speaking of cars, I'm thinking of getting a new one.
+Bot_Answer.elaboration_15:04:09:I like having a new car, but I hate shopping for them, and I especially hate dealing with the sales people.
+User_Answer.elaboration_15:04:09:I know how difficult it can be to deal with sales people. They're always trying to push you to buy something that's just out of your price range and they make every deal sound so good.
+Bot_Answer.change_15:04:09:I wish I could just hire an agent or something who would take care of it for me, but then I'd just end up worrying that the agent was ripping me off instead of the sales people.

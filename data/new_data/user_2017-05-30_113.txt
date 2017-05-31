@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:09:Speaking of cars, I'm thinking of getting a new one.
+Bot_Answer.change_15:04:09:I think it won't be too much longer until we can all get self-driving functionality in our cars.
+User_Answer.change_15:04:09:That will be pretty cool. It will be like having a chauffeur. "Jeeves, take me to the beach!"
+Bot_Answer.change_15:04:09:It would probably named "Siri" or "Alexa" though. I've noticed all the artificial intelligence bots are named after girls.

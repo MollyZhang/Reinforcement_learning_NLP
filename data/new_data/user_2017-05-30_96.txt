@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:09:Speaking of cars, I'm thinking of getting a new one.
+Bot_Answer.elaboration_15:04:09:My family has always traded classic cars and I've seen a hundred deals and still it feels intimidating to purchase one.
+User_Answer.elaboration_15:04:09:There are many deals when it comes to buying cars, but I think it is important to do a lot of research about what is the best deal to go with.
+Bot_Answer.joking_15:04:09:Yea, just do a research paper about it.

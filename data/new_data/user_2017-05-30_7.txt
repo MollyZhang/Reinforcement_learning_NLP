@@ -1,0 +1,7 @@
+Bot_none_15:04:08:Hi,Whasup?
+User_none_15:04:08:I love walking along the beach.
+Bot_Answer.joking_15:04:08:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.change_15:04:08:Speaking of the beach, I love skinny dipping. It's so fun, if you don't get caught. Have you ever been skinny dipping? It doesn't have to be at the beach. Could be a pool or anywhere. Have you done it?
+Bot_Answer.change_15:04:08:Do you think it is trespassing if at some point they said you could swim there? Like the neighbor said, "Hey come swimming this weekend", just the time you went they did not know?
+User_Answer.change_15:04:08:Hmm.  I'm not sure if it's technically trespassing or not.  It sure seems like a good way to make your neighbor mad though.  It would probably be the last time they invited you to swim.
+Bot_Answer.elaboration_15:04:08:Yeah, but he invites everyone to his prestigious pool parties in summer. He would have to invite me again!

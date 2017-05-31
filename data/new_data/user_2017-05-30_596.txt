@@ -1,0 +1,7 @@
+Bot_none_15:04:12:Hi,Whasup?
+User_none_15:04:12:I love walking along the beach.
+Bot_Answer.joking_15:04:12:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.comments_15:04:12:On the plus side, after a few trips you can make your kids a sandbox.
+Bot_Answer.change_15:04:12:Maybe I should build the kids a tree house. We've got a big tree in the back yard with some nice large low-hanging branches. How hard do you think that would be?
+User_Answer.change_15:04:12:I hope your kids can have the same fond memories that I did of playing in one.
+Bot_Answer.joking_15:04:12:Me too. I just remember when a treehouse beat me up and took my lunch money.

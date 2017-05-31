@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:09:Speaking of cars, I'm thinking of getting a new one.
+Bot_Answer.elaboration_15:04:09:I like having a new car, but I hate shopping for them, and I especially hate dealing with the sales people.
+User_Answer.elaboration_15:04:09:The decision is always difficult because there's just so many options to choose from. I always wish I could skip the buying part and just find out what I end up picking.
+Bot_Answer.elaboration_15:04:09:I think buying is the best part. Its kinda like gambling.

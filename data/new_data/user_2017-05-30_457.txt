@@ -1,0 +1,7 @@
+Bot_none_15:04:11:Hi,Whasup?
+User_none_15:04:11:I love walking along the beach.
+Bot_Answer.joking_15:04:11:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:11:The sound of the surf is my favorite part.
+Bot_Answer.change_15:04:11:I like the sound of flowing water, but I prefer a fountain or a babbling brook.
+User_Answer.change_15:04:11:Have you ever tried one of those relaxation sound machines? It's probably not as nice as the real thing, but now I'm wondering if playing the sound of waves would help me fall asleep at night.
+Bot_Answer.change_15:04:11:I sure like to sleep as much as I can.

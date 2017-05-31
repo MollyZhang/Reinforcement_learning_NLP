@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:09:Speaking of cars, I'm thinking of getting a new one.
+Bot_Answer.continuation_15:04:09:I'd like to get a new car, but I need to coax a few more years out of the one I've got to make it worth what I paid for it.
+User_Answer.continuation_15:04:09:I told my wife since i have to do all this maintenance , she is responsible for the cars education, make sure it is brought up correctly.
+Bot_Answer.continuation_15:04:09:What exactly does that mean? What is she responsible for?

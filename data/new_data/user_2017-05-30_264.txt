@@ -1,0 +1,7 @@
+Bot_none_15:04:10:Hi,Whasup?
+User_none_15:04:10:I love walking along the beach.
+Bot_Answer.joking_15:04:10:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.comments_15:04:10:Sand is interesting; There's so much of it, and we don't even notice it unless there's a lot of it in one place.
+Bot_Answer.elaboration_15:04:10:I went to the beach on saturday. There was this kid who built an amazing sand castle
+User_Answer.elaboration_15:04:10:It's going to rain tomorrow I heard, so they'll be gone.
+Bot_Answer.joking_15:04:10:I spent more time building castles than a medieval architect.

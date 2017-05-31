@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.continuation_15:04:09:I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!
+Bot_Answer.change_15:04:09:I've been thinking about Vacation this year, do you plan on taking one? If so, where you going?
+User_Answer.change_15:04:09:I'm definitely going to take one. I get a little stir crazy if I don't. Last year, when it got to be around this time of year, I found myself getting so tense all the time, and it finally occurred to me that I was long overdue for some time off. It was affecting my mood in a really significant way.
+Bot_Answer.change_15:04:09:I like to travel anywhere.

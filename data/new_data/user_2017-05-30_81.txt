@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.elaboration_15:04:09:The moment I drove back, and opened the car door after getting home sand just started pouring out, castles and all. There were even a few crabs, and some fish. Water and all. I'm sure I must've brought back at least a quarter of the beach with me. On the plus side, now I no longer have to go out to go to the beach. I just open the front door.
+Bot_Answer.elaboration_15:04:09:You even find sand in your ears! By the time you've beaten half the Atlantic out of your bag the beach doesn't seem like such a good idea.
+User_Answer.elaboration_15:04:09:I like to watch nature films about the sea though. It's fascinating how diverse life in the water can be. I was watching recently about creatures that live completely in the dark thousands of feet below the surface.
+Bot_Answer.change_15:04:09:I love watching anything that plays on my TV set.

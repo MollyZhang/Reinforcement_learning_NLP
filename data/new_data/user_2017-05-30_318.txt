@@ -1,0 +1,7 @@
+Bot_none_15:04:11:Hi,Whasup?
+User_none_15:04:11:I love walking along the beach.
+Bot_Answer.joking_15:04:11:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.continuation_15:04:11:Yeah, I "love" having to vacuum my car.
+Bot_Answer.continuation_15:04:11:I love vacuuming my car too, haha, but it's worth it for all the fun we've had.
+User_Answer.continuation_15:04:11:During the summer I would turn feral: hair wild, face tanned dark, and the soles of my feet hard as leather.
+Bot_Answer.continuation_15:04:11:That sounds like a good summer look. You might wanna use sunscreen.

@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.change_15:04:09:Oh yeah. It's like you take some of the beach home with you!
+Bot_Answer.continuation_15:04:09:My favorite time to walk the beach is early in the morning.
+User_Answer.continuation_15:04:09:I enjoy walking on the beach in the morning too. There's no people out, so I can't accidentally knock over someone's umbrella or trip over a little kid's sand castle. You know me, I'm naturally clumsy. That's something I've accidentally done.
+Bot_Answer.elaboration_15:04:09:I don't think that your clumsy. You just dont pay attention.

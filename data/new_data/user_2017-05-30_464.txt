@@ -1,0 +1,7 @@
+Bot_none_15:04:11:Hi,Whasup?
+User_none_15:04:11:I love walking along the beach.
+Bot_Answer.joking_15:04:11:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:11:The sound of the surf is my favorite part.
+Bot_Answer.change_15:04:11:I like the sound of flowing water, but I prefer a fountain or a babbling brook.
+User_Answer.change_15:04:11:Those are nice, but I prefer the surf, I feel like there's more variety, it's always changing, but kind of always the same, too.
+Bot_Answer.joking_15:04:11:I love variety in all things.

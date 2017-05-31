@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.continuation_15:04:09:I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!
+Bot_Answer.change_15:04:09:My favorite activity after going to the beach is to take a long hot bath. Though I don't get the opportunity often, there's something relaxing about baths.
+User_Answer.change_15:04:09:A bath is a nice thing after the beach because the beach can actually be quite a pain. After cleaning the sand off of everything you deserve to relax!
+Bot_Answer.change_15:04:09:Have you ever tried those beach scented bath bombs? They smell exactly like coconut and sunscreen.

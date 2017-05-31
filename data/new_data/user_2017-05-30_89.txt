@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:09:Speaking of cars, I'm thinking of getting a new one.
+Bot_Answer.elaboration_15:04:09:My family has always traded classic cars and I've seen a hundred deals and still it feels intimidating to purchase one.
+User_Answer.elaboration_15:04:09:Purchasing a new car can be one of the most intimidating things.
+Bot_Answer.change_15:04:09:I get tempted to ask my Dad to do the negotiating for me. I'd feel like a baby not doing it myself, but he has so much more experience that I know he'd make a better deal than I would.

@@ -1,0 +1,7 @@
+Bot_none_15:04:11:Hi,Whasup?
+User_none_15:04:11:I love walking along the beach.
+Bot_Answer.joking_15:04:11:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.elaboration_15:04:11:I also like going to lakes.
+Bot_Answer.change_15:04:11:Actually, lakes can have some weird stuff in them. Have you ever stepped on anything squirmy in the lake? I hear they've got eels and bloodsuckers, icky.
+User_Answer.change_15:04:11:I have stepped on some weird creatures in the lake, but nothing scary enough to make me stop swimming.
+Bot_Answer.continuation_15:04:11:I've stepped on a few things that squishes before, but nothing that I could tell what it was. I'm more afraid of parasites.

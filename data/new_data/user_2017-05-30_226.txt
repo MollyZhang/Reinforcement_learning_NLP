@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.comments_15:04:09:Sand is interesting; There's so much of it, and we don't even notice it unless there's a lot of it in one place.
+Bot_Answer.change_15:04:09:Although this time of year, getting stuff in your eye can be a big problem. Do you suffer from hay fever? Pollen, now that's a killer. And I'll be there's more pollen in this world than grains of sand.
+User_Answer.change_15:04:09:I've always been pretty comfortable giving speeches. The experience doesn't fill me with as much anxiety as it does for some people.
+Bot_Answer.continuation_15:04:09:Yea, you just gotta imagine everyone with their pants down.

@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.change_15:04:09:Oh yeah. It's like you take some of the beach home with you!
+Bot_Answer.continuation_15:04:09:My favorite time to walk the beach is early in the morning.
+User_Answer.continuation_15:04:09:I've never actually been to the beach before noon, but I really like to run around the lake near my house in the morning. It's good exercise, and I get in touch with nature a bit.
+Bot_Answer.joking_15:04:09:What kind of exercise is staring?

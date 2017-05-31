@@ -1,0 +1,7 @@
+Bot_none_15:04:10:Hi,Whasup?
+User_none_15:04:10:I love walking along the beach.
+Bot_Answer.joking_15:04:10:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.continuation_15:04:10:Yeah, I "love" having to vacuum my car.
+Bot_Answer.elaboration_15:04:10:But my kids love the beach, and the back seat gets filled with buckets and shovels and inflatable water toys. It's not just sand.
+User_Answer.elaboration_15:04:10:You know what they say, " Girls just want to have sun".
+Bot_Answer.continuation_15:04:10:There is a car wash near my house where I take the car after the beach. You pay one price and can use the vacuums as much as you need to.

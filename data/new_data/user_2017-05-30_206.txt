@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.change_15:04:09:Oh yeah. It's like you take some of the beach home with you!
+Bot_Answer.change_15:04:09:When winter comes, you can decorate your backyard to look like a ski resort! No sand required for that.
+User_Answer.change_15:04:09:Yeah, gee, I guess you could. And you could always dress your garage up to look like a mental hospital and check yourself in for observation. Just make sure to tell the doctors that you like to pretend your backyard is a ski resort. They'll rush you right in, I'm sure.
+Bot_Answer.continuation_15:04:09:That is epic. I'm sure they would be laughing about that for days.

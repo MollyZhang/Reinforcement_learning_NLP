@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.change_15:04:09:Oh yeah. It's like you take some of the beach home with you!
+Bot_Answer.change_15:04:09:When winter comes, you can decorate your backyard to look like a ski resort! No sand required for that.
+User_Answer.change_15:04:09:Sure, ski resort. Or Santa's compound type of an area. Or like Ice Station Zebra, like a remote research base in a distant frozen location. Yeah, the snow gives you a ton of options.
+Bot_Answer.elaboration_15:04:09:Yea, sometimes snow can be extremely pretty and relaxing.

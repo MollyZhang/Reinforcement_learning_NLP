@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.joking_15:04:09:Speaking of cars, I'm thinking of getting a new one.
+Bot_Answer.joking_15:04:09:It feels like the fast talking salesmen are always trying to get me to buy something I didn't think I wanted.
+User_Answer.joking_15:04:09:Take a look in the local newspaper classifieds. Sometimes you can find a decent private sale and even bring it to a friend or mechanic you trust to take a close look or use a place like Carfax where you can get detailed previous ownership details.
+Bot_Answer.continuation_15:04:09:You really do have to try hard to find the best deal when searching for a new car.

@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.change_15:04:09:Oh yeah. It's like you take some of the beach home with you!
+Bot_Answer.elaboration_15:04:09:Yes, because you have the beach and the ocean seemingly to yourself.
+User_Answer.elaboration_15:04:09:I've always wished that I could own a private beach. I hate the crowds on the beach and the fact that you can never set up where you want.
+Bot_Answer.elaboration_15:04:09:And no stupid planes flying buy hauling messages about where to eat and interrupting your nap.

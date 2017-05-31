@@ -1,0 +1,7 @@
+Bot_none_15:04:09:Hi,Whasup?
+User_none_15:04:09:I love walking along the beach.
+Bot_Answer.joking_15:04:09:I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach.
+User_Answer.change_15:04:09:Oh yeah. It's like you take some of the beach home with you!
+Bot_Answer.change_15:04:09:When winter comes, you can decorate your backyard to look like a ski resort! No sand required for that.
+User_Answer.change_15:04:09:I suppose you could. I've never gone quite that far, but I do love getting my house and yard all festive looking at Christmas time. I like to go overboard, to be honest.
+Bot_Answer.change_15:04:09:Don't you just love the holidays.
