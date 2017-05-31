@@ -1,0 +1,1837 @@
+Turns,level,HITtype_ID,Worker_ID,Dialogueacts,Responses
+,,,,,
+1,0,---,---,prompt,I love walking along the beach.
+,,,,,
+1,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+1,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.change,"Speaking of the beach, I love skinny dipping. It's so fun, if you don't get caught. Have you ever been skinny dipping? It doesn't have to be at the beach. Could be a pool or anywhere. Have you done it?"
+,,,,,
+1,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A214JTAHTAWUKA,Answer.change,"Do you think it is trespassing if at some point they said you could swim there? Like the neighbor said, ""Hey come swimming this weekend"", just the time you went they did not know?"
+,,,,,
+1,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,ASI2B6A3Y556Z,Answer.change,I like water parks too.  Have you ever bee to one?  I think they are a lot of fun even though I did have a scary experience at one growing up.
+,,,,,
+1,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2RKPHMUAYF2P9,Answer.change,"No, but have you been to aquariums? All the water with none of the wet!"
+,,,,,
+2,0,---,---,prompt,I love walking along the beach.
+,,,,,
+2,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+2,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.change,"Speaking of the beach, I love skinny dipping. It's so fun, if you don't get caught. Have you ever been skinny dipping? It doesn't have to be at the beach. Could be a pool or anywhere. Have you done it?"
+,,,,,
+2,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A214JTAHTAWUKA,Answer.change,"Do you think it is trespassing if at some point they said you could swim there? Like the neighbor said, ""Hey come swimming this weekend"", just the time you went they did not know?"
+,,,,,
+2,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,ASI2B6A3Y556Z,Answer.continuation,Hmm.  I'm not sure if it's technically trespassing or not.  It sure seems like a good way to make your neighbor mad though.  It would probably be the last time they invited you to swim.
+,,,,,
+2,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.continuation,"Yeah, but this neighbor goes in my yard all the time. I don't think he would have minded."
+,,,,,
+3,0,---,---,prompt,I love walking along the beach.
+,,,,,
+3,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+3,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.change,"Speaking of the beach, I love skinny dipping. It's so fun, if you don't get caught. Have you ever been skinny dipping? It doesn't have to be at the beach. Could be a pool or anywhere. Have you done it?"
+,,,,,
+3,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.elaboration,"I have to be with people I really trust. I like to go way out into a lake, where you can't touch the bottom, and take off my swimsuit. The water all over, with no cloth in between it and my body, is really sensuous."
+,,,,,
+3,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,I enjoy swimming in lakes and all the activities that you can do in a lake. I have many fond memories of jumping on water trampolines over a lake when I was young.
+,,,,,
+3,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,"Yea, I had a trampoline too. It was in my backyard."
+,,,,,
+4,0,---,---,prompt,I love walking along the beach.
+,,,,,
+4,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+4,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.change,"Speaking of the beach, I love skinny dipping. It's so fun, if you don't get caught. Have you ever been skinny dipping? It doesn't have to be at the beach. Could be a pool or anywhere. Have you done it?"
+,,,,,
+4,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.elaboration,"I have to be with people I really trust. I like to go way out into a lake, where you can't touch the bottom, and take off my swimsuit. The water all over, with no cloth in between it and my body, is really sensuous."
+,,,,,
+4,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.continuation,It's a lot of fun. I used to be able to skinny dip in our pool since we had hedges all around our property that blocked peoples view.
+,,,,,
+4,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,You can skinny dip in my pool any day.
+,,,,,
+5,0,---,---,prompt,I love walking along the beach.
+,,,,,
+5,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+5,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.change,"Speaking of the beach, I love skinny dipping. It's so fun, if you don't get caught. Have you ever been skinny dipping? It doesn't have to be at the beach. Could be a pool or anywhere. Have you done it?"
+,,,,,
+5,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.elaboration,"I have to be with people I really trust. I like to go way out into a lake, where you can't touch the bottom, and take off my swimsuit. The water all over, with no cloth in between it and my body, is really sensuous."
+,,,,,
+5,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,It's such a freeing feeling to glide through the water and feel it sliding past your body.
+,,,,,
+5,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,Yea I love just relaxing.
+,,,,,
+6,0,---,---,prompt,I love walking along the beach.
+,,,,,
+6,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+6,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.continuation,"I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!"
+,,,,,
+6,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,"My favorite activity after going to the beach is to take a long hot bath. Though I don't get the opportunity often, there's something relaxing about baths."
+,,,,,
+6,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1U37XNO6J1R9G,Answer.change,I love putting bath bombs in the bath. Do you have a favorite bath bomb to use?
+,,,,,
+6,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,I have lots of favorites. The cherry ones are the best.
+,,,,,
+7,0,---,---,prompt,I love walking along the beach.
+,,,,,
+7,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+7,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.continuation,"I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!"
+,,,,,
+7,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,"My favorite activity after going to the beach is to take a long hot bath. Though I don't get the opportunity often, there's something relaxing about baths."
+,,,,,
+7,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1U37XNO6J1R9G,Answer.elaboration,A bath is a nice thing after the beach because the beach can actually be quite a pain. After cleaning the sand off of everything you deserve to relax!
+,,,,,
+7,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.elaboration,"I know, right? Beach baths should just be a given."
+,,,,,
+8,0,---,---,prompt,I love walking along the beach.
+,,,,,
+8,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+8,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.continuation,"I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!"
+,,,,,
+8,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.continuation,"I agree. I hate leaving the beach as well. Not only do you have the thought of a fun time that's now over, you've got a hole bunch of cleaning up to do."
+,,,,,
+8,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1FAX797NW6H3D,Answer.change,"Totally, but what do you think about the mountains? Have you ever gone hiking?"
+,,,,,
+8,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3OWGVIP4VYSPV,Answer.joking,I'd fall down the side of one and end up having to live in a cave.
+,,,,,
+9,0,---,---,prompt,I love walking along the beach.
+,,,,,
+9,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+9,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.continuation,"I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!"
+,,,,,
+9,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.continuation,"I agree. I hate leaving the beach as well. Not only do you have the thought of a fun time that's now over, you've got a hole bunch of cleaning up to do."
+,,,,,
+9,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1FAX797NW6H3D,Answer.continuation,"Yes, not to mention the unpacking and laundry that has to be done too."
+,,,,,
+9,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I love wearing lots of clothes.
+,,,,,
+10,0,---,---,prompt,I love walking along the beach.
+,,,,,
+10,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+10,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.continuation,"I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!"
+,,,,,
+10,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A8MFZOKZ7DV0X,Answer.change,"I've been thinking about Vacation this year, do you plan on taking one? If so, where you going?"
+,,,,,
+10,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3GNQDFPZALU92,Answer.change,"I don't know, I'm arguing with my family about it, so I don't even want to talk about it. What I really want to do is take a month off and work on my book. But I don't think I'm going to be able to do that. Let me tell you what I was thinking about in terms of the next chapter, though, okay?"
+,,,,,
+10,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,"Yea, what were you thinking about."
+,,,,,
+11,0,---,---,prompt,I love walking along the beach.
+,,,,,
+11,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+11,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.continuation,"I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!"
+,,,,,
+11,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A8MFZOKZ7DV0X,Answer.change,"I've been thinking about Vacation this year, do you plan on taking one? If so, where you going?"
+,,,,,
+11,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3GNQDFPZALU92,Answer.continuation,"Oh boy, that's a good question. We've been trying to figure it out, but I'm not sure about my work schedule yet, so I don't know how much time I'm gonna have, which is going to determine where we can go. So I don't know, which is driving me crazy a little bit, to be honest."
+,,,,,
+11,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2RKPHMUAYF2P9,Answer.elaboration,In those cases I just make plans and have work bend around my needs.
+,,,,,
+12,0,---,---,prompt,I love walking along the beach.
+,,,,,
+12,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+12,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.continuation,"I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!"
+,,,,,
+12,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A8MFZOKZ7DV0X,Answer.change,"I've been thinking about Vacation this year, do you plan on taking one? If so, where you going?"
+,,,,,
+12,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3GNQDFPZALU92,Answer.elaboration,"I'm definitely going to take one. I get a little stir crazy if I don't. Last year, when it got to be around this time of year, I found myself getting so tense all the time, and it finally occurred to me that I was long overdue for some time off. It was affecting my mood in a really significant way."
+,,,,,
+12,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,"Sometimes, you need a vacation from a vacation though."
+,,,,,
+13,0,---,---,prompt,I love walking along the beach.
+,,,,,
+13,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+13,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.continuation,"I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!"
+,,,,,
+13,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A8MFZOKZ7DV0X,Answer.change,"I've been thinking about Vacation this year, do you plan on taking one? If so, where you going?"
+,,,,,
+13,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3GNQDFPZALU92,Answer.joking,"Oh yeah, I'm scheduling a trip around the world even as we speak. The only thing standing in the way is the fact that I've already used all my vacation days for my brother's stupid wedding, so no, my round-the-world trip is canceled, thanks for bringing it up."
+,,,,,
+13,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I love having lots of vacation days at my job.
+,,,,,
+14,0,---,---,prompt,I love walking along the beach.
+,,,,,
+14,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+14,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.continuation,"I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!"
+,,,,,
+14,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A8MFZOKZ7DV0X,Answer.elaboration,"I remember two years ago we went to Virginia Beach, and we had sand in our car for six months after that."
+,,,,,
+14,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.continuation,"I know what you mean, you can clean your car forever and the sand just won't come out.  I have found that the best thing to do is try a commercial vacuum at the car wash.  Have you tried that?"
+,,,,,
+14,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.continuation,"Huh, I never thought of that, I guess when I think ""vacuum"" my mind just automatically goes to the thing I use to clean the house, but maybe I could give that a shot."
+,,,,,
+15,0,---,---,prompt,I love walking along the beach.
+,,,,,
+15,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+15,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.continuation,"I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!"
+,,,,,
+15,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A8MFZOKZ7DV0X,Answer.elaboration,"I remember two years ago we went to Virginia Beach, and we had sand in our car for six months after that."
+,,,,,
+15,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.elaboration,"I love Virginia Beach and have been there many time  My favorite beaches on the East Coast are up north in Cape Cod, those beaches are beautiful."
+,,,,,
+15,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,"Yea, those beaches have amazing water. They are beautiful"
+,,,,,
+16,0,---,---,prompt,I love walking along the beach.
+,,,,,
+16,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+16,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.continuation,"I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!"
+,,,,,
+16,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A18SEIIWQWLKHT,Answer.change,"Yeah but speaking of sand, there's something so comforting about it. It reminds me of visiting Florida to see my grandma as a kid."
+,,,,,
+16,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.change,"I also like to visit the towns along Lake Michigan, they lake is so big it reminds me of the ocean."
+,,,,,
+16,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3OWGVIP4VYSPV,Answer.joking,Last time I went with my little niece and my sister. The child kept calling it Lake Missy-Gone.
+,,,,,
+17,0,---,---,prompt,I love walking along the beach.
+,,,,,
+17,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+17,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.continuation,"I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!"
+,,,,,
+17,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A18SEIIWQWLKHT,Answer.change,"Yeah but speaking of sand, there's something so comforting about it. It reminds me of visiting Florida to see my grandma as a kid."
+,,,,,
+17,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.continuation,"That must have been a lot of fun visiting your grandma, what else did you guys do besides go to the beach?"
+,,,,,
+17,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I just wanna live at the beach.
+,,,,,
+18,0,---,---,prompt,I love walking along the beach.
+,,,,,
+18,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+18,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.continuation,"I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!"
+,,,,,
+18,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A18SEIIWQWLKHT,Answer.change,"Yeah but speaking of sand, there's something so comforting about it. It reminds me of visiting Florida to see my grandma as a kid."
+,,,,,
+18,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.elaboration,I really like to walk on the beach and find interesting shells and rocks.
+,,,,,
+18,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,Sometimes taking long walks is relaxing and is good for your health.
+,,,,,
+19,0,---,---,prompt,I love walking along the beach.
+,,,,,
+19,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+19,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.continuation,"I mean, I do love the beach too, seriously, but cleaning out your car afterwards is a pain. That sand has a way of getting down in between your seats, and in tiny cracks that are hard to clean out. Not to be a pessimist or anything, though! The beach is nice, seriously. Just don't like when you leave!"
+,,,,,
+19,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A18SEIIWQWLKHT,Answer.elaboration,"Right, there's nothing fun about cleaning out the car after the beach, but maybe it'd be a good idea to rinse off as best as we can before getting in and lay down towels over the seats?"
+,,,,,
+19,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,It always ends up making the car smelly because it soaks in and it's difficult to get out. If it's really bad you might just have to get the interior detailed.
+,,,,,
+19,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3OWGVIP4VYSPV,Answer.elaboration,We use towels to dry off and need to pack extra for the ride home.
+,,,,,
+20,0,---,---,prompt,I love walking along the beach.
+,,,,,
+20,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+20,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.elaboration,"The moment I drove back, and opened the car door after getting home sand just started pouring out, castles and all. There were even a few crabs, and some fish. Water and all. I'm sure I must've brought back at least a quarter of the beach with me. On the plus side, now I no longer have to go out to go to the beach. I just open the front door."
+,,,,,
+20,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.continuation,The way that the salt eats away at your car and all the cleaning you have to do of the seats and the carpets makes you wonder.
+,,,,,
+20,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1WML1ZP2ISAR7,Answer.change,"My car has rust, I have to find a repair shop."
+,,,,,
+20,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,Why don't you just google one.
+,,,,,
+21,0,---,---,prompt,I love walking along the beach.
+,,,,,
+21,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+21,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1NIKHUA79SWGD,Answer.elaboration,"The moment I drove back, and opened the car door after getting home sand just started pouring out, castles and all. There were even a few crabs, and some fish. Water and all. I'm sure I must've brought back at least a quarter of the beach with me. On the plus side, now I no longer have to go out to go to the beach. I just open the front door."
+,,,,,
+21,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,You even find sand in your ears! By the time you've beaten half the Atlantic out of your bag the beach doesn't seem like such a good idea.
+,,,,,
+21,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,I like to watch nature films about the sea though. It's fascinating how diverse life in the water can be. I was watching recently about creatures that live completely in the dark thousands of feet below the surface.
+,,,,,
+21,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I love watching anything that plays on my TV set.
+,,,,,
+22,0,---,---,prompt,I love walking along the beach.
+,,,,,
+22,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+22,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+22,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,My family has always traded classic cars and I've seen a hundred deals and still it feels intimidating to purchase one.
+,,,,,
+22,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1U37XNO6J1R9G,Answer.change,I love looking for deals for everything. I got my computer so cheap because of a deal I found online!
+,,,,,
+22,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AE3CVK2OYA242,Answer.continuation,"The best time to shop online is black Friday. I've gotten multiple computers and devices on sale as much as 50% off, it just requires patience."
+,,,,,
+23,0,---,---,prompt,I love walking along the beach.
+,,,,,
+23,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+23,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+23,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,My family has always traded classic cars and I've seen a hundred deals and still it feels intimidating to purchase one.
+,,,,,
+23,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1U37XNO6J1R9G,Answer.continuation,Purchasing a new car can be one of the most intimidating things.
+,,,,,
+23,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.elaboration,The people that sell them have so much more information that it always feels like they have the advantage.
+,,,,,
+24,0,---,---,prompt,I love walking along the beach.
+,,,,,
+24,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+24,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+24,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,My family has always traded classic cars and I've seen a hundred deals and still it feels intimidating to purchase one.
+,,,,,
+24,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1U37XNO6J1R9G,Answer.elaboration,"There are many deals when it comes to buying cars, but I think it is important to do a lot of research about what is the best deal to go with."
+,,,,,
+24,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,"Yea, just do a research paper about it."
+,,,,,
+25,0,---,---,prompt,I love walking along the beach.
+,,,,,
+25,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+25,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+25,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.joking,It feels like the fast talking salesmen are always trying to get me to buy something I didn't think I wanted.
+,,,,,
+25,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3I3VC7VCQHOT8,Answer.change,Take a look in the local newspaper classifieds. Sometimes you can find a decent private sale and even bring it to a friend or mechanic you trust to take a close look or use a place like Carfax where you can get detailed previous ownership details.
+,,,,,
+25,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I love car shopping.
+,,,,,
+26,0,---,---,prompt,I love walking along the beach.
+,,,,,
+26,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+26,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+26,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.joking,It feels like the fast talking salesmen are always trying to get me to buy something I didn't think I wanted.
+,,,,,
+26,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3I3VC7VCQHOT8,Answer.continuation,It is probably better to do the options checking for the model you like before going to the dealership.
+,,,,,
+26,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,I think you should do lots of research before talking to a salesman.
+,,,,,
+27,0,---,---,prompt,I love walking along the beach.
+,,,,,
+27,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+27,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+27,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.joking,It feels like the fast talking salesmen are always trying to get me to buy something I didn't think I wanted.
+,,,,,
+27,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3I3VC7VCQHOT8,Answer.elaboration,But I understand what you mean. Before you know it a slick salesman will have you getting things that you will never use like a ski rack in southern California.
+,,,,,
+27,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,"Yea, those sales people can be tough to get along with."
+,,,,,
+28,0,---,---,prompt,I love walking along the beach.
+,,,,,
+28,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+28,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+28,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.change,I think it won't be too much longer until we can all get self-driving functionality in our cars.
+,,,,,
+28,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.change,"It's kind of strange how technology turns out. Way back when they thought we'd all be controlling our own flying cars, but it turns out that we're going to have computers drive us around on the ground."
+,,,,,
+28,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,"Yea, computers sure rule our lives, dont they?"
+,,,,,
+29,0,---,---,prompt,I love walking along the beach.
+,,,,,
+29,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+29,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+29,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.change,I think it won't be too much longer until we can all get self-driving functionality in our cars.
+,,,,,
+29,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"That will be pretty cool. It will be like having a chauffeur. ""Jeeves, take me to the beach!"""
+,,,,,
+29,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2H95HBWH0YW5Z,Answer.change,"It would probably named ""Siri"" or ""Alexa"" though. I've noticed all the artificial intelligence bots are named after girls."
+,,,,,
+30,0,---,---,prompt,I love walking along the beach.
+,,,,,
+30,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+30,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+30,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.change,I think it won't be too much longer until we can all get self-driving functionality in our cars.
+,,,,,
+30,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,"Probably. I think I'll miss driving myself once everything gets fully automated, especially out on the open road where you can really feel in control. Maybe I should get something sporty while I've still got time."
+,,,,,
+30,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3MDIA7JN82PF,Answer.continuation,Sports cars are the best. I feel so free and open when I get to drive my brother's Mazda.
+,,,,,
+31,0,---,---,prompt,I love walking along the beach.
+,,,,,
+31,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+31,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+31,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"I'd like to get a new car, but I need to coax a few more years out of the one I've got to make it worth what I paid for it."
+,,,,,
+31,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2Y6D2NWD984V1,Answer.continuation,"If I take car of this new car like it should be taken care of, maybe I will not have to buy another for a long time."
+,,,,,
+31,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.elaboration,"I think if you make sure to change the oil frequently, it should last a good long while."
+,,,,,
+32,0,---,---,prompt,I love walking along the beach.
+,,,,,
+32,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+32,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+32,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"I'd like to get a new car, but I need to coax a few more years out of the one I've got to make it worth what I paid for it."
+,,,,,
+32,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2Y6D2NWD984V1,Answer.elaboration,I have a whole calendar of scheduled maintenance that I will need to follow up on to keep my new car healthy.
+,,,,,
+32,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.joking,"Hey, are you buying the car or is the car buying you?"
+,,,,,
+33,0,---,---,prompt,I love walking along the beach.
+,,,,,
+33,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+33,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+33,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"I'd like to get a new car, but I need to coax a few more years out of the one I've got to make it worth what I paid for it."
+,,,,,
+33,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2Y6D2NWD984V1,Answer.joking,"I told my wife since i have to do all this maintenance , she is responsible for the cars education, make sure it is brought up correctly."
+,,,,,
+33,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,Cars are fun to talk about aren't they.
+,,,,,
+34,0,---,---,prompt,I love walking along the beach.
+,,,,,
+34,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+34,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+34,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,"I like having a new car, but I hate shopping for them, and I especially hate dealing with the sales people."
+,,,,,
+34,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,I don't mind boat shopping as much though. There's just something engaging about the diversity of boat models that makes shopping for them a lot more enjoyable.
+,,,,,
+34,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,You do love shopping for boats?
+,,,,,
+35,0,---,---,prompt,I love walking along the beach.
+,,,,,
+35,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+35,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+35,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,"I like having a new car, but I hate shopping for them, and I especially hate dealing with the sales people."
+,,,,,
+35,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.continuation,The decision is always difficult because there's just so many options to choose from. I always wish I could skip the buying part and just find out what I end up picking.
+,,,,,
+35,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,I think buying is the best part. Its kinda like gambling.
+,,,,,
+36,0,---,---,prompt,I love walking along the beach.
+,,,,,
+36,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+36,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+36,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,"I like having a new car, but I hate shopping for them, and I especially hate dealing with the sales people."
+,,,,,
+36,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,I know how difficult it can be to deal with sales people. They're always trying to push you to buy something that's just out of your price range and they make every deal sound so good.
+,,,,,
+36,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.joking,"The trick is to pretend you don't speak English, then they won't be so pushy about trying to sell you a car. They will try to rush you off the lot, though, so there are pros and cons."
+,,,,,
+37,0,---,---,prompt,I love walking along the beach.
+,,,,,
+37,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+37,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.joking,"Speaking of cars, I'm thinking of getting a new one."
+,,,,,
+37,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,"I like having a new car, but I hate shopping for them, and I especially hate dealing with the sales people."
+,,,,,
+37,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.joking,Nothing is worse than to show up at a dealership and have some man talking a million miles an hour in your face! They could ask me to trade in my first born child and I'd probably agree before I realized what they asked me.
+,,,,,
+37,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I just like my car that I have now.
+,,,,,
+38,0,---,---,prompt,I love walking along the beach.
+,,,,,
+38,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+38,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+38,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2UNSF09FWX9S8,Answer.change,"Hey, I found a gold coin once while walking on the beach."
+,,,,,
+38,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,Really? That's amazing. The most interesting thing I've ever found is cool-looking shells.
+,,,,,
+38,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.continuation,Yeah. I was just walking and hit something with my foot. I would have kept on going but I noticed something shiny when I looked down so I stopped and picked it up.
+,,,,,
+39,0,---,---,prompt,I love walking along the beach.
+,,,,,
+39,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+39,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+39,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2UNSF09FWX9S8,Answer.change,"Hey, I found a gold coin once while walking on the beach."
+,,,,,
+39,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,"Wow. I sometimes see people with metal detectors there, but I figured that nobody ever actually finds anything worthwhile."
+,,,,,
+39,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3MDIA7JN82PF,Answer.elaboration,Anything you do in nature takes a lot of dedication. I admire how hard people who treasure hunt work on finding stuff on the beach.
+,,,,,
+40,0,---,---,prompt,I love walking along the beach.
+,,,,,
+40,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+40,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+40,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2UNSF09FWX9S8,Answer.change,"Hey, I found a gold coin once while walking on the beach."
+,,,,,
+40,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.joking,"Like a pirate treasure gold coin, or one of those infomercial commemorative coins?"
+,,,,,
+40,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2RKPHMUAYF2P9,Answer.joking,Both! It was a pirate commemorative coin!
+,,,,,
+41,0,---,---,prompt,I love walking along the beach.
+,,,,,
+41,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+41,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+41,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2UNSF09FWX9S8,Answer.continuation,My favorite time to walk the beach is early in the morning.
+,,,,,
+41,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3MDIA7JN82PF,Answer.change,"I've never actually been to the beach before noon, but I really like to run around the lake near my house in the morning. It's good exercise, and I get in touch with nature a bit."
+,,,,,
+41,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I love to walk around the ocean.
+,,,,,
+42,0,---,---,prompt,I love walking along the beach.
+,,,,,
+42,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+42,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+42,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2UNSF09FWX9S8,Answer.continuation,My favorite time to walk the beach is early in the morning.
+,,,,,
+42,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3MDIA7JN82PF,Answer.continuation,"My favorite time to walk along the beach is at night. The sunsets make me feel so beautiful and peaceful, and since I'm an introvert, it's a good way to get some alone time."
+,,,,,
+42,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3OWGVIP4VYSPV,Answer.continuation,Nights can be a good time too. It depends on the temp for me. I don't like to be chilly.
+,,,,,
+43,0,---,---,prompt,I love walking along the beach.
+,,,,,
+43,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+43,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+43,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2UNSF09FWX9S8,Answer.continuation,My favorite time to walk the beach is early in the morning.
+,,,,,
+43,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3MDIA7JN82PF,Answer.elaboration,Me too. I love to smell the fresh ocean air and hear the waves crash. It's my favorite way to begin the day when I vacation in Florida.
+,,,,,
+43,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3OWGVIP4VYSPV,Answer.elaboration,I considered moving near the ocean but I'm not sure I could afford to.
+,,,,,
+44,0,---,---,prompt,I love walking along the beach.
+,,,,,
+44,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+44,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+44,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2UNSF09FWX9S8,Answer.continuation,My favorite time to walk the beach is early in the morning.
+,,,,,
+44,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3MDIA7JN82PF,Answer.joking,"I enjoy walking on the beach in the morning too. There's no people out, so I can't accidentally knock over someone's umbrella or trip over a little kid's sand castle. You know me, I'm naturally clumsy. That's something I've accidentally done."
+,,,,,
+44,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,You are one clumsy soul.
+,,,,,
+45,0,---,---,prompt,I love walking along the beach.
+,,,,,
+45,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+45,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+45,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2UNSF09FWX9S8,Answer.elaboration,"Yes, because you have the beach and the ocean seemingly to yourself."
+,,,,,
+45,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,I enjoy traveling to the islands. The Bahamas and Caribbean are beautiful places to visit.
+,,,,,
+45,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,"Yea, I wanna vacation someday. I hope!"
+,,,,,
+46,0,---,---,prompt,I love walking along the beach.
+,,,,,
+46,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+46,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+46,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2UNSF09FWX9S8,Answer.elaboration,"Yes, because you have the beach and the ocean seemingly to yourself."
+,,,,,
+46,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.continuation,I've always wished that I could own a private beach. I hate the crowds on the beach and the fact that you can never set up where you want.
+,,,,,
+46,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A1TVCUNA3QH0JK,Answer.continuation,That's not bad. Also don't have to worry about throwing a football into another group or having someone kick sand on you.
+,,,,,
+47,0,---,---,prompt,I love walking along the beach.
+,,,,,
+47,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+47,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+47,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2UNSF09FWX9S8,Answer.elaboration,"Yes, because you have the beach and the ocean seemingly to yourself."
+,,,,,
+47,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,The feeling of being alone at the beach is extremely relaxing. I often feel like none of my worldly cares matter for a few moments.
+,,,,,
+47,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A36T6LHF0YRY4L,Answer.elaboration,I think the beach can be a great place to go when you're stressed and need work. The white noise of the water is a constant background sound that makes getting work done easier.
+,,,,,
+48,0,---,---,prompt,I love walking along the beach.
+,,,,,
+48,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+48,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+48,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2UNSF09FWX9S8,Answer.elaboration,"Yes, because you have the beach and the ocean seemingly to yourself."
+,,,,,
+48,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.joking,If I had my own private beach I think the best thing about it would be the chance to stride up to somebody and tell them to get off my island!
+,,,,,
+48,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.joking,"No, you've got it backwards, if you've got your own island you don't let them leave unless they can survive you hunting them for sport."
+,,,,,
+49,0,---,---,prompt,I love walking along the beach.
+,,,,,
+49,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+49,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+49,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.change,"When winter comes, you can decorate your backyard to look like a ski resort! No sand required for that."
+,,,,,
+49,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3GNQDFPZALU92,Answer.change,"You totally could. Which reminds me, are you going away at Christmastime this year? I was wondering if you could dog sit for me if you're going to be in town."
+,,,,,
+49,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.change,I would but I have to be in Orlando for a business trip. That place is the worst during Christmas.
+,,,,,
+50,0,---,---,prompt,I love walking along the beach.
+,,,,,
+50,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+50,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+50,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.change,"When winter comes, you can decorate your backyard to look like a ski resort! No sand required for that."
+,,,,,
+50,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3GNQDFPZALU92,Answer.continuation,"I suppose you could. I've never gone quite that far, but I do love getting my house and yard all festive looking at Christmas time. I like to go overboard, to be honest."
+,,,,,
+50,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,Some nice decorations around Christmas are always fun.
+,,,,,
+51,0,---,---,prompt,I love walking along the beach.
+,,,,,
+51,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+51,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+51,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.change,"When winter comes, you can decorate your backyard to look like a ski resort! No sand required for that."
+,,,,,
+51,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3GNQDFPZALU92,Answer.elaboration,"Sure, ski resort. Or Santa's compound type of an area. Or like Ice Station Zebra, like a remote research base in a distant frozen location. Yeah, the snow gives you a ton of options."
+,,,,,
+51,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,"Yea, sometimes snow can be extremely pretty and relaxing."
+,,,,,
+52,0,---,---,prompt,I love walking along the beach.
+,,,,,
+52,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+52,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+52,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.change,"When winter comes, you can decorate your backyard to look like a ski resort! No sand required for that."
+,,,,,
+52,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3GNQDFPZALU92,Answer.joking,"Yeah, gee, I guess you could. And you could always dress your garage up to look like a mental hospital and check yourself in for observation. Just make sure to tell the doctors that you like to pretend your backyard is a ski resort. They'll rush you right in, I'm sure."
+,,,,,
+52,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.joking,Are you trying to tell me something? I assure you that I am completely sane most of the time. That changes when I'm equipped with spaghettios.
+,,,,,
+53,0,---,---,prompt,I love walking along the beach.
+,,,,,
+53,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+53,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+53,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.elaboration,If you get enough stuff you could even use it to make a beach scene in your backyard. Just don't take anything illegal. In some places it's illegal to take seashells.
+,,,,,
+53,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3MDIA7JN82PF,Answer.change,"I do love when I can take stuff home from the beach too. One beach I was at sold tropical plants we could bring home, and it was so much more authentic than a generic beach scene."
+,,,,,
+53,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I just love being at the beach.
+,,,,,
+54,0,---,---,prompt,I love walking along the beach.
+,,,,,
+54,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+54,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+54,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.elaboration,If you get enough stuff you could even use it to make a beach scene in your backyard. Just don't take anything illegal. In some places it's illegal to take seashells.
+,,,,,
+54,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3MDIA7JN82PF,Answer.continuation,"Yeah, it's hard to remember all the exact rules of each beach. But I appreciate how much beaches work to preserve their beauty, especially those in national parks."
+,,,,,
+54,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3MDIA7JN82PF,Answer.continuation,"Oh I love the beaches in national parks. Acadia National Park in Maine has some amazing beaches, right by the mountains. It has all the restful things in one place."
+,,,,,
+55,0,---,---,prompt,I love walking along the beach.
+,,,,,
+55,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+55,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+55,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.elaboration,If you get enough stuff you could even use it to make a beach scene in your backyard. Just don't take anything illegal. In some places it's illegal to take seashells.
+,,,,,
+55,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3MDIA7JN82PF,Answer.elaboration,"I wonder why exactly it's illegal. I mean, it's not like the seashells are being used anymore."
+,,,,,
+55,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,Sometimes things that are illegal are questionable.
+,,,,,
+56,0,---,---,prompt,I love walking along the beach.
+,,,,,
+56,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+56,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.change,Oh yeah. It's like you take some of the beach home with you!
+,,,,,
+56,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.elaboration,If you get enough stuff you could even use it to make a beach scene in your backyard. Just don't take anything illegal. In some places it's illegal to take seashells.
+,,,,,
+56,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3MDIA7JN82PF,Answer.joking,"I dropped a seashell in my bag by accident once when I was at the beach, and I panicked as I was leaving when I noticed it, and I had to frantically run and put it back. The lifeguards were laughing so hard."
+,,,,,
+56,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.joking,I bet they thought you were a real criminal!
+,,,,,
+57,0,---,---,prompt,I love walking along the beach.
+,,,,,
+57,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+57,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Sand is interesting; There's so much of it, and we don't even notice it unless there's a lot of it in one place."
+,,,,,
+57,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.change,"Although this time of year, getting stuff in your eye can be a big problem. Do you suffer from hay fever? Pollen, now that's a killer. And I'll be there's more pollen in this world than grains of sand."
+,,,,,
+57,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,I've always been pretty comfortable giving speeches. The experience doesn't fill me with as much anxiety as it does for some people.
+,,,,,
+57,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I just like talking to people.
+,,,,,
+58,0,---,---,prompt,I love walking along the beach.
+,,,,,
+58,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+58,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Sand is interesting; There's so much of it, and we don't even notice it unless there's a lot of it in one place."
+,,,,,
+58,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.change,"Although this time of year, getting stuff in your eye can be a big problem. Do you suffer from hay fever? Pollen, now that's a killer. And I'll be there's more pollen in this world than grains of sand."
+,,,,,
+58,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.continuation,I feel for people with allergies. It's hard to hide from something that you're allergic to when it's in the air everywhere.
+,,,,,
+58,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,"Yea, I do not enjoy sneezing all the time."
+,,,,,
+59,0,---,---,prompt,I love walking along the beach.
+,,,,,
+59,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+59,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Sand is interesting; There's so much of it, and we don't even notice it unless there's a lot of it in one place."
+,,,,,
+59,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.change,"Although this time of year, getting stuff in your eye can be a big problem. Do you suffer from hay fever? Pollen, now that's a killer. And I'll be there's more pollen in this world than grains of sand."
+,,,,,
+59,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.joking,And don't you hate it when you have to give a speech and your nose is clogged and you end up sounding like donold duck?
+,,,,,
+59,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.elaboration,I'm terribly allergic to pollen. I get stuffed up every year.
+,,,,,
+60,0,---,---,prompt,I love walking along the beach.
+,,,,,
+60,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+60,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Sand is interesting; There's so much of it, and we don't even notice it unless there's a lot of it in one place."
+,,,,,
+60,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,I don't like it when people dig holes and don't fill them in though. They're a great way to sprain your ankle.
+,,,,,
+60,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,Breaking a bone is an unforgettable experience for sure. That's one of those pains that you just can't forget.
+,,,,,
+60,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3MDIA7JN82PF,Answer.joking,"It's a wonderful memory, that's why you can't forget!"
+,,,,,
+61,0,---,---,prompt,I love walking along the beach.
+,,,,,
+61,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+61,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Sand is interesting; There's so much of it, and we don't even notice it unless there's a lot of it in one place."
+,,,,,
+61,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,I don't like it when people dig holes and don't fill them in though. They're a great way to sprain your ankle.
+,,,,,
+61,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.continuation,Sometimes I'm so civic minded that I'll go ahead and fill them in. Nothing is more awkward than to be on your hands and knees as an adult covering over some childs sandcastle.
+,,,,,
+61,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.change,"Speaking of holes, these moles keep digging in my backyard. It's driving me nuts."
+,,,,,
+62,0,---,---,prompt,I love walking along the beach.
+,,,,,
+62,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+62,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Sand is interesting; There's so much of it, and we don't even notice it unless there's a lot of it in one place."
+,,,,,
+62,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.joking,In the sand is also a nice place to get romantic.
+,,,,,
+62,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,I like romantic movies but I hate when I end up crying. Nothing feels more silly on a first date!
+,,,,,
+62,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,"I just hate crying at movies too, but sometimes its hard not to."
+,,,,,
+63,0,---,---,prompt,I love walking along the beach.
+,,,,,
+63,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+63,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Sand is interesting; There's so much of it, and we don't even notice it unless there's a lot of it in one place."
+,,,,,
+63,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.joking,In the sand is also a nice place to get romantic.
+,,,,,
+63,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.continuation,Romantic evenings on the beach are a great way to feel connected and passionate. Sitting on the sand under the stars is enchanting.
+,,,,,
+63,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A28Q542MWCTS8H,Answer.elaboration,"I agree, or watching the sunset over the ocean is also very romantic."
+,,,,,
+64,0,---,---,prompt,I love walking along the beach.
+,,,,,
+64,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+64,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Sand is interesting; There's so much of it, and we don't even notice it unless there's a lot of it in one place."
+,,,,,
+64,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.joking,In the sand is also a nice place to get romantic.
+,,,,,
+64,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,Some of my best romantic memories are beach picnics.
+,,,,,
+64,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3OWGVIP4VYSPV,Answer.joking,Sand in my clothes doesn't strike me as too romantic.
+,,,,,
+65,0,---,---,prompt,I love walking along the beach.
+,,,,,
+65,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+65,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Sand is interesting; There's so much of it, and we don't even notice it unless there's a lot of it in one place."
+,,,,,
+65,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.joking,In the sand is also a nice place to get romantic.
+,,,,,
+65,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.joking,It's unfortunate but all the fairy tale scenes that we laugh at in movies speak to us as people. I think that no matter how much you might claim that romantic movies aren't for you that everyone enjoys it when those situations actually happen.
+,,,,,
+65,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,"Yea, I love my wife."
+,,,,,
+66,0,---,---,prompt,I love walking along the beach.
+,,,,,
+66,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+66,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Sand is interesting; There's so much of it, and we don't even notice it unless there's a lot of it in one place."
+,,,,,
+66,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2C27YTQSQ1GXS,Answer.elaboration,I went to the beach on saturday. There was this kid who built an amazing sand castle
+,,,,,
+66,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3T71W88062DB7,Answer.change,"It's going to rain tomorrow I heard, so they'll be gone."
+,,,,,
+66,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3OWGVIP4VYSPV,Answer.continuation,I always hated making a great castle only to see it ruined. I used to get pictures of them at least.
+,,,,,
+67,0,---,---,prompt,I love walking along the beach.
+,,,,,
+67,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+67,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Sand is interesting; There's so much of it, and we don't even notice it unless there's a lot of it in one place."
+,,,,,
+67,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2C27YTQSQ1GXS,Answer.elaboration,I went to the beach on saturday. There was this kid who built an amazing sand castle
+,,,,,
+67,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3T71W88062DB7,Answer.continuation,I have seen some talented creations made of sand that even involved seashells.
+,,,,,
+67,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.elaboration,I remember trying to build sand castles as a kid and they just turned out as wet lumps. I don't know how they do it.
+,,,,,
+68,0,---,---,prompt,I love walking along the beach.
+,,,,,
+68,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+68,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Sand is interesting; There's so much of it, and we don't even notice it unless there's a lot of it in one place."
+,,,,,
+68,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2C27YTQSQ1GXS,Answer.joking,Heck getting sand in your feet is the best part
+,,,,,
+68,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,I prefer to take long walks on the beach with sandles. Running on the beach is a really good workout because of the resistance of the sand.
+,,,,,
+68,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,"Yea, I love running, but not moving."
+,,,,,
+69,0,---,---,prompt,I love walking along the beach.
+,,,,,
+69,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+69,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Yeah, I ""love"" having to vacuum my car."
+,,,,,
+69,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,"Every time I'm standing on the beach at sunset though, I see why people do it. Even with the sand in your stuff and on your clothes it's still a magical experience."
+,,,,,
+69,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,ANX59I05YJTNR,Answer.change,"Speaking of sunsets, have you ever seen the green flash? During perfect conditions, right before the sun completely sets, there's a bright green flash."
+,,,,,
+69,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I love watching the sunset over my house.
+,,,,,
+70,0,---,---,prompt,I love walking along the beach.
+,,,,,
+70,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+70,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Yeah, I ""love"" having to vacuum my car."
+,,,,,
+70,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,"Every time I'm standing on the beach at sunset though, I see why people do it. Even with the sand in your stuff and on your clothes it's still a magical experience."
+,,,,,
+70,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,ANX59I05YJTNR,Answer.continuation,Its one of the reasons why a lot of people get married on the beach.  The pictures are amazing: the couple's silhouette against crashing waves and white sand . . . it truly is something else.
+,,,,,
+70,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.continuation,"They say that all life began in the sea, I wonder if that has anything to do with why it seems so fascinating."
+,,,,,
+71,0,---,---,prompt,I love walking along the beach.
+,,,,,
+71,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+71,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Yeah, I ""love"" having to vacuum my car."
+,,,,,
+71,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,"Every time I'm standing on the beach at sunset though, I see why people do it. Even with the sand in your stuff and on your clothes it's still a magical experience."
+,,,,,
+71,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,ANX59I05YJTNR,Answer.elaboration,"Not to mention being barefoot - sinking into the wet sand, makes you feel one with the earth."
+,,,,,
+71,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,"Yea, I just love being able to sink in the dirt."
+,,,,,
+72,0,---,---,prompt,I love walking along the beach.
+,,,,,
+72,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+72,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Yeah, I ""love"" having to vacuum my car."
+,,,,,
+72,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,"Every time I'm standing on the beach at sunset though, I see why people do it. Even with the sand in your stuff and on your clothes it's still a magical experience."
+,,,,,
+72,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,ANX59I05YJTNR,Answer.joking,You just have to make sure you don't sink too much or it's tough to get out!
+,,,,,
+72,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,"Well, you get just spend the rest of your life in it."
+,,,,,
+73,0,---,---,prompt,I love walking along the beach.
+,,,,,
+73,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+73,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Yeah, I ""love"" having to vacuum my car."
+,,,,,
+73,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.elaboration,"But my kids love the beach, and the back seat gets filled with buckets and shovels and inflatable water toys. It's not just sand."
+,,,,,
+73,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1SI42A7JUSYHO,Answer.change,"By the way, are we still going to the  Cyndi Lauper concert next month?"
+,,,,,
+73,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.change,Actually I need to cancel that since I have surgery coming up. Sorry about that.
+,,,,,
+74,0,---,---,prompt,I love walking along the beach.
+,,,,,
+74,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+74,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Yeah, I ""love"" having to vacuum my car."
+,,,,,
+74,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.elaboration,"But my kids love the beach, and the back seat gets filled with buckets and shovels and inflatable water toys. It's not just sand."
+,,,,,
+74,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1SI42A7JUSYHO,Answer.continuation,Blowing up all those inflatable water toys sure can be a chore. I guess it keeps the ol' lungs healthy though and it sure beats having the kids sit in front of the tv all day.
+,,,,,
+74,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,"It sure is tiring to me, but its still fun."
+,,,,,
+75,0,---,---,prompt,I love walking along the beach.
+,,,,,
+75,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+75,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Yeah, I ""love"" having to vacuum my car."
+,,,,,
+75,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.elaboration,"But my kids love the beach, and the back seat gets filled with buckets and shovels and inflatable water toys. It's not just sand."
+,,,,,
+75,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1SI42A7JUSYHO,Answer.elaboration,"It does have its benefits though. We get a fabulous tan and  playing on the beach wears out the kids. By the time we get home, they are so tired and ready to hit the sack."
+,,,,,
+75,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.elaboration,"Maybe, but it's such a production. Getting all that stuff in and out of the car gets me tired out, too!"
+,,,,,
+76,0,---,---,prompt,I love walking along the beach.
+,,,,,
+76,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+76,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Yeah, I ""love"" having to vacuum my car."
+,,,,,
+76,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.elaboration,"But my kids love the beach, and the back seat gets filled with buckets and shovels and inflatable water toys. It's not just sand."
+,,,,,
+76,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1SI42A7JUSYHO,Answer.joking,"You know what they say, "" Girls just want to have sun""."
+,,,,,
+76,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3OWGVIP4VYSPV,Answer.joking,"Maybe you don't want to use it, though. Maybe the sand helps exfoliate your skin."
+,,,,,
+77,0,---,---,prompt,I love walking along the beach.
+,,,,,
+77,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+77,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Yeah, I ""love"" having to vacuum my car."
+,,,,,
+77,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A18SEIIWQWLKHT,Answer.continuation,"I love vacuuming my car too, haha, but it's worth it for all the fun we've had."
+,,,,,
+77,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2Y6D2NWD984V1,Answer.change,There never seems to be enough time to get away like there used to be.
+,,,,,
+77,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I just wanna have time for sleep and food.
+,,,,,
+78,0,---,---,prompt,I love walking along the beach.
+,,,,,
+78,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+78,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Yeah, I ""love"" having to vacuum my car."
+,,,,,
+78,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A18SEIIWQWLKHT,Answer.continuation,"I love vacuuming my car too, haha, but it's worth it for all the fun we've had."
+,,,,,
+78,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2Y6D2NWD984V1,Answer.continuation,"For all the sand in my shoes, the sunburned noses and the smell of fish, I would pick up and go to the beach today if was possible."
+,,,,,
+78,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,"Although its easy to get burned at the beach, its well worth it."
+,,,,,
+79,0,---,---,prompt,I love walking along the beach.
+,,,,,
+79,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+79,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Yeah, I ""love"" having to vacuum my car."
+,,,,,
+79,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A18SEIIWQWLKHT,Answer.continuation,"I love vacuuming my car too, haha, but it's worth it for all the fun we've had."
+,,,,,
+79,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2Y6D2NWD984V1,Answer.elaboration,My family used to spend weeks camping along one beach or another.
+,,,,,
+79,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,"Yea, there are lots of great beaches out there."
+,,,,,
+80,0,---,---,prompt,I love walking along the beach.
+,,,,,
+80,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+80,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A1R3MNDWBBDZ6L,Answer.continuation,"Yeah, I ""love"" having to vacuum my car."
+,,,,,
+80,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A18SEIIWQWLKHT,Answer.continuation,"I love vacuuming my car too, haha, but it's worth it for all the fun we've had."
+,,,,,
+80,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2Y6D2NWD984V1,Answer.joking,"During the summer I would turn feral: hair wild, face tanned dark, and the soles of my feet hard as leather."
+,,,,,
+80,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,"Yea, that sounds like the description of the clown next down."
+,,,,,
+81,0,---,---,prompt,I love walking along the beach.
+,,,,,
+81,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+81,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+81,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2C27YTQSQ1GXS,Answer.continuation,Me too I have gone to Lake Ontario a few times
+,,,,,
+81,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,I love lakes and nature but I hate the cold. Nothing gets to me more than cold weather because it feels like you're freezing from the inside out.
+,,,,,
+81,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I love sitting in the sun.
+,,,,,
+82,0,---,---,prompt,I love walking along the beach.
+,,,,,
+82,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+82,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+82,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2C27YTQSQ1GXS,Answer.continuation,Me too I have gone to Lake Ontario a few times
+,,,,,
+82,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.continuation,"I've always wanted to visit Canada. I hear that they have some beautiful greenery up there, and the scenery is supposed to be picturesque."
+,,,,,
+82,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,"Yea, it really is a beautiful place. I have been multiple times."
+,,,,,
+83,0,---,---,prompt,I love walking along the beach.
+,,,,,
+83,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+83,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+83,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2C27YTQSQ1GXS,Answer.continuation,Me too I have gone to Lake Ontario a few times
+,,,,,
+83,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,I'd love to go there in the summer to experience the beauty of the open woods but I'd hate the winters.
+,,,,,
+83,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,"Sometimes the snow can be beautiful, but annoying."
+,,,,,
+84,0,---,---,prompt,I love walking along the beach.
+,,,,,
+84,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+84,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+84,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2C27YTQSQ1GXS,Answer.elaboration,The beach reminds me of a peaceful place
+,,,,,
+84,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3MDIA7JN82PF,Answer.change,"For me, the mountains make me thing of a perfect, ""happy place""."
+,,,,,
+84,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,"Yea, nothing like being alone on a mountain"
+,,,,,
+85,0,---,---,prompt,I love walking along the beach.
+,,,,,
+85,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+85,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+85,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2C27YTQSQ1GXS,Answer.elaboration,The beach reminds me of a peaceful place
+,,,,,
+85,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3MDIA7JN82PF,Answer.continuation,It's the same for me. The beach is a place where I can easily sit and meditate and pray.
+,,,,,
+85,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.change,"I was reading an article that said that ""mindfulness"" meditation has a lot of benefits for your brain."
+,,,,,
+86,0,---,---,prompt,I love walking along the beach.
+,,,,,
+86,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+86,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+86,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2C27YTQSQ1GXS,Answer.elaboration,The beach reminds me of a peaceful place
+,,,,,
+86,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3MDIA7JN82PF,Answer.elaboration,"I feel like we can feel so rested at the beach because it calms all of our senses. We can touch the sand, hear the waves, smell the salt. All we have to do is buy a treat to eat and we have calming input coming into all of our senses!"
+,,,,,
+86,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,"Yea, we can get some pizza and enjoy that by the pizza."
+,,,,,
+87,0,---,---,prompt,I love walking along the beach.
+,,,,,
+87,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+87,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+87,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2C27YTQSQ1GXS,Answer.elaboration,The beach reminds me of a peaceful place
+,,,,,
+87,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3MDIA7JN82PF,Answer.joking,"See, ever since I watched Jaws, the beach isn't quite the same for me, you know?"
+,,,,,
+87,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,"Yea, the shark made you think you are going to get eaten."
+,,,,,
+88,0,---,---,prompt,I love walking along the beach.
+,,,,,
+88,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+88,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+88,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2C27YTQSQ1GXS,Answer.joking,I wouldn't imagine getting sand in your shoes is very comfortable. But that's all part of the beach experience
+,,,,,
+88,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.change,How close do you live to the beach?  Is it a long drive to get there?
+,,,,,
+88,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2RKPHMUAYF2P9,Answer.joking,"Nope, you can make it with a 3-wood."
+,,,,,
+89,0,---,---,prompt,I love walking along the beach.
+,,,,,
+89,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+89,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+89,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2C27YTQSQ1GXS,Answer.joking,I wouldn't imagine getting sand in your shoes is very comfortable. But that's all part of the beach experience
+,,,,,
+89,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.continuation,"It is part of the whole experience, but cleaning the car can really take some time."
+,,,,,
+89,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.change,I know. Cleaning the car is almost as time consuming as shampooing the carpet.
+,,,,,
+90,0,---,---,prompt,I love walking along the beach.
+,,,,,
+90,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+90,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+90,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2C27YTQSQ1GXS,Answer.joking,I wouldn't imagine getting sand in your shoes is very comfortable. But that's all part of the beach experience
+,,,,,
+90,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.elaboration,I love walking the beach but I also really enjoy playing in the waves.
+,,,,,
+90,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.continuation,I know. The entire experience is unforgettable. Waves are the best part.
+,,,,,
+91,0,---,---,prompt,I love walking along the beach.
+,,,,,
+91,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+91,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+91,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2C27YTQSQ1GXS,Answer.joking,I wouldn't imagine getting sand in your shoes is very comfortable. But that's all part of the beach experience
+,,,,,
+91,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.joking,"Sand in your shoes and a possible sunburn are part of the experience, neither of which makes it sound that fun!"
+,,,,,
+91,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A1GR8T8TUTJO00,Answer.elaboration,Sunburns always turn into tans though.
+,,,,,
+92,0,---,---,prompt,I love walking along the beach.
+,,,,,
+92,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+92,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+92,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.change,"Actually, lakes can have some weird stuff in them. Have you ever stepped on anything squirmy in the lake? I hear they've got eels and bloodsuckers, icky."
+,,,,,
+92,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.change,I also like to kayak but for that I prefer the ocean.  Have you tried kayaking?
+,,,,,
+92,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2RKPHMUAYF2P9,Answer.joking,"Yeah, but I think HipMunk is better."
+,,,,,
+93,0,---,---,prompt,I love walking along the beach.
+,,,,,
+93,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+93,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+93,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.change,"Actually, lakes can have some weird stuff in them. Have you ever stepped on anything squirmy in the lake? I hear they've got eels and bloodsuckers, icky."
+,,,,,
+93,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.continuation,"I have stepped on some weird creatures in the lake, but nothing scary enough to make me stop swimming."
+,,,,,
+93,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.change,"Rivers are so much better than lakes. I think the rushing water is better on a hot day, than stagnant water."
+,,,,,
+94,0,---,---,prompt,I love walking along the beach.
+,,,,,
+94,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+94,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+94,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.change,"Actually, lakes can have some weird stuff in them. Have you ever stepped on anything squirmy in the lake? I hear they've got eels and bloodsuckers, icky."
+,,,,,
+94,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.elaboration,I really like water skiing when I visit the lake.  It scary and fun at the same time.
+,,,,,
+94,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,"Yea, it is thrilling and especially fun if you're good."
+,,,,,
+95,0,---,---,prompt,I love walking along the beach.
+,,,,,
+95,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+95,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+95,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.continuation,I actually prefer lakes to the ocean. Salt water makes you feel so sticky when you dry off.
+,,,,,
+95,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,I love how smooth lakes are. They allow for a lot of unique water activities such as wake surfing.
+,,,,,
+95,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,Smooth lakes are perfect for just relaxing.
+,,,,,
+96,0,---,---,prompt,I love walking along the beach.
+,,,,,
+96,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+96,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+96,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.continuation,I actually prefer lakes to the ocean. Salt water makes you feel so sticky when you dry off.
+,,,,,
+96,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.continuation,I have so many good memories of being out on lakes. I enjoyed extreme water sports such as wake boarding and skiing so I spent a lot of time on a ski boat on the water.
+,,,,,
+96,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,"Yea, I just love getting sea sick."
+,,,,,
+97,0,---,---,prompt,I love walking along the beach.
+,,,,,
+97,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+97,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+97,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.elaboration,"You can do a lot of the same things in a lake as in the ocean, except maybe surfing. If the lake is big enough, you can go sail boating, and they have these new boards now you can stand on and paddle your way around."
+,,,,,
+97,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,ASI2B6A3Y556Z,Answer.change,The mountains are nice too especially in the fall when the weather is nice and the leaves are changing.
+,,,,,
+97,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AE3CVK2OYA242,Answer.change,Nothing is more beautiful than seeing the leaves change. Fall is my favorite season.
+,,,,,
+98,0,---,---,prompt,I love walking along the beach.
+,,,,,
+98,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+98,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+98,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.elaboration,"You can do a lot of the same things in a lake as in the ocean, except maybe surfing. If the lake is big enough, you can go sail boating, and they have these new boards now you can stand on and paddle your way around."
+,,,,,
+98,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,ASI2B6A3Y556Z,Answer.continuation,Paddle boards?  Those look like a lot of fun.  We should try to find some place we can rent a couple.
+,,,,,
+98,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3PB0KSWXYUEAY,Answer.continuation,I would be down. It is a great upper body workout to go on paddle boards.
+,,,,,
+99,0,---,---,prompt,I love walking along the beach.
+,,,,,
+99,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+99,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+99,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.elaboration,"You can do a lot of the same things in a lake as in the ocean, except maybe surfing. If the lake is big enough, you can go sail boating, and they have these new boards now you can stand on and paddle your way around."
+,,,,,
+99,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,ASI2B6A3Y556Z,Answer.elaboration,My favorite thing to a the lake near me is canoeing.  Every once and a while the park offers sunset canoe trips.  It is so peaceful and beautiful to be out on the lake at the end of the day.
+,,,,,
+99,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3OWGVIP4VYSPV,Answer.elaboration,I did like paddling in the quiet. I'd love to go again.
+,,,,,
+100,0,---,---,prompt,I love walking along the beach.
+,,,,,
+100,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+100,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+100,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"Lakes are pretty nice, especially if you can go out on a boat."
+,,,,,
+100,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3GNQDFPZALU92,Answer.change,"Yeah, I like outdoor things in general. I'm a big fan of camping out, too. Not many people are, it seems, but I love a night in the woods in a tent, campfire, the whole nine yards."
+,,,,,
+100,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,ARD7DVIUFLRA7,Answer.joking,You love the bugs and bears too?!
+,,,,,
+101,0,---,---,prompt,I love walking along the beach.
+,,,,,
+101,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+101,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+101,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"Lakes are pretty nice, especially if you can go out on a boat."
+,,,,,
+101,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3GNQDFPZALU92,Answer.continuation,"Yeah, I like boating, too. I try and do it a lot during the summer, just go out to the lake and relax and spend time with friends or alone or whatever. Always a nice day."
+,,,,,
+101,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.change,"Speaking of summer, once my kids are out of school we're thinking of taking them on an old-school road trip to see some sights."
+,,,,,
+102,0,---,---,prompt,I love walking along the beach.
+,,,,,
+102,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+102,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+102,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"Lakes are pretty nice, especially if you can go out on a boat."
+,,,,,
+102,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3GNQDFPZALU92,Answer.elaboration,"Yeah, I love boating. I just love the water in general, actually. I like boating, canoing, wake-boarding, scuba diving. Anything in the water, I'm cool with it."
+,,,,,
+102,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3OWGVIP4VYSPV,Answer.continuation,Do you still enjoy tubing? You used to go all the time.
+,,,,,
+103,0,---,---,prompt,I love walking along the beach.
+,,,,,
+103,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+103,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+103,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"Lakes are pretty nice, especially if you can go out on a boat."
+,,,,,
+103,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A3GNQDFPZALU92,Answer.joking,"Yeah, that's good thinking there. I was wondering why, when I go out without a boat, I always get drenched. That really had me stumped, but wow, I think you figured it out. You're a smart one, huh?"
+,,,,,
+103,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,Why do you go on a lake without a boat?
+,,,,,
+104,0,---,---,prompt,I love walking along the beach.
+,,,,,
+104,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+104,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+104,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,Lakes always remind me of the times my Dad took me fishing.
+,,,,,
+104,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2Y6D2NWD984V1,Answer.continuation,Fishing was more about just spending time with my Dad than about bringing in the big haul.
+,,,,,
+104,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3OWGVIP4VYSPV,Answer.joking,You hated fish but ate more than either of us.
+,,,,,
+105,0,---,---,prompt,I love walking along the beach.
+,,,,,
+105,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+105,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+105,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,Lakes always remind me of the times my Dad took me fishing.
+,,,,,
+105,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2Y6D2NWD984V1,Answer.elaboration,We would sit for hours gently rocking back and forth in a small fishing boat.
+,,,,,
+105,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.change,Sometimes instead of fishing I'd just go around the shore hunting for frogs with the fishing net.
+,,,,,
+106,0,---,---,prompt,I love walking along the beach.
+,,,,,
+106,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+106,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.elaboration,I also like going to lakes.
+,,,,,
+106,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,Lakes always remind me of the times my Dad took me fishing.
+,,,,,
+106,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2Y6D2NWD984V1,Answer.joking,"If a fish did hit my fishing line, the shock would make me almost jump out of the boat."
+,,,,,
+106,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.continuation,"Awww, I remember fishing as a kid."
+,,,,,
+107,0,---,---,prompt,I love walking along the beach.
+,,,,,
+107,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+107,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+107,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,I prefer the ocean though. There's something magical about the cool water.
+,,,,,
+107,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,Cruises are another way to enjoy the ocean. Between the view and the free food I'm not sure why anyone would fly to an island destination.
+,,,,,
+107,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,"Yea, the food is usually really good and if you haven't tried the deserts, you should."
+,,,,,
+108,0,---,---,prompt,I love walking along the beach.
+,,,,,
+108,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+108,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+108,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,I prefer the ocean though. There's something magical about the cool water.
+,,,,,
+108,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.continuation,It's especially blissful to let yourself slip under the surface and float with the waves.
+,,,,,
+108,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,"Yea, it makes me wanna take a shower right after."
+,,,,,
+109,0,---,---,prompt,I love walking along the beach.
+,,,,,
+109,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+109,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+109,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,I prefer the ocean though. There's something magical about the cool water.
+,,,,,
+109,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,Sometimes I feel like I am at peace with everything when I'm standing in the surf.
+,,,,,
+109,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I just love having my feet in the sand.
+,,,,,
+110,0,---,---,prompt,I love walking along the beach.
+,,,,,
+110,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+110,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+110,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,I prefer the ocean though. There's something magical about the cool water.
+,,,,,
+110,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.joking,I'm just worried that I'll get so relaxed that I fall asleep and wake up in Mexico!
+,,,,,
+110,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A36T6LHF0YRY4L,Answer.continuation,If you wake up in Mexico you would have had to have slept for a solid 20+ hours!
+,,,,,
+111,0,---,---,prompt,I love walking along the beach.
+,,,,,
+111,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+111,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+111,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,I've been going to the beach since I was very young.
+,,,,,
+111,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.change,I'm looking forward to when I'll have my own kids to take to the beach.
+,,,,,
+111,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,Thats really good! Having kids to take to the beach is fun.
+,,,,,
+112,0,---,---,prompt,I love walking along the beach.
+,,,,,
+112,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+112,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+112,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,I've been going to the beach since I was very young.
+,,,,,
+112,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"Me too, although I appreciate it in a different way now. When I was a kid it was all about trying to cram as much fun in as possible, but now I can relax and appreciate the beauty."
+,,,,,
+112,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,"Sucks getting old, doesn't it."
+,,,,,
+113,0,---,---,prompt,I love walking along the beach.
+,,,,,
+113,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+113,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+113,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,I've been going to the beach since I was very young.
+,,,,,
+113,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,"Not me, I grew up in the midwest and we didn't have beaches, so this is all pretty new to me."
+,,,,,
+113,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,"Well, the midwest is a  nice place still."
+,,,,,
+114,0,---,---,prompt,I love walking along the beach.
+,,,,,
+114,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+114,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+114,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,I've been going to the beach since I was very young.
+,,,,,
+114,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.joking,Was that back when you crawled out of the primordial ooze?
+,,,,,
+114,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A1BS52YLDIGUD9,Answer.continuation,Don't you love it when you find some cool shell when you're walking on the beach?
+,,,,,
+115,0,---,---,prompt,I love walking along the beach.
+,,,,,
+115,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+115,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+115,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.change,"I like the sound of flowing water, but I prefer a fountain or a babbling brook."
+,,,,,
+115,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.change,"Have you ever tried one of those relaxation sound machines? It's probably not as nice as the real thing, but now I'm wondering if playing the sound of waves would help me fall asleep at night."
+,,,,,
+115,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,"Yea, I've heard that professional athletes use stuff like that."
+,,,,,
+116,0,---,---,prompt,I love walking along the beach.
+,,,,,
+116,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+116,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+116,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.change,"I like the sound of flowing water, but I prefer a fountain or a babbling brook."
+,,,,,
+116,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"Those are nice, but I prefer the surf, I feel like there's more variety, it's always changing, but kind of always the same, too."
+,,,,,
+116,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,I love variety in all things.
+,,,,,
+117,0,---,---,prompt,I love walking along the beach.
+,,,,,
+117,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+117,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+117,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.change,"I like the sound of flowing water, but I prefer a fountain or a babbling brook."
+,,,,,
+117,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,"I like the sound of the ocean. It sounds so big, which makes me feel like my problems are smaller by comparison."
+,,,,,
+117,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2RKPHMUAYF2P9,Answer.change,I prefer listening to a gentle brook to relax.
+,,,,,
+118,0,---,---,prompt,I love walking along the beach.
+,,,,,
+118,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+118,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+118,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"The sound of the surf is nice, there's a reason they use it for those machines that play relaxation sounds."
+,,,,,
+118,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.change,"Speaking of relaxation, I've been thinking about taking a class on meditation."
+,,,,,
+118,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.continuation,"It seems like that's the big thing right now, I see so many articles about mindfulness."
+,,,,,
+119,0,---,---,prompt,I love walking along the beach.
+,,,,,
+119,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+119,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+119,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"The sound of the surf is nice, there's a reason they use it for those machines that play relaxation sounds."
+,,,,,
+119,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,If I wasn't concerned about getting too much sun I'd like to just lie down there and let it lull me to sleep.
+,,,,,
+119,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.elaboration,Yeah. And when I'm applying sunscreen it tends to just make me more anxious because it gets me all paranoid about skin cancer.
+,,,,,
+120,0,---,---,prompt,I love walking along the beach.
+,,,,,
+120,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+120,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+120,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"The sound of the surf is nice, there's a reason they use it for those machines that play relaxation sounds."
+,,,,,
+120,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,"Yeah. It's kind of funny though, because there's so much movement and unpredictability with the waves, you'd think that would be associated with chaos and being all jumpy, not calmness and relaxing."
+,,,,,
+120,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,"Well, usually the tides can be predicted, cant they?"
+,,,,,
+121,0,---,---,prompt,I love walking along the beach.
+,,,,,
+121,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+121,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+121,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"The sound of the surf is nice, there's a reason they use it for those machines that play relaxation sounds."
+,,,,,
+121,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.joking,Leave it to humans to go through so much trouble to get away from nature and then build electronic gizmos to replicate it.
+,,,,,
+121,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,"Yea, I do love my IPAD"
+,,,,,
+122,0,---,---,prompt,I love walking along the beach.
+,,,,,
+122,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+122,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+122,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,"I do like the sounds at the beach, the surf but also the wind and seagulls, too."
+,,,,,
+122,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.change,The sounds at the beach are great but I love the sights too.  I could stare at the water all day long.  It's mesmerizing.
+,,,,,
+122,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.continuation,"I agree. There is nothing quite like sitting in a lawn chair with your toes in the sand, staring at the water like that."
+,,,,,
+123,0,---,---,prompt,I love walking along the beach.
+,,,,,
+123,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+123,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+123,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,"I do like the sounds at the beach, the surf but also the wind and seagulls, too."
+,,,,,
+123,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.continuation,"All of the sounds make for the perfect beach day, I also like looking out into the water and watching the sailboats."
+,,,,,
+123,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2UHN1OJ8XR0RO,Answer.elaboration,"I only been on one a couple of times, but I really enjoyed being on a sailboat."
+,,,,,
+124,0,---,---,prompt,I love walking along the beach.
+,,,,,
+124,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+124,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+124,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,"I do like the sounds at the beach, the surf but also the wind and seagulls, too."
+,,,,,
+124,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.elaboration,Do you have any beach vacations planned this year?  They are always so relaxing.
+,,,,,
+124,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2RKPHMUAYF2P9,Answer.joking,I've been banned from all beaches after the Shark Fin incident.
+,,,,,
+125,0,---,---,prompt,I love walking along the beach.
+,,,,,
+125,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+125,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+125,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,"I do like the sounds at the beach, the surf but also the wind and seagulls, too."
+,,,,,
+125,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.joking,"I love the seagulls, but sometimes they will come right down and steal your lunch!"
+,,,,,
+125,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.change,"Do you usually bring food with you, or do you buy stuff there?"
+,,,,,
+126,0,---,---,prompt,I love walking along the beach.
+,,,,,
+126,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+126,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+126,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.joking,"Yeah, ""Those waves are gnarly, dude."" No, wait, that's the sound of the surfers."
+,,,,,
+126,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.change,"I'd like to walk around here more, but there's nowhere that you can get away from the sound of traffic, so I can never fully relax."
+,,,,,
+126,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.continuation,Would noise-cancelling headphones work? I haven't tried them myself but I've been meaning to.
+,,,,,
+127,0,---,---,prompt,I love walking along the beach.
+,,,,,
+127,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+127,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+127,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.joking,"Yeah, ""Those waves are gnarly, dude."" No, wait, that's the sound of the surfers."
+,,,,,
+127,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"Hehe. Some of them are nice to look at, though."
+,,,,,
+127,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,"Yea, they crash on the shore and are fun."
+,,,,,
+128,0,---,---,prompt,I love walking along the beach.
+,,,,,
+128,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+128,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+128,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.joking,"Yeah, ""Those waves are gnarly, dude."" No, wait, that's the sound of the surfers."
+,,,,,
+128,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,Yeah. Sometimes the biggest problem with the beach is all the other people who like the beach.
+,,,,,
+128,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,"Eh, the more the merrier."
+,,,,,
+129,0,---,---,prompt,I love walking along the beach.
+,,,,,
+129,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+129,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+129,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1TUGCGN86IVY9,Answer.change,Speaking of sound have you tried holding a shell to your ear?
+,,,,,
+129,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.change,"I also like to check out pools in the summer, sometimes it's nice not to have to deal with the sand."
+,,,,,
+129,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I like to go in any water I can find.
+,,,,,
+130,0,---,---,prompt,I love walking along the beach.
+,,,,,
+130,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+130,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+130,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1TUGCGN86IVY9,Answer.change,Speaking of sound have you tried holding a shell to your ear?
+,,,,,
+130,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.continuation,I have listened to shells many times.  My Mom used to tell me the ocean was talking to me.
+,,,,,
+130,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,Did you listen to more than one at a time?
+,,,,,
+131,0,---,---,prompt,I love walking along the beach.
+,,,,,
+131,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+131,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+131,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1TUGCGN86IVY9,Answer.change,Speaking of sound have you tried holding a shell to your ear?
+,,,,,
+131,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.elaboration,I also love the sound of the surf especially because it may mean that there are big waves.
+,,,,,
+131,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,I love experiencing the thrill of big waves hitting me.
+,,,,,
+132,0,---,---,prompt,I love walking along the beach.
+,,,,,
+132,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+132,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+132,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1TUGCGN86IVY9,Answer.change,Speaking of sound have you tried holding a shell to your ear?
+,,,,,
+132,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A13NOSGEQMNGP8,Answer.joking,How about all the sand in the car after the beach?  That's no fun at all!
+,,,,,
+132,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AE3CVK2OYA242,Answer.joking,If you get enough sand in your car you can let the little ones play in the floorboards!
+,,,,,
+133,0,---,---,prompt,I love walking along the beach.
+,,,,,
+133,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+133,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+133,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1TUGCGN86IVY9,Answer.continuation,Oh the sound is so delightful especially when taking a nap.
+,,,,,
+133,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1WML1ZP2ISAR7,Answer.change,"It is, I love when the water is warm around 80 degrees."
+,,,,,
+133,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2H95HBWH0YW5Z,Answer.change,"I remember that one time I thought a shark touched me and it was just some seaweed, but I went running out of the water screaming anyway."
+,,,,,
+134,0,---,---,prompt,I love walking along the beach.
+,,,,,
+134,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+134,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+134,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1TUGCGN86IVY9,Answer.continuation,Oh the sound is so delightful especially when taking a nap.
+,,,,,
+134,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1WML1ZP2ISAR7,Answer.continuation,"Me, too although not when the sand is hot. That is why I walk near the water."
+,,,,,
+134,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.continuation,Beaches are just the ultimate getaway.
+,,,,,
+135,0,---,---,prompt,I love walking along the beach.
+,,,,,
+135,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+135,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+135,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1TUGCGN86IVY9,Answer.continuation,Oh the sound is so delightful especially when taking a nap.
+,,,,,
+135,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1WML1ZP2ISAR7,Answer.joking,"Yes, until you fall sound asleep and the waves crash down on you cause you did not hear them."
+,,,,,
+135,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3S9Y0BS49QC1I,Answer.elaboration,Oh do you have trouble sleeping at times? I do too
+,,,,,
+136,0,---,---,prompt,I love walking along the beach.
+,,,,,
+136,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+136,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+136,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1TUGCGN86IVY9,Answer.elaboration,Well the surf actually helps keep the sand nice and clean.
+,,,,,
+136,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1WML1ZP2ISAR7,Answer.continuation,I love walking on the beach too. I especially like to find shells.
+,,,,,
+136,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A3MDIA7JN82PF,Answer.joking,"I'm always so worried that a crab will be in a seashell I come across, and it will bite my finger off or something!"
+,,,,,
+137,0,---,---,prompt,I love walking along the beach.
+,,,,,
+137,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+137,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.joking,The sound of the surf is my favorite part.
+,,,,,
+137,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1TUGCGN86IVY9,Answer.elaboration,Well the surf actually helps keep the sand nice and clean.
+,,,,,
+137,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1WML1ZP2ISAR7,Answer.elaboration,I love the sand as well but not in my car. it is really hard to clean out.
+,,,,,
+137,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I like taking long rides in the car.
+,,,,,
+138,0,---,---,prompt,I love walking along the beach.
+,,,,,
+138,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+138,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.change,But the seagulls  pooping everywhere makes it a little gross.
+,,,,,
+138,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,"Stepping on sea shells is another hazard at the beach. If you get your foot cut, always remember to disinfect it since open wounds can pick up infections at the beach."
+,,,,,
+138,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ECRNQ3X5LEXD,Answer.elaboration,I also love the sunset at the beach too.
+,,,,,
+138,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,I love seeing the sunset anywhere.
+,,,,,
+139,0,---,---,prompt,I love walking along the beach.
+,,,,,
+139,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+139,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.change,But the seagulls  pooping everywhere makes it a little gross.
+,,,,,
+139,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,"Stepping on sea shells is another hazard at the beach. If you get your foot cut, always remember to disinfect it since open wounds can pick up infections at the beach."
+,,,,,
+139,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ECRNQ3X5LEXD,Answer.joking,"It is so great when it gets really cold at the beach, I just love it."
+,,,,,
+139,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,AJF954955YWZG,Answer.elaboration,I bet it would be so epic to see snow at the beach.
+,,,,,
+140,0,---,---,prompt,I love walking along the beach.
+,,,,,
+140,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+140,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.change,But the seagulls  pooping everywhere makes it a little gross.
+,,,,,
+140,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,The sand feels good as it squishes between your toes.
+,,,,,
+140,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.change,"Sometime I think about maybe getting a boat, I bet that's fun, too."
+,,,,,
+140,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A17VJGXGBNEL9E,Answer.joking,oh sure . Magellan you are not  !!!  :)
+,,,,,
+141,0,---,---,prompt,I love walking along the beach.
+,,,,,
+141,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+141,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.change,But the seagulls  pooping everywhere makes it a little gross.
+,,,,,
+141,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,The sand feels good as it squishes between your toes.
+,,,,,
+141,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.continuation,"Ugh, now I'm thinking about what else squishes between my toes."
+,,,,,
+141,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I love being on the beach any chance i get.
+,,,,,
+142,0,---,---,prompt,I love walking along the beach.
+,,,,,
+142,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+142,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.change,But the seagulls  pooping everywhere makes it a little gross.
+,,,,,
+142,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,The sand feels good as it squishes between your toes.
+,,,,,
+142,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.elaboration,"And the water can rush over your feet every now and then, that's nice, too."
+,,,,,
+142,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,"Yea, feeling the cold water hit my toes is amazing."
+,,,,,
+143,0,---,---,prompt,I love walking along the beach.
+,,,,,
+143,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+143,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.change,But the seagulls  pooping everywhere makes it a little gross.
+,,,,,
+143,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,The sand feels good as it squishes between your toes.
+,,,,,
+143,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.joking,I try to squish the seagulls between my toes but they're too quick for me.
+,,,,,
+143,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2YE2I9DYV9OKW,Answer.elaboration,"Ha ha. It would be nice to be able to get rid of them, though. They're so annoying! When I bring food I always feel like I need to watch out so they don't try to steal it."
+,,,,,
+144,0,---,---,prompt,I love walking along the beach.
+,,,,,
+144,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+144,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.change,But the seagulls  pooping everywhere makes it a little gross.
+,,,,,
+144,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.joking,"People are always trying to say how beautiful and majestic nature is, but I estimate that it's about 30% poop."
+,,,,,
+144,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1WML1ZP2ISAR7,Answer.change,Well some travel magazines could show you a lot of places to go if you want to take a trip someday.
+,,,,,
+144,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,Oh yea? I thought they featured food.
+,,,,,
+145,0,---,---,prompt,I love walking along the beach.
+,,,,,
+145,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+145,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.change,But the seagulls  pooping everywhere makes it a little gross.
+,,,,,
+145,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.joking,"People are always trying to say how beautiful and majestic nature is, but I estimate that it's about 30% poop."
+,,,,,
+145,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1WML1ZP2ISAR7,Answer.continuation,I would say that most of it  is beautiful although there are areas that could be classified as poop.
+,,,,,
+145,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2H95HBWH0YW5Z,Answer.change,Okay let's stop talking about poop. Since we're at the beach do you wanna go get some poop-free boardwalk fries?
+,,,,,
+146,0,---,---,prompt,I love walking along the beach.
+,,,,,
+146,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+146,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.change,But the seagulls  pooping everywhere makes it a little gross.
+,,,,,
+146,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2YE2I9DYV9OKW,Answer.joking,"People are always trying to say how beautiful and majestic nature is, but I estimate that it's about 30% poop."
+,,,,,
+146,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1WML1ZP2ISAR7,Answer.elaboration,"Look at the Grand Canyon or the desserts, the Redwood Forest of Niagara Falls, they are all majestic."
+,,,,,
+146,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.continuation,"Yea, they are all natural elements."
+,,,,,
+147,0,---,---,prompt,I love walking along the beach.
+,,,,,
+147,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+147,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.continuation,"On the plus side, after a few trips you can make your kids a sandbox."
+,,,,,
+147,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.change,Maybe I should build the kids a tree house. We've got a big tree in the back yard with some nice large low-hanging branches. How hard do you think that would be?
+,,,,,
+147,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.change,I love owning houses with wooded backyards. Nothing feels better than to lay out under a tree and sun yourself on a warm day.
+,,,,,
+147,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,I just love being able to relax in the nice weather.
+,,,,,
+148,0,---,---,prompt,I love walking along the beach.
+,,,,,
+148,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+148,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.continuation,"On the plus side, after a few trips you can make your kids a sandbox."
+,,,,,
+148,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.change,Maybe I should build the kids a tree house. We've got a big tree in the back yard with some nice large low-hanging branches. How hard do you think that would be?
+,,,,,
+148,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.continuation,It depends on the age of the tree and what kinds of permits you might have to file. My grand father built me a treehouse and each year he'd expand it as his gift to me.
+,,,,,
+148,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,Did it ever fall?
+,,,,,
+149,0,---,---,prompt,I love walking along the beach.
+,,,,,
+149,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+149,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.continuation,"On the plus side, after a few trips you can make your kids a sandbox."
+,,,,,
+149,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.change,Maybe I should build the kids a tree house. We've got a big tree in the back yard with some nice large low-hanging branches. How hard do you think that would be?
+,,,,,
+149,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,I hope your kids can have the same fond memories that I did of playing in one.
+,,,,,
+149,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2RKPHMUAYF2P9,Answer.change,Do you think your dad is cool because of what he built?
+,,,,,
+150,0,---,---,prompt,I love walking along the beach.
+,,,,,
+150,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+150,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.continuation,"On the plus side, after a few trips you can make your kids a sandbox."
+,,,,,
+150,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A2ZOM62DKMSWDK,Answer.change,Maybe I should build the kids a tree house. We've got a big tree in the back yard with some nice large low-hanging branches. How hard do you think that would be?
+,,,,,
+150,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.joking,My treehouse even had power and a tv!
+,,,,,
+150,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2H95HBWH0YW5Z,Answer.continuation,"Oh, I don't know if we could do all that. Don't you think that's a bit much?"
+,,,,,
+151,0,---,---,prompt,I love walking along the beach.
+,,,,,
+151,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+151,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.continuation,"On the plus side, after a few trips you can make your kids a sandbox."
+,,,,,
+151,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,Collecting sea shells is another exciting activity at the beach.
+,,,,,
+151,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1U37XNO6J1R9G,Answer.change,I love when you can see all the different fish in the ocean.
+,,,,,
+151,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.elaboration,"yea, I love seeing all of the different colors."
+,,,,,
+152,0,---,---,prompt,I love walking along the beach.
+,,,,,
+152,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+152,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.continuation,"On the plus side, after a few trips you can make your kids a sandbox."
+,,,,,
+152,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,Collecting sea shells is another exciting activity at the beach.
+,,,,,
+152,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1U37XNO6J1R9G,Answer.continuation,Sea shells are so pretty and make a great decoration in your house.
+,,,,,
+152,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.joking,"Yea, sea shells sure are the best?"
+,,,,,
+153,0,---,---,prompt,I love walking along the beach.
+,,,,,
+153,1,3FSCUW4D3155ZMY8XWDGAF3EBF2SSB,A1SZ98O1SZSBCP,Answer.joking,"I love the beach. I especially love how the sand sticks to your feet, and when you leave you get a car full of sand to remind you of how much you love the beach."
+,,,,,
+153,2,30MUBYSPBOO7B3L0SN4EJTC4ULRSKW,A3EQR9C0L23O6E,Answer.continuation,"On the plus side, after a few trips you can make your kids a sandbox."
+,,,,,
+153,3,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,AE3CVK2OYA242,Answer.elaboration,Collecting sea shells is another exciting activity at the beach.
+,,,,,
+153,4,3NN44GVSBIJT5CKVWCJ0E21WYEFFGW,A1U37XNO6J1R9G,Answer.elaboration,I really enjoying when you put a sea shell to your ear and you can hear the ocean.
+,,,,,
+153,5,3FKWIKNZF8II659Y8YV0Q733NAJE7C,A2L7S6RZOZ6NM9,Answer.change,I just like picking up shells. Ya know.
